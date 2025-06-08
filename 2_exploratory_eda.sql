@@ -76,3 +76,22 @@ where years is not null
 
 select * from compnay_year_rank
 where ranking <= 5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

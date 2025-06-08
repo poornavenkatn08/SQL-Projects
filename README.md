@@ -1,30 +1,34 @@
-Layoffs Analysis (SQL Project)
+# Layoffs Analysis (SQL Project)
 
-This project focuses on data cleaning and exploratory data analysis using SQL on a dataset of tech company layoffs.
+This project focuses on cleaning and analyzing a real-world dataset of layoffs in the tech industry using SQL.
 
-🧹 Data Cleaning
-- Removed duplicates using ROW_NUMBER
-- Standardized company names, industries, and date formats
-- Handled nulls and missing values
-- Normalized country names and industries
+## ✨ Highlights
 
-📊 Exploratory Data Analysis
-- Total layoffs by company, industry, and year
-- Trends over time (monthly/yearly)
-- Highest layoff events and rolling totals
-- Country and stage-wise breakdowns
+- Cleaned and standardized a messy layoffs dataset
+- Removed duplicates using `ROW_NUMBER()`
+- Standardized company names, industries, and countries
+- Converted dates to SQL-native formats
+- Identified trends, top companies affected, and year-over-year layoffs
 
-📁 Files
+## 📂 Structure
 
-- `sql/1_data_cleaning.sql`: Cleans and preprocesses the raw data
-- `sql/2_exploratory_eda.sql`: Performs deep analysis on cleaned data
-🔧 Tools Used
-- MySQL
-- SQL Window Functions, Aggregates, CTEs
-🚀 How to Run
-1. Import the dataset into MySQL
-2. Run `1_data_cleaning.sql`
-3. Then run `2_exploratory_eda.sql` to view insights
+- `sql/` – SQL scripts for cleaning and EDA
+- `data/` – Raw or sample data files
+- `results/` – Insights and output interpretations
 
- 📄 License
-MIT
+## 🚀 Run Guide
+
+1. Load dataset into MySQL DB
+2. Execute `sql/1_data_cleaning.sql`
+3. Run `sql/2_exploratory_eda.sql` for insights
+4. Review `results/key_insights.md`
+
+## 📌 Skills Showcased
+
+- Data cleaning using SQL functions
+- Window functions & aggregates
+- CTEs and subqueries
+- Time-based trend analysis
+
+## 📄 License
+[MIT](../LICENSE)

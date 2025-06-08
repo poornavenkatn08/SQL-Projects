@@ -86,11 +86,11 @@ MODIFY COLUMN `DATE` date;
  from layoffs_stag2
  where total_laid_off is NULL
  and percentage_laid_off is null;
-
+ 
  update layoffs_stag2
  set industry = null
  where industry = '';
-
+ 
   select *
  from layoffs_stag2
  where industry is null
@@ -124,8 +124,20 @@ DELETE
  where total_laid_off is NULL
  and percentage_laid_off is null;
 
+
 ALTER TABLE layoffs_stag2
 DROP COLUMN ROW_NUM;
 
+
 select count(*)
 from layoffs_stag2;
+
+
+
+
+
+
+
+
+
+
