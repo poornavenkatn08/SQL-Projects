@@ -17,7 +17,7 @@ This repository demonstrates proficiency in:
 **Technologies**: MySQL, Advanced SQL Functions, Window Functions  
 **Skills**: Data Cleaning, Trend Analysis, Statistical Analysis
 
-[View Project →]
+[View Project →].01_tech_layoffs_analysis
 
 **Key Achievements:**
 - Cleaned 10,000+ records with 95% data quality improvement
