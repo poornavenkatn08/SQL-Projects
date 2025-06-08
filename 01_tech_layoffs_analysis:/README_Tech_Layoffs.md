@@ -6,7 +6,7 @@ Comprehensive analysis of tech industry layoffs using SQL to identify trends, pa
 
 ## 📊 Dataset Information
 - **Source**: Layoffs.fyi and various tech news sources
-- **Size**: 10,000+ records
+- **Size**: 2,000+ records
 - **Time Period**: 2020-2024
 - **Industries**: 15+ tech sectors
 - **Companies**: 500+ organizations
