@@ -17,24 +17,13 @@ This repository demonstrates proficiency in:
 **Technologies**: MySQL, Advanced SQL Functions, Window Functions  
 **Skills**: Data Cleaning, Trend Analysis, Statistical Analysis
 
-[View Project →](./01_tech_layoffs_analysis/)
+[View Project →](./01_tech_layoffs_analysis:/)
 
 **Key Achievements:**
 - Cleaned 10,000+ records with 95% data quality improvement
 - Identified industry trends across 500+ companies
 - Reduced query execution time by 60% through optimization
 
-### 2. Sales Performance Dashboard *(Coming Soon)*
-**Technologies**: PostgreSQL, CTEs, Stored Procedures  
-**Skills**: Business Intelligence, KPI Development, Reporting
-
-[View Project →](./02_sales_performance_dashboard/)
-
-### 3. Customer Segmentation Analysis *(Coming Soon)*
-**Technologies**: SQL Server, Statistical Functions, Clustering  
-**Skills**: Customer Analytics, Segmentation, Retention Analysis
-
-[View Project →](./03_customer_segmentation/)
 
 ## 🛠️ Technical Skills
 
