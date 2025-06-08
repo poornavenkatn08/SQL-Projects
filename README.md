@@ -60,8 +60,8 @@ This repository demonstrates proficiency in:
 
 ## 📞 Contact
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **LinkedIn**:https://www.linkedin.com/in/pneelakantam/
+- **Email**: pvneelakantam@gmail.com
 - **GitHub**: [github.com/poornavenkatn08](https://github.com/poornavenkatn08)
 
 ---
