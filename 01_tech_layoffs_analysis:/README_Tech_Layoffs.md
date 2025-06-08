@@ -68,10 +68,9 @@ Comprehensive analysis of tech industry layoffs using SQL to identify trends, pa
 | File | Purpose | Key Techniques |
 |------|---------|----------------|
 | `01_database_setup.sql` | Database/table creation | DDL, Constraints |
-| `02_data_import.sql` | Data loading | LOAD DATA, Error handling |
-| `03_data_cleaning.sql` | Data standardization | ROW_NUMBER(), CASE, TRIM |
-| `04_exploratory_eda.sql` | Basic analysis | Aggregations, GROUP BY |
-| `05_advanced_analysis.sql` | Complex analytics | Window functions, CTEs |
+| `02_data_cleaning.sql` | Data standardization | ROW_NUMBER(), CASE, TRIM |
+| `03_exploratory_eda.sql` | Basic analysis | Aggregations, GROUP BY |
+
 
 ## 🎯 Skills Demonstrated
 
