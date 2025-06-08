@@ -1,8 +1,9 @@
 /*
 ==============================================================================
 PROJECT: Tech Industry Layoffs Analysis - Data Cleaning Pipeline
-AUTHOR: Poorna Venkat Neelakntam
-
+AUTHOR: [Your Name]
+DATE CREATED: 2024
+LAST MODIFIED: December 2024
 
 PURPOSE: 
 Comprehensive data cleaning and preparation pipeline for tech layoffs dataset.

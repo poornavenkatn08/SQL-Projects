@@ -3,6 +3,7 @@
 PROJECT: Tech Industry Layoffs Analysis - Exploratory Data Analysis
 AUTHOR: Poorna Venkat Neelakantam
 
+
 PURPOSE: 
 Comprehensive exploratory data analysis of tech industry layoffs providing
 business insights through statistical analysis, trend identification, and
