@@ -1,9 +1,7 @@
 /*
 ==============================================================================
 PROJECT: Tech Industry Layoffs Analysis - Exploratory Data Analysis
-AUTHOR: [Your Name]
-DATE CREATED: 2024
-LAST MODIFIED: December 2024
+AUTHOR: Poorna Venkat Neelakantam
 
 PURPOSE: 
 Comprehensive exploratory data analysis of tech industry layoffs providing
