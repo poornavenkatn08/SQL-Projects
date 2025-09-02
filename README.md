@@ -20,7 +20,7 @@ This repository demonstrates proficiency in:
 [View Project →](./01_tech_layoffs_analysis:/)
 
 **Key Achievements:**
-- Cleaned 10,000+ records with 95% data quality improvement
+- Cleaned 2,000+ records with 95% data quality improvement
 - Identified industry trends across 500+ companies
 - Reduced query execution time by 60% through optimization
 
