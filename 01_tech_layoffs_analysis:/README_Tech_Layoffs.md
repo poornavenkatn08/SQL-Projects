@@ -1,84 +1,70 @@
 📉 Tech Industry Layoffs: Data Engineering & Analysis Pipeline
 📌 Project Overview
-This project presents a robust end-to-end data pipeline built in MySQL to process and analyze global tech layoff data from 2020 to 2023. The project is divided into two primary phases:
+This project presents a comprehensive end-to-end SQL solution for processing and analyzing global tech layoff data. Using MySQL, I built a robust pipeline that transforms raw, messy data into a clean, analytical-ready format to uncover trends regarding industry volatility, geographic impact, and company-stage risk assessments from 2020 to 2023.
 
-Data Engineering: A multi-stage cleaning process to transform a messy, raw dataset of 2,361 records into a high-integrity analytical source.
-
-Exploratory Data Analysis (EDA): Extracting business-critical insights regarding market volatility, geographic impact, and company-stage risk assessments.
-
-📊 Dataset Highlights
+📊 Dataset Insights
 Total Records: 2,361
 
 Unique Companies: 1,893
 
-Total Layoffs Tracked: 386,379+
+Global Impact: 386,379+ layoffs across 60 countries
 
-Geographic Scope: 60 Countries
+Timeframe: March 2020 – March 2023
 
-Time Period: March 2020 – March 2023
+🛠️ Project Phases
+Phase 1: Data Engineering & Cleaning (ETL)
 
-🛠️ Technical Workflow
-1. Data Cleaning & Transformation (ETL)
+The primary challenge was the inconsistency of the raw data. I implemented a multi-stage cleaning process in 01_data_cleaning.sql:
 
-To ensure the raw data didn't compromise the analysis, I implemented a rigorous cleaning strategy:
+Staging Environments: Created redundant staging tables (layoffs_staging and v2) to perform non-destructive cleaning.
 
-Staging Environments: Created layoffs_staging and layoffs_staging_v2 to perform non-destructive transformations.
-
-Deduplication: Utilized Window Functions (ROW_NUMBER() OVER(...)) to identify and remove duplicate records based on 9 distinct column partitions.
+Advanced Deduplication: Utilized Window Functions (ROW_NUMBER()) partitioned across all columns to identify and remove duplicate entries.
 
 Standardization:
 
-Normalized industry names (e.g., merging all 'Crypto' variations).
+Fixed industry inconsistencies (e.g., standardizing 'Crypto' and 'Crypto Currency').
 
-Cleaned geographic data (e.g., removing trailing periods in "United States").
+Cleaned trailing punctuation in country names (e.g., 'United States.').
 
-Converted VARCHAR temporal data into proper DATE formats using STR_TO_DATE.
+Converted string-based dates to DATE format using STR_TO_DATE for time-series compatibility.
 
-Data Imputation: Employed Self-Joins to backfill null industry fields by matching records against historical company entries (e.g., populating "Travel" for missing Airbnb records).
+Data Imputation: Performed Self-Joins to backfill missing industry data by matching records for the same company and location.
 
-Filtering: Removed 362 records that lacked both total layoff numbers and percentage data, as they provided no analytical value.
+Precision Filtering: Removed entries with insufficient data (nulls in both total and percentage fields) to maintain the integrity of statistical averages.
 
-2. Exploratory Data Analysis (EDA)
+Phase 2: Exploratory Data Analysis (EDA)
 
-With a clean dataset, I conducted deep-dive queries to identify trends:
+In 02_exploratory_analysis.sql, I developed complex queries to extract business intelligence:
 
-Temporal Analysis: Calculated year-over-year growth and 3-month rolling averages of layoffs to identify seasonal risk periods.
+Temporal Trends: Calculated year-over-year growth and 3-month rolling averages to visualize layoff surges.
 
-Impact Ranking: Used DENSE_RANK to identify the companies and industries with the highest layoff volumes.
+Company Benchmarking: Used DENSE_RANK() to identify the top 5 companies by layoff volume for each year.
 
-Risk Assessment: Analyzed the "Shutdown Rate" across company stages (Seed, Series A-E, Post-IPO) to determine which funding stages were most vulnerable to market shifts.
+Risk Profiling: Analyzed "Shutdown Rates" (100% layoffs) by company funding stage and industry sector.
 
-🚀 Key Insights
-Market Leader Impact: Post-IPO companies accounted for the largest volume of layoffs, despite having higher funding levels.
+Geographic Analysis: Identified the top 15 countries by total employees affected to understand the epicenter of market contraction.
 
-Geographic Concentration: The United States represented the highest volume of global layoffs within this period.
+🚀 Key Findings
+Post-IPO Vulnerability: While startups (Seed/Series A) had higher total shutdown rates, Post-IPO companies accounted for the vast majority of total employees displaced.
 
-Sector Volatility: The Consumer and Retail industries experienced significantly higher frequency of layoff events compared to others.
+Industry Clusters: The Consumer and Retail sectors were the most volatile, showing the highest frequency of layoff events globally.
 
-📂 Project Structure
-Bash
-├── 01_data_cleaning.sql        # The ETL pipeline (Raw -> Staging -> Clean)
-├── 02_exploratory_analysis.sql # Complex queries for business insights
-├── layoffs_Raw.csv             # Original dataset
-└── README.md                   # Project documentation
-💻 How to Use
-Clone the Repo:
+Seasonality: Analysis of monthly trends revealed specific periods of high risk, assisting in forecasting workforce market shifts.
 
-Bash
-git clone https://github.com/poornavenkatn08/SQL-Projects.git
-Import Data: Load layoffs_Raw.csv into your MySQL environment.
+📂 File Structure
+01_data_cleaning.sql: SQL script for database setup and ETL pipeline.
 
-Run Pipeline: Execute 01_data_cleaning.sql first to create the layoffs_cleaned table.
+02_exploratory_analysis.sql: SQL script for statistical analysis and KPIs.
 
-Run Analysis: Execute 02_exploratory_analysis.sql to view the insights and KPIs.
+layoffs_Raw.csv: The original uncleaned dataset (2,300+ rows).
 
-📬 Contact
-Poorna Venkat Neelakantam
+⚙️ Setup Instructions
+Clone the Repository: git clone https://github.com/poornavenkatn08/SQL-Projects.git
 
-LinkedIn: linkedin.com/in/pneelakantam/
+Database Creation: Execute the setup commands at the top of 01_data_cleaning.sql.
 
-Email: pvneelakantam@gmail.com
+Data Import: Import layoffs_Raw.csv into your layoffs table.
 
-GitHub: poornavenkatn08
+Run Pipeline: Execute the cleaning script followed by the analysis script to see the results.
 
-If you find this project helpful, please consider giving it a ⭐!
+Poorna Venkat Neelakantam LinkedIn | Email | GitHub
