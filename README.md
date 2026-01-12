@@ -11,7 +11,7 @@ Welcome to my SQL portfolio. This repository is a collection of end-to-end proje
 * **Key Result:** Identified a 15% volatility spike in the Retail sector and tracked impact across 380k+ global employees.
 * **Tech:** MySQL, Self-Joins, Rolling Averages, Indexing.
 
-*(Add more projects here as you build them)*
+
 
 ## 🛠️ Technical Toolkit
 * **Dialects:** MySQL (Expert), PostgreSQL (Intermediate)
