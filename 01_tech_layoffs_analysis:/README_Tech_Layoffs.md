@@ -1,100 +1,84 @@
+📉 Tech Industry Layoffs: Data Engineering & Analysis Pipeline
+📌 Project Overview
+This project presents a robust end-to-end data pipeline built in MySQL to process and analyze global tech layoff data from 2020 to 2023. The project is divided into two primary phases:
 
-# Tech Industry Layoffs Analysis
+Data Engineering: A multi-stage cleaning process to transform a messy, raw dataset of 2,361 records into a high-integrity analytical source.
 
-## 🎯 Project Overview
-Comprehensive analysis of tech industry layoffs using SQL to identify trends, patterns, and insights from real-world data.
+Exploratory Data Analysis (EDA): Extracting business-critical insights regarding market volatility, geographic impact, and company-stage risk assessments.
 
-## 📊 Dataset Information
-- **Source**: Layoffs.fyi and various tech news sources
-- **Size**: 2,000+ records
-- **Time Period**: 2020-2024
-- **Industries**: 15+ tech sectors
-- **Companies**: 500+ organizations
+📊 Dataset Highlights
+Total Records: 2,361
 
-## 🛠️ Technical Approach
+Unique Companies: 1,893
 
-### Data Cleaning Process
-1. **Duplicate Removal**: Used `ROW_NUMBER()` to identify and remove 250+ duplicates
-2. **Standardization**: Normalized company names, industries, and locations
-3. **Date Conversion**: Converted string dates to SQL DATE format
-4. **Null Handling**: Implemented business rules for missing values
+Total Layoffs Tracked: 386,379+
 
-### Analysis Methodology
-1. **Trend Analysis**: Year-over-year layoff patterns
-2. **Company Analysis**: Top affected organizations
-3. **Industry Impact**: Sector-wise layoff distribution
-4. **Geographic Analysis**: Regional patterns and trends
+Geographic Scope: 60 Countries
 
-## 📈 Key Findings
+Time Period: March 2020 – March 2023
 
-### Executive Summary
-- **Total Layoffs Analyzed**: 150,000+ positions
-- **Peak Layoff Period**: Q4 2022 - Q2 2023
-- **Most Affected Industry**: Social Media/Platforms
-- **Geographic Impact**: Highest in Bay Area, Seattle
+🛠️ Technical Workflow
+1. Data Cleaning & Transformation (ETL)
 
-### Detailed Insights
-- 45% of layoffs occurred in the first half of 2023
-- Meta, Amazon, and Twitter led in absolute numbers
-- Startups had higher layoff rates (% of workforce) than established companies
-- Remote-first companies showed different patterns than office-based
+To ensure the raw data didn't compromise the analysis, I implemented a rigorous cleaning strategy:
 
-## 🚀 How to Run
+Staging Environments: Created layoffs_staging and layoffs_staging_v2 to perform non-destructive transformations.
 
-### Prerequisites
-- MySQL 8.0+
-- Minimum 2GB RAM
-- 500MB disk space
+Deduplication: Utilized Window Functions (ROW_NUMBER() OVER(...)) to identify and remove duplicate records based on 9 distinct column partitions.
 
-### Setup Instructions
-1. **Database Setup**
-   ```sql
-   source sql/01_database_setup.sql
-   ```
+Standardization:
 
-2. **Data Import**
-   ```sql
-   source sql/02_data_import.sql
-   ```
+Normalized industry names (e.g., merging all 'Crypto' variations).
 
-3. **Run Analysis**
-   ```sql
-   source sql/03_data_cleaning.sql
-   source sql/04_exploratory_eda.sql
-   ```
+Cleaned geographic data (e.g., removing trailing periods in "United States").
 
-## 📁 File Descriptions
+Converted VARCHAR temporal data into proper DATE formats using STR_TO_DATE.
 
-| File | Purpose | Key Techniques |
-|------|---------|----------------|
-| `01_database_setup.sql` | Database/table creation | DDL, Constraints |
-| `02_data_cleaning.sql` | Data standardization | ROW_NUMBER(), CASE, TRIM |
-| `03_exploratory_eda.sql` | Basic analysis | Aggregations, GROUP BY |
+Data Imputation: Employed Self-Joins to backfill null industry fields by matching records against historical company entries (e.g., populating "Travel" for missing Airbnb records).
 
+Filtering: Removed 362 records that lacked both total layoff numbers and percentage data, as they provided no analytical value.
 
-## 🎯 Skills Demonstrated
+2. Exploratory Data Analysis (EDA)
 
-### Technical Skills
-- **Data Cleaning**: Deduplication, standardization, validation
-- **Window Functions**: ROW_NUMBER(), RANK(), LAG(), LEAD()
-- **Analytics**: Trend analysis, cohort analysis, statistical functions
-- **Performance**: Query optimization, indexing strategies
+With a clean dataset, I conducted deep-dive queries to identify trends:
 
-### Business Skills
-- **Problem Solving**: Handling messy, real-world data
-- **Insight Generation**: Translating data into actionable insights
-- **Communication**: Clear documentation and presentation
+Temporal Analysis: Calculated year-over-year growth and 3-month rolling averages of layoffs to identify seasonal risk periods.
 
-## 🔄 Future Enhancements
-- [ ] Add predictive modeling for future layoff trends
-- [ ] Implement real-time data pipeline
-- [ ] Create interactive dashboard
-- [ ] Add sentiment analysis from news sources
+Impact Ranking: Used DENSE_RANK to identify the companies and industries with the highest layoff volumes.
 
-## 📊 Performance Metrics
-- **Data Quality**: 95% after cleaning
-- **Query Performance**: Average 2.3s execution time
-- **Coverage**: 500+ companies across 15 industries
+Risk Assessment: Analyzed the "Shutdown Rate" across company stages (Seed, Series A-E, Post-IPO) to determine which funding stages were most vulnerable to market shifts.
 
-## 📞 Questions? 
-Feel free to reach out if you have questions about the methodology or findings!
+🚀 Key Insights
+Market Leader Impact: Post-IPO companies accounted for the largest volume of layoffs, despite having higher funding levels.
+
+Geographic Concentration: The United States represented the highest volume of global layoffs within this period.
+
+Sector Volatility: The Consumer and Retail industries experienced significantly higher frequency of layoff events compared to others.
+
+📂 Project Structure
+Bash
+├── 01_data_cleaning.sql        # The ETL pipeline (Raw -> Staging -> Clean)
+├── 02_exploratory_analysis.sql # Complex queries for business insights
+├── layoffs_Raw.csv             # Original dataset
+└── README.md                   # Project documentation
+💻 How to Use
+Clone the Repo:
+
+Bash
+git clone https://github.com/poornavenkatn08/SQL-Projects.git
+Import Data: Load layoffs_Raw.csv into your MySQL environment.
+
+Run Pipeline: Execute 01_data_cleaning.sql first to create the layoffs_cleaned table.
+
+Run Analysis: Execute 02_exploratory_analysis.sql to view the insights and KPIs.
+
+📬 Contact
+Poorna Venkat Neelakantam
+
+LinkedIn: linkedin.com/in/pneelakantam/
+
+Email: pvneelakantam@gmail.com
+
+GitHub: poornavenkatn08
+
+If you find this project helpful, please consider giving it a ⭐!
