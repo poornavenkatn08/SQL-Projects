@@ -1,0 +1,4273 @@
+State,City,Total_Orders,Total_Revenue,Unique_Customers
+AC,brasileia,1,139.53,1
+AC,cruzeiro do sul,3,1127.06,3
+AC,epitaciolandia,1,139.52,1
+AC,manoel urbano,1,248.71,1
+AC,porto acre,1,104.35,1
+AC,rio branco,69,16834.1,69
+AC,senador guiomard,2,547.09,2
+AC,xapuri,2,445.89,2
+AL,agua branca,1,132.1,1
+AL,anadia,2,462.59999999999997,2
+AL,arapiraca,29,10150.03,29
+AL,atalaia,1,137.65,1
+AL,barra de santo antonio,2,629.12,2
+AL,barra de sao miguel,2,226.64,2
+AL,batalha,3,308.09999999999997,3
+AL,belem,2,527.74,2
+AL,boca da mata,2,298.03,2
+AL,cajueiro,1,138.15,1
+AL,campo alegre,2,997.96,2
+AL,canapi,1,377.32,1
+AL,coite do noia,1,111.01,1
+AL,colonia leopoldina,2,531.85,2
+AL,coruripe,3,1359.09,3
+AL,delmiro gouveia,4,1353.71,4
+AL,dois riachos,1,152.25,1
+AL,feliz deserto,2,423.75,2
+AL,girau do ponciano,1,74.05,1
+AL,ibateguara,2,152.86,2
+AL,igaci,2,395.0,2
+AL,igreja nova,2,315.90999999999997,2
+AL,inhapi,2,1075.1,2
+AL,jequia da praia,2,351.24,2
+AL,junqueiro,2,464.40999999999997,2
+AL,lagoa da canoa,1,204.53,1
+AL,luziapolis,1,181.62,1
+AL,maceio,236,51644.96,236
+AL,mar vermelho,2,689.02,2
+AL,maragogi,5,2135.53,5
+AL,maravilha,2,297.54,2
+AL,marechal deodoro,1,379.2,1
+AL,maribondo,1,100.97,1
+AL,mata grande,2,469.34999999999997,2
+AL,matriz de camaragibe,1,84.9,1
+AL,monteiropolis,1,203.43,1
+AL,murici,1,84.05,1
+AL,novo lino,1,114.26,1
+AL,olho d'agua das flores,3,346.07,3
+AL,palmeira dos indios,8,1463.46,8
+AL,paripueira,1,379.2,1
+AL,passo de camaragibe,1,110.28,1
+AL,paulo jacinto,2,475.58000000000004,2
+AL,penedo,8,1592.67,8
+AL,piacabucu,2,320.4,2
+AL,pilar,3,168.36,3
+AL,pindoba,2,542.52,2
+AL,porto calvo,2,397.93,2
+AL,porto de pedras,1,200.35,1
+AL,rio largo,6,693.04,6
+AL,santa luzia do norte,1,44.95,1
+AL,santana do ipanema,1,285.45,1
+AL,santana do mundau,3,1268.01,3
+AL,sao bras,1,54.74,1
+AL,sao jose da laje,2,296.36,2
+AL,sao jose da tapera,1,144.47,1
+AL,sao luis do quitunde,2,351.54999999999995,2
+AL,sao miguel dos campos,2,1054.11,2
+AL,sao sebastiao,1,2269.98,1
+AL,satuba,2,438.32,2
+AL,tanque d'arca,2,611.54,2
+AL,taquarana,1,190.43,1
+AL,teotonio vilela,7,2331.9,7
+AL,traipu,1,63.79,1
+AL,uniao dos palmares,1,309.25,1
+AL,vicosa,1,56.05,1
+AM,coari,1,1259.04,1
+AM,humaita,4,458.4,4
+AM,itacoatiara,1,92.98,1
+AM,manaus,137,25542.82,137
+AM,urucurituba,2,242.94,2
+AP,laranjal do jari,2,426.17999999999995,2
+AP,macapa,53,13545.039999999999,53
+AP,oiapoque,1,425.24,1
+AP,porto grande,1,64.14,1
+AP,santana,9,1543.94,9
+AP,vitoria do jari,1,137.27,1
+BA,abaira,2,203.0,2
+BA,abare,2,224.73,2
+BA,abrantes,1,200.35,1
+BA,acajutiba,1,50.95,1
+BA,adustina,1,102.27,1
+BA,alagoinhas,40,7428.33,40
+BA,alcobaca,4,1481.9,4
+BA,amargosa,1,71.81,1
+BA,amelia rodrigues,3,430.02000000000004,3
+BA,america dourada,1,217.92,1
+BA,anage,1,97.38,1
+BA,andarai,1,109.5,1
+BA,andorinha,5,797.61,5
+BA,angical,1,293.5,1
+BA,anguera,1,144.99,1
+BA,antonio cardoso,2,439.92,2
+BA,antonio goncalves,1,51.69,1
+BA,apora,1,65.7,1
+BA,apuarema,1,204.38,1
+BA,aracatu,1,95.76,1
+BA,araci,3,358.24,3
+BA,aramari,2,222.56,2
+BA,arataca,1,865.78,1
+BA,arembepe,2,494.05999999999995,2
+BA,aribice,1,76.15,1
+BA,arraial d ajuda,1,90.7,1
+BA,arraial d'ajuda,7,739.08,7
+BA,baianopolis,2,493.28,2
+BA,baixa grande,1,66.24,1
+BA,banzae,1,127.42,1
+BA,barra,2,194.84,2
+BA,barra da estiva,7,1072.68,7
+BA,barra do choca,3,877.49,3
+BA,barra do mendes,3,383.28,3
+BA,barra do tarrachil,3,359.94,3
+BA,barreiras,51,12694.48,51
+BA,barro alto,2,132.18,2
+BA,barro preto,1,146.58,1
+BA,barrocas,1,118.26,1
+BA,belmonte,1,60.05,1
+BA,belo campo,3,257.64,3
+BA,biritinga,1,147.57,1
+BA,bom jesus da lapa,9,3153.69,9
+BA,bom jesus da serra,2,322.28999999999996,2
+BA,boninal,2,909.8,2
+BA,bonito,2,435.25,2
+BA,boquira,1,95.67,1
+BA,botupora,1,346.51,1
+BA,brejoes,1,143.34,1
+BA,brejolandia,1,34.78,1
+BA,brotas de macaubas,1,185.62,1
+BA,brumado,21,3330.52,21
+BA,buerarema,3,1116.81,3
+BA,buritirama,2,286.11,2
+BA,cabaceiras do paraguacu,1,48.69,1
+BA,cachoeira,4,573.71,4
+BA,cacule,3,615.05,3
+BA,caem,1,80.02,1
+BA,caetite,10,2300.45,10
+BA,cairu,1,78.64,1
+BA,caldas do jorro,1,394.52,1
+BA,caldeirao grande,2,268.87,2
+BA,camacan,6,1269.4,6
+BA,camacari,60,8722.58,60
+BA,camamu,8,1782.6,8
+BA,campo alegre de lourdes,1,124.89,1
+BA,campo formoso,10,4054.34,10
+BA,canapolis,1,30.44,1
+BA,canarana,1,130.59,1
+BA,canavieiras,6,1017.29,6
+BA,candeal,1,176.65,1
+BA,candeias,12,1426.3600000000001,12
+BA,candido sales,3,472.52,3
+BA,cansancao,7,998.3699999999999,7
+BA,canudos,1,232.89,1
+BA,capela do alto alegre,1,56.78,1
+BA,capim grosso,5,660.78,5
+BA,caraibas,1,249.8,1
+BA,caravelas,3,466.78,3
+BA,carinhanha,2,451.5,2
+BA,carnaiba do sertao,1,99.1,1
+BA,casa nova,6,1269.54,6
+BA,castro alves,2,101.76,2
+BA,catu,10,1763.24,10
+BA,catu de abrantes,2,1295.8600000000001,2
+BA,caturama,1,40.79,1
+BA,central,1,142.89,1
+BA,chorrocho,1,73.18,1
+BA,cicero dantas,9,4097.2,9
+BA,cipo,1,230.12,1
+BA,coaraci,4,1468.1200000000001,4
+BA,cocos,1,73.27,1
+BA,conceicao da feira,2,802.95,2
+BA,conceicao do almeida,1,120.14,1
+BA,conceicao do coite,9,1307.04,9
+BA,conceicao do jacuipe,3,247.07999999999998,3
+BA,conde,2,881.52,2
+BA,condeuba,1,73.83,1
+BA,coracao de maria,1,306.06,1
+BA,cordeiros,1,363.64,1
+BA,coribe,8,816.78,8
+BA,coronel joao sa,3,689.71,3
+BA,correntina,2,188.11,2
+BA,cotegipe,1,103.15,1
+BA,cravolandia,1,187.83,1
+BA,crisopolis,3,242.61,3
+BA,cristopolis,2,113.94999999999999,2
+BA,cruz das almas,18,2486.57,18
+BA,curaca,3,542.24,3
+BA,dario meira,2,225.26,2
+BA,dias d avila,1,61.79,1
+BA,dias d'avila,23,3044.98,23
+BA,dom basilio,3,172.70999999999998,3
+BA,dom macedo costa,1,82.83,1
+BA,elisio medrado,2,118.75,2
+BA,entre rios,6,1241.52,6
+BA,erico cardoso,1,24.88,1
+BA,esplanada,5,1808.34,5
+BA,euclides da cunha,5,625.62,5
+BA,eunapolis,36,7715.63,36
+BA,fatima,2,522.28,2
+BA,feira de santana,181,31427.0,181
+BA,filadelfia,1,99.16,1
+BA,formosa do rio preto,3,1628.16,3
+BA,gandu,4,507.45,4
+BA,gentio do ouro,1,121.1,1
+BA,gongogi,1,52.13,1
+BA,governador mangabeira,1,116.26,1
+BA,guanambi,36,5367.47,36
+BA,guaratinga,2,76.57,2
+BA,heliopolis,1,169.28,1
+BA,humildes,1,360.81,1
+BA,iacu,4,499.85,4
+BA,ibiajara,1,65.8,1
+BA,ibiassuce,2,218.42,2
+BA,ibicarai,5,559.6,5
+BA,ibicoara,3,359.84000000000003,3
+BA,ibipeba,1,86.39,1
+BA,ibipitanga,2,396.71999999999997,2
+BA,ibiraja,2,330.14,2
+BA,ibirapua,1,141.42,1
+BA,ibirataia,2,91.72,2
+BA,ibitiara,1,157.28,1
+BA,ibitira,1,421.03,1
+BA,ibitita,1,1534.58,1
+BA,ibotirama,7,3233.2,7
+BA,ichu,2,197.92,2
+BA,igapora,1,56.78,1
+BA,igrapiuna,1,52.05,1
+BA,iguai,2,587.1400000000001,2
+BA,ilheus,69,10500.1,69
+BA,inhambupe,7,1346.98,7
+BA,ipecaeta,1,40.19,1
+BA,ipiau,7,883.79,7
+BA,ipira,6,3423.98,6
+BA,ipupiara,1,525.85,1
+BA,iramaia,2,199.37,2
+BA,iraquara,5,510.63,5
+BA,irara,2,222.82,2
+BA,irece,13,2660.91,13
+BA,itabatan,2,196.39999999999998,2
+BA,itabela,4,529.97,4
+BA,itaberaba,9,1169.15,9
+BA,itabuna,60,9474.99,60
+BA,itacare,7,970.1999999999999,7
+BA,itagi,2,164.64,2
+BA,itagiba,2,144.86,2
+BA,itagimirim,1,193.06,1
+BA,itaguacu da bahia,1,267.89,1
+BA,itaju do colonia,1,56.69,1
+BA,itajuipe,3,852.2800000000001,3
+BA,itamaraju,11,1681.2,11
+BA,itamari,3,324.99,3
+BA,itambe,3,478.76,3
+BA,itamira,2,100.2,2
+BA,itanhem,1,278.66,1
+BA,itaparica,1,188.36,1
+BA,itape,1,258.56,1
+BA,itapetinga,18,3169.5,18
+BA,itapicuru,2,181.54,2
+BA,itapitanga,3,264.09,3
+BA,itarantim,3,574.72,3
+BA,itatim,3,400.46,3
+BA,itirucu,3,845.37,3
+BA,itiuba,4,387.5,4
+BA,itororo,2,709.37,2
+BA,ituacu,3,478.07000000000005,3
+BA,itubera,3,181.22,3
+BA,jacaraci,4,1040.27,4
+BA,jacobina,23,7693.92,23
+BA,jacuipe,1,34.78,1
+BA,jaguaquara,2,237.14000000000001,2
+BA,jandaira,1,77.98,1
+BA,jaua,1,177.38,1
+BA,jequie,34,5766.87,34
+BA,jeremoabo,6,1126.37,6
+BA,jiquirica,1,519.93,1
+BA,joao dourado,1,36.69,1
+BA,juazeiro,42,8662.05,42
+BA,jucurucu,2,478.31,2
+BA,jussari,2,213.19,2
+BA,jussiape,1,53.79,1
+BA,lagoa real,1,459.92,1
+BA,lamarao,1,81.34,1
+BA,lauro de freitas,72,10893.5,72
+BA,lencois,1,307.68,1
+BA,livramento de nossa senhora,5,777.5699999999999,5
+BA,luis eduardo magalhaes,36,9538.69,36
+BA,macaubas,8,1221.3899999999999,8
+BA,madre de deus,7,826.74,7
+BA,maiquinique,1,139.48,1
+BA,mairi,2,974.31,2
+BA,mansidao,1,65.78999999999999,1
+BA,maracas,5,877.0899999999999,5
+BA,maragogipe,2,195.04000000000002,2
+BA,mascote,2,158.99,2
+BA,mata de sao joao,11,1344.1799999999998,11
+BA,medeiros neto,7,797.29,7
+BA,miguel calmon,5,787.81,5
+BA,milagres,2,563.4399999999999,2
+BA,monte gordo,1,224.17,1
+BA,monte santo,1,40.0,1
+BA,morpara,2,393.72999999999996,2
+BA,morro de sao paulo,1,832.0,1
+BA,morro do chapeu,7,737.8399999999999,7
+BA,mucuge,1,285.74,1
+BA,mucuri,7,2385.9900000000002,7
+BA,mundo novo,1,157.28,1
+BA,muquem do sao francisco,2,104.21,2
+BA,muritiba,1,222.63,1
+BA,mutuipe,4,580.0899999999999,4
+BA,nazare,3,504.82000000000005,3
+BA,nova canaa,2,210.07999999999998,2
+BA,nova fatima,1,188.29,1
+BA,nova redencao,1,36.69,1
+BA,nova soure,3,325.43,3
+BA,nova vicosa,1,271.01,1
+BA,nucleo residencial pilar,8,2417.94,8
+BA,olindina,2,229.59,2
+BA,oliveira dos brejinhos,2,185.84,2
+BA,palmeiras,2,292.3,2
+BA,paramirim,5,555.47,5
+BA,paripiranga,2,156.65,2
+BA,pau brasil,1,315.92,1
+BA,paulo afonso,39,7842.14,39
+BA,pedrao,1,343.71,1
+BA,piata,2,131.35,2
+BA,pilao arcado,4,364.68,4
+BA,pindai,2,171.54,2
+BA,pindobacu,3,243.72,3
+BA,pintadas,2,520.5,2
+BA,pirai do norte,1,46.28,1
+BA,piripa,2,110.84,2
+BA,piritiba,5,512.1899999999999,5
+BA,planaltino,1,254.44,1
+BA,planalto,1,116.45,1
+BA,pocoes,2,399.2,2
+BA,pojuca,13,1820.78,13
+BA,ponto novo,1,377.0,1
+BA,porto seguro,39,11671.6,39
+BA,posto da mata,4,620.13,4
+BA,potiragua,7,644.7,7
+BA,prado,5,1234.5900000000001,5
+BA,presidente dutra,3,246.62,3
+BA,presidente janio quadros,1,173.88,1
+BA,presidente tancredo neves,4,325.58,4
+BA,queimadas,4,937.5699999999999,4
+BA,quijingue,2,268.06,2
+BA,quixabeira,3,309.42,3
+BA,remanso,5,487.98999999999995,5
+BA,retirolandia,1,117.0,1
+BA,riachao das neves,2,247.76999999999998,2
+BA,riachao do jacuipe,5,2613.59,5
+BA,riacho de santana,4,1302.47,4
+BA,ribeira do amparo,1,61.79,1
+BA,ribeira do pombal,8,782.36,8
+BA,rio de contas,3,290.72,3
+BA,rio do antonio,2,301.75,2
+BA,rio do pires,4,731.25,4
+BA,rio real,3,480.6,3
+BA,rodelas,3,464.75,3
+BA,ruy barbosa,7,921.15,7
+BA,salinas da margarida,1,82.12,1
+BA,salobro,1,89.15,1
+BA,salvador,1188,207790.89,1188
+BA,santa brigida,1,104.73,1
+BA,santa cruz cabralia,5,605.1800000000001,5
+BA,santa ines,3,351.77,3
+BA,santa maria da vitoria,13,2185.07,13
+BA,santa teresinha,2,338.1,2
+BA,santaluz,3,333.97,3
+BA,santana,3,258.77,3
+BA,santana do sobrado,1,54.82,1
+BA,santo amaro,10,2066.74,10
+BA,santo antonio de jesus,29,5060.15,29
+BA,santo estevao,5,1226.69,5
+BA,sao desiderio,1,161.19,1
+BA,sao domingos,3,239.44,3
+BA,sao felipe,2,827.01,2
+BA,sao felix,1,44.69,1
+BA,sao felix do coribe,1,266.06,1
+BA,sao francisco do conde,3,367.33000000000004,3
+BA,sao jose da vitoria,2,225.76000000000002,2
+BA,sao miguel das matas,1,221.0,1
+BA,sao sebastiao do passe,5,550.53,5
+BA,sapeacu,2,303.47,2
+BA,satiro dias,1,41.29,1
+BA,saubara,1,228.6,1
+BA,saude,2,169.98000000000002,2
+BA,seabra,6,1148.26,6
+BA,senhor do bonfim,18,3047.41,18
+BA,sento se,1,76.08,1
+BA,serra do ramalho,4,406.72,4
+BA,serra dourada,2,234.2,2
+BA,serrinha,14,2314.11,14
+BA,serrolandia,2,363.65999999999997,2
+BA,simoes filho,21,5223.07,21
+BA,sitio do quinto,2,131.65,2
+BA,sobradinho,5,783.74,5
+BA,tabocas do brejo velho,3,199.96,3
+BA,taboquinhas,1,303.27,1
+BA,tanhacu,4,609.8,4
+BA,tanque novo,3,447.39,3
+BA,tapiramuta,2,1476.8999999999999,2
+BA,teixeira de freitas,28,4143.1,28
+BA,teodoro sampaio,1,87.28,1
+BA,teofilandia,3,236.92000000000002,3
+BA,teolandia,4,260.77,4
+BA,trancoso,6,995.19,6
+BA,tucano,8,969.5799999999999,8
+BA,uaua,3,473.04,3
+BA,ubaira,6,884.91,6
+BA,ubaitaba,4,667.9300000000001,4
+BA,ubata,1,210.18,1
+BA,uibai,4,639.36,4
+BA,umburanas,1,123.75,1
+BA,una,4,541.51,4
+BA,urandi,2,767.8100000000001,2
+BA,urucuca,2,257.27,2
+BA,utinga,3,396.97,3
+BA,valenca,35,7406.42,35
+BA,valente,9,3614.1000000000004,9
+BA,varzea do poco,1,73.83,1
+BA,varzea nova,1,108.53,1
+BA,varzedo,1,65.53,1
+BA,vera cruz,7,1394.82,7
+BA,vereda,2,356.65,2
+BA,vitoria da conquista,88,19252.21,88
+BA,wagner,1,147.69,1
+BA,wanderley,2,333.11,2
+BA,wenceslau guimaraes,1,137.5,1
+BA,xique-xique,3,230.56,3
+CE,abaiara,2,332.15,2
+CE,acarau,8,1639.94,8
+CE,acopiara,7,901.67,7
+CE,aiuaba,1,147.38,1
+CE,altaneira,2,496.26,2
+CE,alto santo,3,801.01,3
+CE,amanari,1,419.39,1
+CE,amontada,1,81.57,1
+CE,antonina do norte,1,130.58,1
+CE,apuiares,2,421.56,2
+CE,aquiraz,1,398.85,1
+CE,aracati,21,3413.0,21
+CE,aracoiaba,3,592.44,3
+CE,araripe,1,155.0,1
+CE,aratuba,2,429.74,2
+CE,arneiroz,2,462.53,2
+CE,assare,1,118.26,1
+CE,aurora,3,444.7,3
+CE,banabuiu,1,139.61,1
+CE,barbalha,6,1515.4099999999999,6
+CE,barreira,1,142.01,1
+CE,barro,4,769.02,4
+CE,baturite,3,551.09,3
+CE,beberibe,3,1823.9099999999999,3
+CE,bela cruz,4,1024.47,4
+CE,boa viagem,3,546.76,3
+CE,brejo santo,10,1949.35,10
+CE,camocim,8,2078.27,8
+CE,campos sales,4,1853.7799999999997,4
+CE,caninde,6,814.2,6
+CE,capistrano,1,72.16,1
+CE,caridade,1,99.9,1
+CE,carire,3,236.28,3
+CE,caririacu,2,519.14,2
+CE,carius,3,618.69,3
+CE,carnaubal,2,265.88,2
+CE,cascavel,5,1254.75,5
+CE,catarina,3,295.29,3
+CE,caucaia,35,7092.72,35
+CE,cedro,1,356.11,1
+CE,chaval,1,179.45,1
+CE,chorozinho,1,398.42,1
+CE,coreau,1,54.81,1
+CE,crateus,9,2779.4,9
+CE,crato,18,3847.13,18
+CE,croata,1,87.8,1
+CE,cruz,7,1772.56,7
+CE,deputado irapuan pinheiro,2,239.0,2
+CE,dourado,1,218.58,1
+CE,erere,1,226.23,1
+CE,eusebio,13,2707.57,13
+CE,flores,1,149.9,1
+CE,forquilha,4,477.45,4
+CE,fortaleza,618,112951.56,618
+CE,fortim,1,205.53,1
+CE,frecheirinha,2,213.71,2
+CE,granja,5,700.3,5
+CE,groairas,1,178.5,1
+CE,guaiuba,2,762.05,2
+CE,guaraciaba do norte,4,738.15,4
+CE,guassusse,1,169.92,1
+CE,hidrolandia,7,1251.75,7
+CE,horizonte,5,639.41,5
+CE,ibiapina,3,289.34000000000003,3
+CE,ibicuitinga,1,54.62,1
+CE,icapui,5,638.4000000000001,5
+CE,ico,8,2355.35,8
+CE,iguatu,14,4202.5,14
+CE,independencia,1,136.05,1
+CE,ipaporanga,2,453.81,2
+CE,ipaumirim,1,307.11,1
+CE,ipu,4,545.2,4
+CE,ipueiras,3,1805.78,3
+CE,iracema,2,308.77,2
+CE,iraucuba,2,244.13,2
+CE,itaicaba,1,70.03,1
+CE,itaitinga,3,638.5500000000001,3
+CE,itapage,1,236.13,1
+CE,itapaje,6,3425.08,6
+CE,itapipoca,10,1482.91,10
+CE,itapiuna,2,106.24,2
+CE,itarema,1,99.95,1
+CE,jaguaribara,1,125.23,1
+CE,jaguaribe,5,861.8000000000001,5
+CE,jaguaruana,4,1339.3,4
+CE,jardim,2,473.44000000000005,2
+CE,jijoca de jericoacoara,4,1262.22,4
+CE,juazeiro do norte,31,8138.34,31
+CE,jucas,1,363.96,1
+CE,lages,1,78.1,1
+CE,lagoa do mato,1,61.62,1
+CE,lavras da mangabeira,2,986.46,2
+CE,limoeiro do norte,11,1492.55,11
+CE,madalena,1,176.24,1
+CE,maracanau,31,5915.2300000000005,31
+CE,maranguape,3,345.53,3
+CE,marco,3,756.76,3
+CE,massape,2,182.79000000000002,2
+CE,mauriti,1,57.28,1
+CE,meruoca,2,160.85,2
+CE,milagres,2,452.89,2
+CE,milha,2,288.29999999999995,2
+CE,miraima,2,291.3,2
+CE,missao velha,1,40.62,1
+CE,missi,1,152.95,1
+CE,mombaca,1,247.98,1
+CE,monsenhor tabosa,3,412.32000000000005,3
+CE,morada nova,9,1571.6,9
+CE,morrinhos,4,1124.79,4
+CE,mucambo,1,149.14,1
+CE,nova olinda,3,1792.93,3
+CE,nova russas,7,1842.03,7
+CE,novo oriente,3,321.4,3
+CE,ocara,2,162.69,2
+CE,oros,2,160.71,2
+CE,pacajus,6,1520.0,6
+CE,pacatuba,5,4469.860000000001,5
+CE,pacoti,2,222.29000000000002,2
+CE,pacuja,1,538.39,1
+CE,palhano,1,136.6,1
+CE,paracuru,4,705.92,4
+CE,paraipaba,5,706.54,5
+CE,parambu,4,269.22,4
+CE,pedra branca,2,88.15,2
+CE,penaforte,2,559.03,2
+CE,pentecoste,2,299.21,2
+CE,pereiro,3,379.74,3
+CE,pindoretama,1,63.18,1
+CE,pires ferreira,1,43.79,1
+CE,porteiras,1,42.18,1
+CE,potengi,2,331.95,2
+CE,quixada,12,3176.57,12
+CE,quixelo,2,200.25,2
+CE,quixeramobim,6,1119.97,6
+CE,quixere,2,837.1600000000001,2
+CE,redencao,4,1297.66,4
+CE,reriutaba,3,1331.6299999999999,3
+CE,russas,9,4622.34,9
+CE,saboeiro,1,201.83,1
+CE,santa quiteria,5,1139.12,5
+CE,santana do acarau,4,1563.58,4
+CE,santana do cariri,3,946.6800000000001,3
+CE,sao benedito,4,1058.76,4
+CE,sao goncalo do amarante,5,521.31,5
+CE,sao luis do curu,2,258.71,2
+CE,senador pompeu,4,718.11,4
+CE,sobral,33,12440.17,33
+CE,solonopole,2,785.74,2
+CE,sucesso,3,485.92,3
+CE,tabuleiro do norte,1,71.88,1
+CE,taperuaba,1,82.42,1
+CE,taua,10,1251.37,10
+CE,tiangua,9,2732.68,9
+CE,trairi,2,543.53,2
+CE,tururu,1,215.6,1
+CE,ubajara,3,1414.6299999999999,3
+CE,uruburetama,1,87.8,1
+CE,uruoca,2,295.57,2
+CE,varjota,4,901.1800000000001,4
+CE,varzea alegre,2,198.65,2
+CE,vicosa do ceara,1,43.79,1
+DF,brasilia,2071,345221.87,2071
+DF,ceilandia,1,68.84,1
+DF,guara,2,130.99,2
+DF,santa maria,1,34.09,1
+DF,sobradinho,1,115.94,1
+DF,taguatinga,4,574.44,4
+ES,afonso claudio,11,1767.92,11
+ES,agua doce do norte,4,463.52,4
+ES,aguia branca,1,31.13,1
+ES,alegre,17,3265.0099999999998,17
+ES,alfredo chaves,7,1052.6100000000001,7
+ES,alto rio novo,2,327.23,2
+ES,anchieta,14,2387.85,14
+ES,angelo frechiani,1,43.6,1
+ES,apiaca,6,534.42,6
+ES,arace,4,491.18,4
+ES,aracruz,40,5102.98,40
+ES,araguaia,1,67.23,1
+ES,atilio vivacqua,1,107.78,1
+ES,baixo guandu,8,1617.1699999999998,8
+ES,barra de sao francisco,9,797.29,9
+ES,boa esperanca,7,1312.95,7
+ES,bom jesus do norte,4,781.8499999999999,4
+ES,braco do rio,2,138.93,2
+ES,brejetuba,1,144.54,1
+ES,cachoeiro de itapemirim,121,19175.45,121
+ES,cariacica,135,19353.08,135
+ES,castelo,18,1990.94,18
+ES,celina,2,208.23,2
+ES,colatina,63,8456.83,63
+ES,conceicao da barra,3,398.59,3
+ES,conceicao do castelo,5,658.0,5
+ES,divino de sao lourenco,1,149.16,1
+ES,domingos martins,9,1353.6299999999999,9
+ES,dores do rio preto,4,526.33,4
+ES,ecoporanga,8,1145.83,8
+ES,fundao,4,437.33,4
+ES,governador lindenberg,2,136.28,2
+ES,guacui,16,4311.75,16
+ES,guarapari,66,11951.82,66
+ES,ibatiba,9,1724.6,9
+ES,ibiracu,1,57.5,1
+ES,iconha,5,390.13,5
+ES,irupi,2,287.63,2
+ES,itaguacu,7,1972.99,7
+ES,itaipava,4,520.02,4
+ES,itaoca,2,497.2,2
+ES,itapemirim,4,459.34,4
+ES,itarana,3,1010.02,3
+ES,iuna,2,176.26999999999998,2
+ES,jacigua,2,175.11,2
+ES,jaguare,13,1513.1,13
+ES,jeronimo monteiro,2,321.11,2
+ES,joao neiva,8,911.4,8
+ES,laranja da terra,1,85.6,1
+ES,linhares,64,13987.34,64
+ES,mantenopolis,4,503.02000000000004,4
+ES,marataizes,16,3274.31,16
+ES,marechal floriano,5,681.38,5
+ES,marilandia,8,1593.22,8
+ES,mimoso do sul,9,853.56,9
+ES,montanha,10,1862.77,10
+ES,mucurici,1,415.66,1
+ES,muniz freire,2,279.13,2
+ES,muqui,4,574.38,4
+ES,nova venecia,19,2956.59,19
+ES,novo brasil,1,103.75,1
+ES,pacotuba,1,69.14,1
+ES,pancas,1,198.9,1
+ES,paraju,1,105.74,1
+ES,pedro canario,5,476.55,5
+ES,piacu,1,194.48,1
+ES,pinheiros,8,1182.51,8
+ES,piuma,17,2590.17,17
+ES,ponto belo,1,98.56,1
+ES,praia grande,1,75.08,1
+ES,presidente kennedy,2,282.31,2
+ES,quilometro 14 do mutum,1,66.01,1
+ES,rio bananal,4,332.32,4
+ES,rio novo do sul,6,653.44,6
+ES,santa leopoldina,1,107.78,1
+ES,santa maria de jetiba,15,2231.06,15
+ES,santa teresa,10,1313.65,10
+ES,santo antonio do canaa,1,194.88,1
+ES,sao domingos do norte,7,1028.5,7
+ES,sao gabriel da palha,13,1732.64,13
+ES,sao joao de petropolis,1,43.09,1
+ES,sao joao do sobrado,1,73.56,1
+ES,sao jose do calcado,6,1127.26,6
+ES,sao mateus,47,7691.8,47
+ES,sao roque do canaa,5,436.01,5
+ES,serra,278,41555.07,278
+ES,sooretama,5,456.35,5
+ES,vargem alta,5,372.35,5
+ES,vargem grande do soturno,1,111.02,1
+ES,venda nova do imigrante,15,3171.23,15
+ES,viana,21,3937.27,21
+ES,vila nelita,2,167.98000000000002,2
+ES,vila valerio,8,1632.29,8
+ES,vila velha,326,54654.53,326
+ES,vitoria,373,61443.55,373
+GO,abadiania,1,1025.52,1
+GO,acreuna,7,1306.45,7
+GO,agua fria de goias,1,167.81,1
+GO,agua limpa,1,416.8,1
+GO,aguas lindas de goias,24,2788.8,24
+GO,alexania,5,568.25,5
+GO,alto horizonte,2,285.15,2
+GO,alto paraiso de goias,9,1963.35,9
+GO,alvorada do norte,3,221.72,3
+GO,americano do brasil,3,346.28999999999996,3
+GO,anapolis,111,20029.82,111
+GO,anicuns,8,809.19,8
+GO,aparecida de goiania,105,16558.56,105
+GO,apore,1,197.38,1
+GO,aragarcas,3,247.60000000000002,3
+GO,aragoiania,1,112.9,1
+GO,araguapaz,2,160.89,2
+GO,arenopolis,1,128.9,1
+GO,aruana,2,180.31,2
+GO,aurilandia,1,176.2,1
+GO,barro alto,1,123.33,1
+GO,bela vista de goias,7,753.35,7
+GO,bom jardim de goias,1,25.1,1
+GO,bom jesus,8,1112.53,8
+GO,bonfinopolis,2,512.6,2
+GO,brazabrantes,2,82.7,2
+GO,britania,1,105.37,1
+GO,buriti alegre,1,48.22,1
+GO,cabeceiras,1,33.13,1
+GO,cachoeira alta,6,605.48,6
+GO,cachoeira dourada,2,185.02,2
+GO,cacu,8,1163.53,8
+GO,caiaponia,4,428.97,4
+GO,caldas novas,36,6204.57,36
+GO,campinacu,1,195.91,1
+GO,campinorte,7,1400.61,7
+GO,campo alegre de goias,2,240.27,2
+GO,campos belos,7,927.53,7
+GO,campos verdes,1,413.04,1
+GO,carmo do rio verde,2,206.32,2
+GO,castelandia,5,688.41,5
+GO,catalao,33,6317.65,33
+GO,cavalcante,2,228.07,2
+GO,ceres,7,2116.38,7
+GO,cezarina,1,31.72,1
+GO,chapadao do ceu,8,1343.25,8
+GO,cidade ocidental,8,876.5699999999999,8
+GO,cocalzinho de goias,1,203.08,1
+GO,corumba de goias,2,163.28,2
+GO,corumbaiba,4,256.47,4
+GO,cristalina,8,2275.49,8
+GO,crixas,8,1129.44,8
+GO,crominia,1,61.0,1
+GO,cumari,2,229.51,2
+GO,damianopolis,2,63.84,2
+GO,diorama,2,266.92,2
+GO,divinopolis de goias,1,94.3,1
+GO,domiciano ribeiro,2,149.38,2
+GO,doverlandia,2,311.87,2
+GO,edeia,4,560.9100000000001,4
+GO,fazenda nova,4,407.77,4
+GO,firminopolis,7,832.5,7
+GO,flores de goias,1,43.22,1
+GO,formosa,34,6124.12,34
+GO,formoso,1,61.93,1
+GO,goianapolis,4,1224.04,4
+GO,goiandira,1,113.13,1
+GO,goianesia,17,2516.58,17
+GO,goiania,660,113351.2,660
+GO,goianira,8,1057.77,8
+GO,goias,8,1236.73,8
+GO,goiatuba,10,2648.12,10
+GO,guapo,6,868.7,6
+GO,hidrolandia,1,74.5,1
+GO,hidrolina,2,218.96,2
+GO,iaciara,3,787.1200000000001,3
+GO,inaciolandia,3,952.92,3
+GO,indiara,4,449.47,4
+GO,inhumas,16,2733.51,16
+GO,ipameri,12,2399.96,12
+GO,ipiranga de goias,1,139.98,1
+GO,ipora,15,2362.54,15
+GO,itaberai,6,1151.08,6
+GO,itaguacu,2,114.10000000000001,2
+GO,itaguari,1,913.7,1
+GO,itaguaru,2,117.66,2
+GO,itaja,3,1001.9,3
+GO,itapaci,3,302.13,3
+GO,itapirapua,2,495.34000000000003,2
+GO,itapuranga,6,959.3100000000001,6
+GO,itumbiara,35,6489.07,35
+GO,jandaia,1,53.4,1
+GO,jaragua,7,755.0699999999999,7
+GO,jardim abc de goias,1,34.09,1
+GO,jatai,54,11337.93,54
+GO,jaupaci,1,105.28,1
+GO,jesupolis,2,195.34,2
+GO,joviania,5,472.11,5
+GO,jussara,3,130.91,3
+GO,leopoldo de bulhoes,1,300.76,1
+GO,luziania,33,5608.51,33
+GO,mambai,2,921.9,2
+GO,mara rosa,2,218.17000000000002,2
+GO,matrincha,2,207.18,2
+GO,maurilandia,4,334.51,4
+GO,mimoso de goias,1,179.12,1
+GO,minacu,11,1787.83,11
+GO,mineiros,25,4233.22,25
+GO,montividiu do norte,1,33.09,1
+GO,morrinhos,14,1804.72,14
+GO,morro agudo de goias,1,50.68,1
+GO,mossamedes,1,84.14,1
+GO,mozarlandia,7,1008.04,7
+GO,mundo novo,2,340.15,2
+GO,mutunopolis,1,58.56,1
+GO,nazario,2,274.39,2
+GO,neropolis,7,1464.02,7
+GO,niquelandia,13,1902.01,13
+GO,nova america,1,66.11,1
+GO,nova aurora,1,512.62,1
+GO,nova crixas,1,176.18,1
+GO,nova roma,1,67.59,1
+GO,nova veneza,4,419.0,4
+GO,novo gama,13,2001.4099999999999,13
+GO,novo planalto,1,46.29,1
+GO,orizona,6,657.08,6
+GO,ouro verde de goias,1,98.23,1
+GO,ouvidor,1,401.07,1
+GO,padre bernardo,4,263.69,4
+GO,palmeiras de goias,3,407.33,3
+GO,palminopolis,1,237.94,1
+GO,paranaiguara,3,293.35,3
+GO,parauna,4,610.16,4
+GO,piracanjuba,10,2211.4,10
+GO,piranhas,4,911.81,4
+GO,pirenopolis,4,355.74,4
+GO,pires do rio,12,3930.0299999999997,12
+GO,planaltina,10,949.34,10
+GO,planaltina de goias,2,131.61,2
+GO,pontalina,2,488.72,2
+GO,porangatu,13,2162.74,13
+GO,portelandia,2,130.63,2
+GO,posse,15,3940.71,15
+GO,quirinopolis,14,1789.8,14
+GO,rianapolis,4,534.47,4
+GO,rio verde,63,11778.15,63
+GO,rubiataba,7,1210.69,7
+GO,sanclerlandia,4,510.34000000000003,4
+GO,santa cruz de goias,2,779.6899999999999,2
+GO,santa fe de goias,4,1921.2700000000002,4
+GO,santa helena de goias,9,1733.6799999999998,9
+GO,santa rita do araguaia,7,972.03,7
+GO,santo antonio do descoberto,5,992.8800000000001,5
+GO,sao joao d'alianca,3,844.86,3
+GO,sao joao da parauna,1,187.84,1
+GO,sao luis de montes belos,7,1412.96,7
+GO,sao luiz do norte,1,148.33,1
+GO,sao miguel do araguaia,5,1518.03,5
+GO,sao patricio,1,172.96,1
+GO,sao simao,3,294.96,3
+GO,senador canedo,16,1790.29,16
+GO,serranopolis,3,1210.27,3
+GO,silvania,7,1373.15,7
+GO,simolandia,2,169.73,2
+GO,teresina de goias,1,96.8,1
+GO,trindade,24,4007.41,24
+GO,trombas,1,32.07,1
+GO,turvania,2,117.35000000000001,2
+GO,turvelandia,1,42.4,1
+GO,uruacu,17,2307.27,17
+GO,uruana,3,1355.9499999999998,3
+GO,urutai,3,184.79000000000002,3
+GO,valparaiso de goias,37,6424.51,37
+GO,vianopolis,3,616.76,3
+GO,vicentinopolis,2,420.55,2
+MA,acailandia,7,1233.48,7
+MA,alcantara,1,464.86,1
+MA,alto alegre do maranhao,1,123.32,1
+MA,alto alegre do pindare,1,259.56,1
+MA,alto parnaiba,5,948.0999999999999,5
+MA,amapa do maranhao,1,50.05,1
+MA,araguana,1,224.07,1
+MA,arame,1,64.14,1
+MA,arari,2,828.79,2
+MA,bacabal,11,3883.5,11
+MA,bacuri,3,444.21000000000004,3
+MA,balsas,17,6607.7300000000005,17
+MA,barra do corda,7,1354.34,7
+MA,barreirinhas,4,490.73,4
+MA,bela vista do maranhao,1,83.15,1
+MA,benedito leite,1,134.12,1
+MA,bequimao,1,386.15,1
+MA,boa vista do gurupi,2,154.75,2
+MA,bom jardim,1,60.05,1
+MA,bom jesus das selvas,2,301.41999999999996,2
+MA,brejo,1,138.24,1
+MA,buriti,1,229.9,1
+MA,buriticupu,4,837.4,4
+MA,cajapio,1,149.16,1
+MA,cajari,1,316.3,1
+MA,campestre do maranhao,2,340.95000000000005,2
+MA,candido mendes,1,316.58,1
+MA,cantanhede,1,735.85,1
+MA,capinzal do norte,2,460.6,2
+MA,carolina,2,500.69,2
+MA,carutapera,2,251.23000000000002,2
+MA,caxias,16,2604.15,16
+MA,cedral,3,1416.52,3
+MA,centro novo do maranhao,1,352.80999999999995,1
+MA,chapadinha,3,287.06,3
+MA,cidelandia,1,528.8,1
+MA,codo,7,2943.12,7
+MA,coelho neto,3,418.6,3
+MA,colinas,3,1263.4,3
+MA,coroata,9,1328.47,9
+MA,cururupu,3,754.67,3
+MA,dom pedro,3,438.68,3
+MA,esperantinopolis,3,771.4100000000001,3
+MA,estreito,3,427.65000000000003,3
+MA,formosa da serra negra,1,155.5,1
+MA,fortuna,3,661.92,3
+MA,goncalves dias,1,99.25,1
+MA,governador eugenio barros,1,417.45,1
+MA,grajau,5,965.51,5
+MA,guimaraes,1,252.11,1
+MA,humberto de campos,1,81.57,1
+MA,icatu,1,892.9,1
+MA,imperatriz,40,9144.78,40
+MA,itapecuru mirim,4,702.95,4
+MA,jatoba,1,186.36,1
+MA,joao lisboa,5,810.7099999999999,5
+MA,joselandia,1,109.18,1
+MA,lago da pedra,5,1038.96,5
+MA,lago verde,1,134.01,1
+MA,loreto,1,1643.64,1
+MA,magalhaes de almeida,1,323.52,1
+MA,maioba,2,696.9499999999999,2
+MA,maracacume,4,802.4200000000001,4
+MA,maranhaozinho,1,76.57,1
+MA,mata roma,2,260.90999999999997,2
+MA,matoes,1,106.3,1
+MA,matoes do norte,2,772.28,2
+MA,miranda do norte,1,154.64,1
+MA,mirinzal,3,311.65,3
+MA,moncao,1,143.36,1
+MA,nova olinda do maranhao,4,1724.3299999999997,4
+MA,olho d'agua das cunhas,2,370.97,2
+MA,paco do lumiar,7,1005.93,7
+MA,paraibano,3,422.91,3
+MA,parnarama,1,217.82,1
+MA,passagem franca,1,87.66,1
+MA,pastos bons,2,210.22,2
+MA,pedreiras,3,1141.76,3
+MA,peri mirim,1,59.83,1
+MA,pindare mirim,3,586.2,3
+MA,pinheiro,4,553.23,4
+MA,pio xii,1,546.03,1
+MA,pocao de pedras,1,214.05,1
+MA,porto franco,2,349.14,2
+MA,presidente dutra,11,2546.36,11
+MA,presidente juscelino,1,302.46,1
+MA,presidente medici,1,143.99,1
+MA,rosario,1,79.04,1
+MA,sambaiba,1,215.47,1
+MA,santa helena,3,892.14,3
+MA,santa ines,12,1956.91,12
+MA,santa luzia,2,313.52,2
+MA,santa luzia do parua,1,115.78,1
+MA,santa quiteria do maranhao,1,100.75,1
+MA,santa rita,1,124.33,1
+MA,sao benedito do rio preto,1,133.22,1
+MA,sao bento,2,661.03,2
+MA,sao bernardo,3,923.39,3
+MA,sao domingos do maranhao,2,219.51,2
+MA,sao francisco do brejao,1,82.75,1
+MA,sao joao batista,1,149.11,1
+MA,sao joao do paraiso,1,115.92,1
+MA,sao joao dos patos,7,1615.47,7
+MA,sao jose de ribamar,14,1870.87,14
+MA,sao luis,335,62155.04,335
+MA,sao mateus do maranhao,3,930.7,3
+MA,sao pedro da agua branca,1,336.56,1
+MA,sao vicente ferrer,1,314.37,1
+MA,satubinha,2,229.97000000000003,2
+MA,senador la rocque,1,124.43,1
+MA,sitio novo,1,59.14,1
+MA,sucupira do norte,2,404.20000000000005,2
+MA,timon,11,1415.47,11
+MA,tutoia,2,556.87,2
+MA,urbano santos,5,703.99,5
+MA,vargem grande,1,137.01,1
+MA,viana,5,845.14,5
+MA,vitoria do mearim,1,64.85,1
+MA,vitorino freire,3,1744.37,3
+MA,ze doca,5,878.9200000000001,5
+MG,abadia dos dourados,3,413.5,3
+MG,abaete,12,1946.81,12
+MG,abre campo,5,367.28999999999996,5
+MG,acaiaca,2,207.9,2
+MG,acucena,1,54.11,1
+MG,agua comprida,2,140.65,2
+MG,aguas formosas,5,1580.57,5
+MG,aguas vermelhas,3,692.89,3
+MG,aimores,10,1166.62,10
+MG,aiuruoca,4,365.03000000000003,4
+MG,alagoa,1,93.98,1
+MG,alem paraiba,28,3548.32,28
+MG,alexandrita,1,130.0,1
+MG,alfenas,43,6539.45,43
+MG,alfredo vasconcelos,3,616.74,3
+MG,almenara,14,3212.33,14
+MG,alpercata,2,260.77,2
+MG,alpinopolis,7,969.45,7
+MG,alterosa,3,308.64,3
+MG,alto caparao,2,522.0799999999999,2
+MG,alto jequitiba,3,275.43,3
+MG,alto rio doce,4,278.54999999999995,4
+MG,alvarenga,2,245.10999999999999,2
+MG,alvinopolis,11,1020.96,11
+MG,amparo da serra,1,66.06,1
+MG,andradas,12,4595.97,12
+MG,andrelandia,3,169.06,3
+MG,andrequice,1,215.14,1
+MG,angustura,1,166.29,1
+MG,antonio carlos,1,48.21,1
+MG,antonio pereira,2,122.32,2
+MG,antonio prado de minas,3,334.21,3
+MG,antunes,1,135.39,1
+MG,aracitaba,2,156.74,2
+MG,aracuai,9,1588.78,9
+MG,araguari,54,12048.94,54
+MG,arantina,1,204.41,1
+MG,araponga,2,305.13,2
+MG,arapora,5,1253.37,5
+MG,arapua,1,112.77,1
+MG,araujos,5,2711.2200000000003,5
+MG,araxa,75,15041.85,75
+MG,arceburgo,7,1160.83,7
+MG,arcos,25,5989.36,25
+MG,areado,6,1360.55,6
+MG,arinos,8,959.8199999999999,8
+MG,astolfo dutra,11,1509.69,11
+MG,ataleia,2,200.69,2
+MG,azurita,3,220.85000000000002,3
+MG,baependi,8,1587.39,8
+MG,baldim,2,699.0400000000001,2
+MG,bambui,18,2558.6800000000003,18
+MG,bandeira,3,419.21,3
+MG,bandeira do sul,2,466.28999999999996,2
+MG,barao de cocais,18,2452.94,18
+MG,barbacena,79,14209.71,79
+MG,barra longa,1,1341.55,1
+MG,barroso,11,1575.52,11
+MG,bela vista de minas,1,134.51,1
+MG,belo horizonte,2697,406050.87,2697
+MG,belo oriente,5,833.02,5
+MG,belo vale,3,374.48,3
+MG,berilo,1,78.22,1
+MG,berizal,1,221.98,1
+MG,bertopolis,1,82.12,1
+MG,betim,196,32101.51,196
+MG,bias fortes,2,108.47999999999999,2
+MG,bicas,7,868.55,7
+MG,boa esperanca,11,1769.0,11
+MG,bocaiuva,13,1943.22,13
+MG,bom despacho,38,5554.6,38
+MG,bom jardim de minas,8,1068.38,8
+MG,bom jesus da penha,2,120.84,2
+MG,bom jesus do amparo,1,218.54,1
+MG,bom jesus do galho,4,4923.81,4
+MG,bom repouso,4,487.94999999999993,4
+MG,bom sucesso,4,994.6999999999999,4
+MG,bonfim,4,308.54999999999995,4
+MG,bonfinopolis de minas,2,1433.75,2
+MG,bonito de minas,1,115.44,1
+MG,borda da mata,6,1062.25,6
+MG,botelhos,8,1456.47,8
+MG,bras pires,2,108.02,2
+MG,brasilandia de minas,1,98.49,1
+MG,brasilia de minas,9,922.92,9
+MG,brasopolis,1,115.9,1
+MG,braunas,1,105.28,1
+MG,brazopolis,6,1015.5,6
+MG,brejo bonito,1,153.9,1
+MG,brumadinho,26,2795.25,26
+MG,bueno brandao,4,238.32999999999998,4
+MG,buenopolis,4,1464.22,4
+MG,bugre,1,209.3,1
+MG,buritis,13,2045.45,13
+MG,buritizeiro,8,2911.23,8
+MG,cabeceira grande,3,348.75,3
+MG,cabo verde,3,519.17,3
+MG,cachoeira da prata,2,214.43,2
+MG,cachoeira de minas,6,557.9100000000001,6
+MG,cachoeira de pajeu,3,504.03,3
+MG,cachoeira do brumado,1,211.17,1
+MG,cachoeira do campo,2,909.84,2
+MG,cachoeira dourada,1,142.67,1
+MG,caetanopolis,8,805.62,8
+MG,caete,27,3144.06,27
+MG,caiana,3,285.61,3
+MG,cajuri,1,71.53,1
+MG,caldas,5,621.94,5
+MG,camacho,1,80.9,1
+MG,camanducaia,9,2381.76,9
+MG,cambui,22,3660.81,22
+MG,cambuquira,5,444.24,5
+MG,campanario,2,313.28999999999996,2
+MG,campanha,7,786.26,7
+MG,campestre,3,384.32,3
+MG,campina verde,10,868.85,10
+MG,campo alegre de minas,1,137.93,1
+MG,campo azul,1,96.22,1
+MG,campo belo,21,2218.31,21
+MG,campo do meio,4,309.08000000000004,4
+MG,campo florido,1,92.02,1
+MG,campos altos,5,498.61,5
+MG,campos gerais,4,571.17,4
+MG,canaa,1,69.54,1
+MG,canapolis,5,604.6800000000001,5
+MG,candeias,9,975.85,9
+MG,cantagalo,2,314.4,2
+MG,caparao,1,64.42,1
+MG,capela nova,1,121.27,1
+MG,capelinha,19,2968.12,19
+MG,capetinga,2,239.37,2
+MG,capim branco,2,187.17000000000002,2
+MG,capinopolis,11,1277.95,11
+MG,capitao andrade,1,199.0,1
+MG,capitao eneas,1,98.84,1
+MG,capitolio,5,590.12,5
+MG,caputira,2,590.6600000000001,2
+MG,carai,6,626.6899999999999,6
+MG,carandai,11,1386.44,11
+MG,carangola,25,4843.37,25
+MG,caratinga,62,11211.45,62
+MG,carbonita,4,841.12,4
+MG,careacu,2,169.58999999999997,2
+MG,carlos chagas,2,157.37,2
+MG,carmesia,1,280.63,1
+MG,carmo da cachoeira,4,370.64,4
+MG,carmo da mata,6,578.61,6
+MG,carmo de minas,3,699.53,3
+MG,carmo do cajuru,10,1932.42,10
+MG,carmo do paranaiba,16,4652.95,16
+MG,carmo do rio claro,9,1969.5300000000002,9
+MG,carmopolis de minas,5,1756.72,5
+MG,carneirinho,3,345.03,3
+MG,carrancas,3,180.62,3
+MG,carvalhopolis,3,308.84,3
+MG,cascalho rico,1,85.92,1
+MG,cassia,6,364.41,6
+MG,cataguases,32,5139.96,32
+MG,catas altas,5,1160.35,5
+MG,caxambu,16,2161.84,16
+MG,cedro do abaete,1,58.09,1
+MG,central de santa helena,1,158.76,1
+MG,centralina,1,45.09,1
+MG,chacara,2,226.28,2
+MG,chale,2,156.22,2
+MG,chapada do norte,2,411.87,2
+MG,chapada gaucha,4,528.01,4
+MG,chaveslandia,2,277.51,2
+MG,claraval,1,197.04,1
+MG,claro dos pocoes,1,123.68,1
+MG,claudio,20,3403.8,20
+MG,cocais,1,281.3,1
+MG,coimbra,1,55.01,1
+MG,coluna,3,344.56,3
+MG,comercinho,1,144.65,1
+MG,conceicao da aparecida,5,1063.65,5
+MG,conceicao da ibitipoca,1,55.09,1
+MG,conceicao das alagoas,3,1641.4,3
+MG,conceicao das pedras,4,412.05,4
+MG,conceicao do formoso,1,215.24,1
+MG,conceicao do mato dentro,12,1606.34,12
+MG,conceicao do para,3,749.55,3
+MG,conceicao do rio verde,5,970.15,5
+MG,conceicao dos ouros,4,714.92,4
+MG,confins,1,444.25,1
+MG,congonhal,4,568.19,4
+MG,congonhas,30,3618.83,30
+MG,conquista,6,602.4200000000001,6
+MG,conselheiro lafaiete,82,10750.73,82
+MG,conselheiro pena,15,2393.18,15
+MG,contagem,415,57240.61,415
+MG,coracao de jesus,3,173.38,3
+MG,corinto,11,1545.63,11
+MG,coroaci,2,374.99,2
+MG,coromandel,25,2956.71,25
+MG,coronel fabriciano,40,4914.66,40
+MG,coronel murta,1,255.84,1
+MG,coronel pacheco,1,99.9,1
+MG,corrego danta,1,57.62,1
+MG,corrego fundo,1,144.65,1
+MG,crisolita,2,134.24,2
+MG,cristais,3,249.61,3
+MG,cristalia,3,517.31,3
+MG,cristiano otoni,2,279.38,2
+MG,cristina,7,1168.74,7
+MG,crucilandia,1,30.47,1
+MG,cruzeiro da fortaleza,2,144.29999999999998,2
+MG,cruzilia,4,447.26,4
+MG,cuite velho,1,35.09,1
+MG,curvelo,42,6406.88,42
+MG,datas,1,920.94,1
+MG,delfim moreira,1,39.37,1
+MG,delfinopolis,3,318.02,3
+MG,descoberto,3,264.02000000000004,3
+MG,desembargador otoni,1,196.02,1
+MG,desterro de entre rios,1,58.28,1
+MG,desterro do melo,1,35.86,1
+MG,diamantina,27,2907.93,27
+MG,diogo de vasconcelos,2,244.70999999999998,2
+MG,dionisio,2,154.42000000000002,2
+MG,divinesia,1,333.51,1
+MG,divino,13,1466.1599999999999,13
+MG,divino das laranjeiras,1,51.1,1
+MG,divinolandia de minas,5,312.82,5
+MG,divinopolis,132,38392.73,132
+MG,divisa alegre,2,232.35000000000002,2
+MG,divisa nova,1,788.71,1
+MG,dom cavati,1,93.08,1
+MG,dom joaquim,1,163.38,1
+MG,dom silverio,4,484.12,4
+MG,dom vicoso,2,313.8,2
+MG,dona euzebia,2,354.94000000000005,2
+MG,dores de campos,8,1464.19,8
+MG,dores do indaia,7,928.86,7
+MG,durande,2,146.19,2
+MG,eloi mendes,10,2077.95,10
+MG,engenheiro navarro,1,2106.55,1
+MG,entre folhas,1,106.07,1
+MG,entre rios de minas,7,1709.6200000000001,7
+MG,ervalia,7,1230.45,7
+MG,esmeraldas,14,2043.24,14
+MG,espera feliz,19,3751.42,19
+MG,espinosa,6,2947.44,6
+MG,estevao de araujo,1,32.43,1
+MG,estiva,1,29.13,1
+MG,estrela do indaia,2,147.5,2
+MG,estrela do sul,1,105.28,1
+MG,eugenopolis,5,1071.39,5
+MG,ewbank da camara,1,98.16,1
+MG,extrema,39,5224.88,39
+MG,felicio dos santos,1,191.58,1
+MG,felisburgo,1,123.47,1
+MG,felixlandia,1,90.28,1
+MG,ferros,2,147.36,2
+MG,fervedouro,8,1128.6100000000001,8
+MG,florestal,3,382.47,3
+MG,fonseca,1,107.53,1
+MG,formiga,32,5033.34,32
+MG,formoso,2,867.1,2
+MG,francisco badaro,3,435.81,3
+MG,francisco dumont,2,141.87,2
+MG,francisco sa,3,599.75,3
+MG,frei gaspar,1,89.19,1
+MG,frei inocencio,5,733.89,5
+MG,frei lagonegro,1,260.34,1
+MG,fronteira,6,1079.53,6
+MG,fruta de leite,2,212.16,2
+MG,frutal,24,3923.15,24
+MG,gameleiras,3,529.94,3
+MG,glaura,1,89.36,1
+MG,goiabeira,2,302.27,2
+MG,goiana,3,137.25,3
+MG,goncalves,3,405.07000000000005,3
+MG,gouveia,4,1167.23,4
+MG,governador valadares,134,21475.72,134
+MG,grao mogol,3,999.3,3
+MG,grupiara,1,148.94,1
+MG,guanhaes,18,2313.75,18
+MG,guape,1,210.48,1
+MG,guaraciaba,2,246.93,2
+MG,guaranesia,9,972.8299999999999,9
+MG,guarani,7,2634.31,7
+MG,guarara,2,546.5699999999999,2
+MG,guarda-mor,2,123.10999999999999,2
+MG,guaxupe,37,6967.0,37
+MG,guidoval,2,400.11,2
+MG,guimarania,4,609.33,4
+MG,guinda,1,47.11,1
+MG,guiricema,1,161.56,1
+MG,iapu,4,497.92999999999995,4
+MG,ibertioga,1,181.21,1
+MG,ibia,8,1736.17,8
+MG,ibiai,3,689.95,3
+MG,ibiracatu,1,148.15,1
+MG,ibiraci,3,443.48,3
+MG,ibirite,47,8317.09,47
+MG,icarai de minas,2,313.03,2
+MG,igarape,9,2016.35,9
+MG,igaratinga,1,336.38,1
+MG,iguatama,3,360.4,3
+MG,ilicinea,1,105.28,1
+MG,imbe de minas,2,245.81,2
+MG,inconfidentes,2,208.97,2
+MG,indianopolis,1,48.31,1
+MG,ingai,1,109.38,1
+MG,inhapim,7,565.35,7
+MG,inhauma,2,161.21,2
+MG,inimutaba,2,376.39,2
+MG,ipaba,8,1585.26,8
+MG,ipanema,7,3916.27,7
+MG,ipatinga,169,25958.56,169
+MG,ipiacu,3,534.09,3
+MG,ipuiuna,1,188.34,1
+MG,irai de minas,2,536.9399999999999,2
+MG,itabira,77,12126.89,77
+MG,itabirinha,1,157.41,1
+MG,itabirito,28,5798.05,28
+MG,itacarambi,3,399.58000000000004,3
+MG,itaguara,2,76.47,2
+MG,itajuba,92,15992.36,92
+MG,itamarandiba,8,2036.27,8
+MG,itambacuri,6,727.89,6
+MG,itamogi,2,269.03,2
+MG,itamonte,10,1105.06,10
+MG,itanhandu,13,2113.88,13
+MG,itanhomi,4,375.53,4
+MG,itaobim,6,1026.56,6
+MG,itapagipe,5,341.5,5
+MG,itapecerica,13,1603.68,13
+MG,itapeva,5,386.1,5
+MG,itatiaiucu,2,167.15,2
+MG,itau de minas,5,460.03,5
+MG,itauna,56,9012.789999999999,56
+MG,itinga,3,434.67,3
+MG,itueta,2,508.94000000000005,2
+MG,ituiutaba,53,6593.01,53
+MG,iturama,14,1931.51,14
+MG,itutinga,1,96.01,1
+MG,jaboticatubas,1,808.87,1
+MG,jacinto,2,144.46,2
+MG,jacui,4,475.87,4
+MG,jacutinga,18,3136.24,18
+MG,jaguaracu,1,71.04,1
+MG,jaiba,6,799.04,6
+MG,jampruca,1,262.83,1
+MG,janauba,16,3646.2200000000003,16
+MG,januaria,22,4050.95,22
+MG,japaraiba,1,132.46,1
+MG,jeceaba,6,683.51,6
+MG,jenipapo de minas,1,22.58,1
+MG,jequeri,1,676.84,1
+MG,jequitai,2,243.3,2
+MG,jequitiba,2,703.86,2
+MG,jequitinhonha,11,1595.86,11
+MG,jesuania,5,461.09,5
+MG,joaima,1,53.0,1
+MG,joao monlevade,50,8232.52,50
+MG,joao pinheiro,16,2814.03,16
+MG,jordania,5,1047.2,5
+MG,juatuba,4,699.33,4
+MG,juiz de fora,423,74856.62,423
+MG,juruaia,6,470.59000000000003,6
+MG,juvenilia,2,109.1,2
+MG,ladainha,2,210.20999999999998,2
+MG,lagoa da prata,10,1884.08,10
+MG,lagoa dos patos,1,74.05,1
+MG,lagoa dourada,5,707.3,5
+MG,lagoa formosa,7,921.9200000000001,7
+MG,lagoa grande,4,2175.77,4
+MG,lagoa santa,58,9681.01,58
+MG,lajinha,3,567.69,3
+MG,lambari,8,1692.91,8
+MG,lamim,1,108.63,1
+MG,laranjal,1,316.3,1
+MG,lavras,80,14744.86,80
+MG,leandro ferreira,2,248.1,2
+MG,leopoldina,17,2038.21,17
+MG,liberdade,3,150.9,3
+MG,lima duarte,6,920.86,6
+MG,limeira do oeste,2,502.43000000000006,2
+MG,luisburgo,2,314.57,2
+MG,luizlandia do oeste,2,265.31,2
+MG,luminarias,3,468.68,3
+MG,luz,2,200.53,2
+MG,machacalis,2,175.17,2
+MG,machado,21,3182.8,21
+MG,macuco de minas,1,215.14,1
+MG,madre de deus de minas,3,422.11,3
+MG,major porto,1,100.33,1
+MG,malacacheta,7,1702.21,7
+MG,mamonas,1,246.36,1
+MG,manga,3,445.78999999999996,3
+MG,manhuacu,64,10066.62,64
+MG,manhumirim,16,2817.5299999999997,16
+MG,mantena,11,1946.55,11
+MG,mar de espanha,9,1191.57,9
+MG,maravilhas,4,516.36,4
+MG,maria da fe,3,365.65,3
+MG,mariana,33,5218.88,33
+MG,marilac,1,942.78,1
+MG,mario campos,3,690.9,3
+MG,martinesia,1,53.23,1
+MG,martinho campos,2,473.7,2
+MG,martins soares,6,613.9,6
+MG,mata verde,6,1667.51,6
+MG,materlandia,2,116.65,2
+MG,mateus leme,8,654.1,8
+MG,matias barbosa,13,2489.66,13
+MG,matipo,4,552.35,4
+MG,mato verde,3,651.31,3
+MG,matozinhos,12,944.16,12
+MG,matutina,2,167.66,2
+MG,medeiros,2,317.7,2
+MG,medina,6,694.4000000000001,6
+MG,mendes pimentel,5,477.73,5
+MG,mendonca,1,179.35,1
+MG,merces,4,285.82,4
+MG,mesquita,1,77.57,1
+MG,minas novas,4,507.14,4
+MG,minduri,1,43.18,1
+MG,miradouro,1,64.42,1
+MG,mirai,8,1132.43,8
+MG,miravania,1,50.1,1
+MG,moeda,1,85.46,1
+MG,moema,1,214.12,1
+MG,monsenhor paulo,1,69.12,1
+MG,montalvania,3,422.43,3
+MG,monte alegre de minas,4,302.91,4
+MG,monte azul,5,729.88,5
+MG,monte belo,5,1340.3,5
+MG,monte carmelo,23,3403.67,23
+MG,monte formoso,2,103.19,2
+MG,monte santo de minas,9,1018.0,9
+MG,monte siao,20,2866.44,20
+MG,monte verde,3,463.45000000000005,3
+MG,montes claros,207,30722.4,207
+MG,montezuma,2,220.35,2
+MG,morada nova de minas,3,730.37,3
+MG,morro da garca,1,227.14,1
+MG,morro do ferro,1,154.38,1
+MG,morro do pilar,1,87.64,1
+MG,morro vermelho,1,40.99,1
+MG,munhoz,4,477.12,4
+MG,muriae,63,12532.07,63
+MG,mutum,8,1589.8700000000001,8
+MG,muzambinho,9,840.63,9
+MG,nacip raydan,1,92.16,1
+MG,nanuque,25,2920.75,25
+MG,natercia,1,57.5,1
+MG,nazareno,2,190.26,2
+MG,nepomuceno,9,810.68,9
+MG,nova era,15,2565.16,15
+MG,nova lima,96,23112.170000000002,96
+MG,nova ponte,9,1638.5400000000002,9
+MG,nova resende,1,26.09,1
+MG,nova serrana,49,8693.69,49
+MG,novo cruzeiro,9,968.87,9
+MG,olaria,1,96.22,1
+MG,olhos d'agua,1,119.84,1
+MG,oliveira,22,3102.9700000000003,22
+MG,orizania,1,190.09,1
+MG,ouro branco,41,5283.79,41
+MG,ouro fino,16,2978.2200000000003,16
+MG,ouro preto,55,8149.91,55
+MG,ouro verde de minas,2,114.19,2
+MG,padre carvalho,1,582.94,1
+MG,padre paraiso,1,77.57,1
+MG,paineiras,1,81.98,1
+MG,pains,3,406.77,3
+MG,paiva,2,181.74,2
+MG,palma,4,504.05,4
+MG,palmopolis,1,113.2,1
+MG,papagaios,4,367.66,4
+MG,para de minas,37,7994.59,37
+MG,paracatu,62,10113.1,62
+MG,paraguacu,12,1826.29,12
+MG,paraisopolis,15,2453.2200000000003,15
+MG,paraopeba,9,1066.74,9
+MG,passa quatro,9,1906.52,9
+MG,passa tempo,1,146.46,1
+MG,passos,43,5196.44,43
+MG,patis,1,65.0,1
+MG,patos de minas,99,19269.36,99
+MG,patrocinio,45,8023.55,45
+MG,patrocinio do muriae,2,134.38,2
+MG,paula candido,1,168.19,1
+MG,pavao,1,75.63,1
+MG,pecanha,4,988.53,4
+MG,pedra azul,5,543.8,5
+MG,pedra do indaia,1,96.08,1
+MG,pedra menina,1,38.5,1
+MG,pedralva,3,844.3199999999999,3
+MG,pedrinopolis,3,553.3,3
+MG,pedro leopoldo,40,5875.05,40
+MG,pequi,1,197.5,1
+MG,perdigao,6,383.08,6
+MG,perdizes,8,1382.5,8
+MG,perdoes,9,752.01,9
+MG,periquito,2,1588.1,2
+MG,perpetuo socorro,2,182.3,2
+MG,pescador,1,44.42,1
+MG,piau,2,161.44,2
+MG,piedade de caratinga,7,799.83,7
+MG,piedade do rio grande,3,466.90000000000003,3
+MG,piedade dos gerais,3,440.15999999999997,3
+MG,pimenta,2,271.26,2
+MG,pingo-d'agua,1,413.02,1
+MG,pinhotiba,1,77.57,1
+MG,piracema,1,166.59,1
+MG,pirajuba,1,152.61,1
+MG,piranga,4,400.39,4
+MG,piranguinho,9,1689.85,9
+MG,pirapetinga,7,640.39,7
+MG,pirapora,42,7842.16,42
+MG,pirauba,3,307.69,3
+MG,pitangui,22,3064.2,22
+MG,piumhi,3,283.52,3
+MG,piumhii,28,4454.11,28
+MG,planura,2,151.1,2
+MG,poco fundo,8,1244.88,8
+MG,pocoes de paineiras,1,145.95,1
+MG,pocos de caldas,116,18309.36,116
+MG,pocrane,3,223.12,3
+MG,pompeu,11,1321.6699999999998,11
+MG,ponte nova,39,7823.69,39
+MG,ponto do marambaia,1,28.8,1
+MG,ponto dos volantes,2,74.3,2
+MG,porteirinha,5,358.05,5
+MG,porto firme,2,188.5,2
+MG,pote,3,577.53,3
+MG,pouso alegre,128,23967.97,128
+MG,pouso alto,3,302.81,3
+MG,prados,3,250.95,3
+MG,prata,10,1270.36,10
+MG,pratapolis,1,68.62,1
+MG,presidente kubitschek,2,156.06,2
+MG,presidente olegario,6,557.41,6
+MG,prudente de morais,2,168.49,2
+MG,quatituba,1,114.85,1
+MG,queixada,1,77.29,1
+MG,raposos,11,1297.31,11
+MG,raul soares,12,1357.77,12
+MG,ravena,1,86.73,1
+MG,recreio,3,334.19,3
+MG,resende costa,3,276.09000000000003,3
+MG,resplendor,10,944.5999999999999,10
+MG,ressaquinha,1,229.07,1
+MG,riachinho,2,124.05000000000001,2
+MG,riacho dos machados,3,331.25,3
+MG,ribeirao das neves,98,14774.8,98
+MG,ribeirao vermelho,2,352.53,2
+MG,ribeiro junqueira,1,200.33,1
+MG,rio acima,8,709.23,8
+MG,rio casca,5,433.47,5
+MG,rio doce,1,96.2,1
+MG,rio espera,1,176.45,1
+MG,rio manso,5,939.6800000000001,5
+MG,rio novo,4,613.25,4
+MG,rio paranaiba,9,881.48,9
+MG,rio pardo de minas,5,708.49,5
+MG,rio piracicaba,4,580.14,4
+MG,rio pomba,6,1464.8600000000001,6
+MG,rio preto,4,233.2,4
+MG,ritapolis,3,212.32999999999998,3
+MG,rodeiro,3,482.21,3
+MG,romaria,2,310.46,2
+MG,rubelita,1,80.88,1
+MG,rubim,3,289.48,3
+MG,sabara,42,5334.36,42
+MG,sabinopolis,5,412.4,5
+MG,sacramento,13,2358.54,13
+MG,salinas,22,5691.16,22
+MG,salto da divisa,2,151.66000000000003,2
+MG,santa barbara,25,5295.31,25
+MG,santa cruz de minas,5,710.39,5
+MG,santa cruz de salinas,2,261.72,2
+MG,santa cruz do prata,2,158.72,2
+MG,santa fe de minas,1,178.27,1
+MG,santa helena de minas,2,303.63,2
+MG,santa juliana,8,1880.37,8
+MG,santa luzia,89,13157.56,89
+MG,santa margarida,2,400.35,2
+MG,santa maria de itabira,4,570.49,4
+MG,santa maria do salto,1,50.48,1
+MG,santa maria do suacui,2,517.75,2
+MG,santa rita de caldas,6,882.22,6
+MG,santa rita de jacutinga,1,45.09,1
+MG,santa rita de minas,3,428.77,3
+MG,santa rita do ibitipoca,2,216.81,2
+MG,santa rita do itueto,1,77.57,1
+MG,santa rita do sapucai,35,4687.13,35
+MG,santa vitoria,17,4546.18,17
+MG,santana da vargem,4,353.6,4
+MG,santana de pirapama,1,70.74,1
+MG,santana do capivari,1,39.52,1
+MG,santana do deserto,1,206.99,1
+MG,santana do jacare,4,1769.22,4
+MG,santana do manhuacu,3,281.44,3
+MG,santana do paraiso,16,3077.73,16
+MG,santana dos montes,2,296.46,2
+MG,santo antonio do amparo,4,477.03,4
+MG,santo antonio do aventureiro,1,88.92,1
+MG,santo antonio do grama,2,275.36,2
+MG,santo antonio do itambe,3,289.46999999999997,3
+MG,santo antonio do jacinto,7,573.48,7
+MG,santo antonio do monte,14,2247.31,14
+MG,santo antonio do rio abaixo,1,24.23,1
+MG,santo antonio dos campos,1,177.99,1
+MG,santo hipolito,1,119.88,1
+MG,santos dumont,22,2559.58,22
+MG,sao benedito,1,67.76,1
+MG,sao bento abade,1,31.1,1
+MG,sao bras do suacui,2,129.71,2
+MG,sao domingos,1,77.06,1
+MG,sao domingos das dores,1,72.45,1
+MG,sao domingos do prata,4,424.99,4
+MG,sao felix de minas,1,409.5,1
+MG,sao francisco,12,1431.7,12
+MG,sao francisco de paula,2,115.41999999999999,2
+MG,sao francisco do gloria,1,91.35,1
+MG,sao geraldo,4,547.8100000000001,4
+MG,sao geraldo da piedade,1,181.76,1
+MG,sao geraldo do baguari,1,142.96,1
+MG,sao goncalo do abaete,2,216.48000000000002,2
+MG,sao goncalo do para,3,975.8500000000001,3
+MG,sao goncalo do rio abaixo,6,1013.4300000000001,6
+MG,sao goncalo do rio das pedras,1,196.5,1
+MG,sao goncalo do rio preto,3,397.9,3
+MG,sao goncalo do sapucai,8,1342.34,8
+MG,sao gotardo,20,3078.92,20
+MG,sao joao batista do gloria,3,436.83000000000004,3
+MG,sao joao da mata,2,228.39,2
+MG,sao joao da ponte,1,496.76,1
+MG,sao joao das missoes,2,165.15,2
+MG,sao joao del rei,66,9744.43,66
+MG,sao joao do manhuacu,2,199.26000000000002,2
+MG,sao joao do manteninha,3,537.22,3
+MG,sao joao do oriente,2,318.11,2
+MG,sao joao do paraiso,4,449.43,4
+MG,sao joao evangelista,6,1174.9,6
+MG,sao joao nepomuceno,14,3088.1400000000003,14
+MG,sao joaquim de bicas,8,1965.51,8
+MG,sao jose da barra,6,1158.1100000000001,6
+MG,sao jose da lapa,8,1237.52,8
+MG,sao jose do divino,1,182.84,1
+MG,sao jose do goiabal,2,247.67000000000002,2
+MG,sao lourenco,32,4958.96,32
+MG,sao mateus de minas,1,82.88,1
+MG,sao miguel do anta,1,254.09,1
+MG,sao pedro da uniao,3,451.64000000000004,3
+MG,sao pedro dos ferros,4,875.73,4
+MG,sao romao,5,524.06,5
+MG,sao roque de minas,2,210.54,2
+MG,sao sebastiao do maranhao,3,255.21,3
+MG,sao sebastiao do paraiso,35,5509.71,35
+MG,sao sebastiao do rio verde,1,332.58,1
+MG,sao thome das letras,2,85.5,2
+MG,sao tiago,5,586.45,5
+MG,sao tomas de aquino,3,382.56,3
+MG,sao vitor,1,121.09,1
+MG,sapucai-mirim,4,647.16,4
+MG,sapucaia,1,101.25,1
+MG,sardoa,1,137.99,1
+MG,sarzedo,18,1316.33,18
+MG,senador amaral,2,228.0,2
+MG,senador cortes,1,400.66,1
+MG,senador firmino,2,180.44,2
+MG,senador modestino goncalves,2,153.17000000000002,2
+MG,senhora de oliveira,2,169.94,2
+MG,senhora dos remedios,1,44.51,1
+MG,sericita,2,253.62,2
+MG,serra azul de minas,2,388.01,2
+MG,serra bonita,1,232.82,1
+MG,serra do salitre,1,72.05,1
+MG,serra dos aimores,5,443.08000000000004,5
+MG,serrania,2,382.17,2
+MG,serranopolis de minas,1,136.5,1
+MG,serro,2,876.62,2
+MG,sete lagoas,126,20173.89,126
+MG,setubinha,3,328.77,3
+MG,silvano,1,117.94,1
+MG,silveira carvalho,1,42.27,1
+MG,silvianopolis,3,186.76000000000002,3
+MG,simao pereira,1,175.41,1
+MG,simonesia,8,1549.8700000000001,8
+MG,sobralia,1,40.0,1
+MG,soledade de minas,5,394.78,5
+MG,tabuleiro,2,382.78,2
+MG,taiobeiras,13,3103.8,13
+MG,taparuba,1,104.37,1
+MG,taquaracu de minas,2,392.66,2
+MG,tarumirim,4,912.25,4
+MG,teixeiras,6,607.65,6
+MG,teofilo otoni,75,9586.61,75
+MG,timoteo,52,8938.86,52
+MG,tiradentes,4,653.58,4
+MG,tiros,3,218.66,3
+MG,tocantins,6,778.49,6
+MG,tocos do moji,1,74.36,1
+MG,tombos,4,420.09999999999997,4
+MG,tres coracoes,41,5476.22,41
+MG,tres marias,13,1095.9,13
+MG,tres pontas,19,2587.99,19
+MG,tumiritinga,1,480.31,1
+MG,tupaciguara,13,1645.3700000000001,13
+MG,tuparece,1,31.73,1
+MG,turmalina,8,1314.34,8
+MG,turvolandia,2,176.08999999999997,2
+MG,uba,53,7733.99,53
+MG,ubai,1,61.73,1
+MG,ubaporanga,3,360.71,3
+MG,uberaba,186,31881.58,186
+MG,uberlandia,367,55691.92,367
+MG,umburatiba,1,134.7,1
+MG,unai,54,8064.51,54
+MG,uniao de minas,3,128.71,3
+MG,uruana de minas,1,33.0,1
+MG,urucania,1,200.33,1
+MG,urucuia,1,168.29,1
+MG,vargem alegre,1,94.71,1
+MG,vargem grande do rio pardo,1,365.98,1
+MG,varginha,88,16022.51,88
+MG,varjao de minas,2,131.9,2
+MG,varzea da palma,11,2440.97,11
+MG,varzelandia,2,131.44,2
+MG,vazante,6,1780.31,6
+MG,verissimo,3,353.01,3
+MG,vermelho,1,116.79,1
+MG,vermelho novo,1,52.1,1
+MG,vespasiano,41,6904.07,41
+MG,vicosa,87,18245.64,87
+MG,vieiras,1,345.15,1
+MG,vila pereira,1,109.21,1
+MG,virgem da lapa,3,864.44,3
+MG,virginia,1,54.13,1
+MG,virginopolis,7,737.12,7
+MG,virgolandia,2,413.44000000000005,2
+MG,visconde do rio branco,18,1952.66,18
+MG,vitorinos,1,105.37,1
+MG,volta grande,4,379.96000000000004,4
+MS,agua clara,2,259.16999999999996,2
+MS,alcinopolis,6,952.35,6
+MS,amambai,6,890.69,6
+MS,anastacio,2,153.35,2
+MS,anaurilandia,1,86.24,1
+MS,angelica,1,76.86,1
+MS,anhandui,1,83.23,1
+MS,aparecida do taboado,7,2768.61,7
+MS,aquidauana,3,154.75,3
+MS,bandeirantes,1,107.78,1
+MS,bataguassu,5,732.9200000000001,5
+MS,bataipora,1,180.1,1
+MS,bataypora,2,292.02,2
+MS,bela vista,3,522.88,3
+MS,bodoquena,2,495.53,2
+MS,bonito,8,1150.97,8
+MS,brasilandia,1,75.07,1
+MS,caarapo,4,1447.93,4
+MS,camapua,6,734.34,6
+MS,campo grande,312,64793.66,312
+MS,caracol,1,111.1,1
+MS,cassilandia,5,1677.59,5
+MS,chapadao do sul,14,1913.4099999999999,14
+MS,corguinho,2,262.66999999999996,2
+MS,coronel sapucaia,1,106.23,1
+MS,corumba,27,5627.08,27
+MS,costa rica,12,1273.9,12
+MS,coxim,11,1854.62,11
+MS,deodapolis,2,111.21000000000001,2
+MS,dois irmaos do buriti,3,890.1500000000001,3
+MS,dourados,63,10531.87,63
+MS,eldorado,1,44.13,1
+MS,fatima do sul,4,1536.8600000000001,4
+MS,gloria de dourados,1,76.0,1
+MS,guia lopes da laguna,1,48.22,1
+MS,inocencia,1,54.82,1
+MS,itapora,3,248.44,3
+MS,itaquirai,2,388.72,2
+MS,ivinhema,3,308.82,3
+MS,jaraguari,2,110.52,2
+MS,jardim,3,334.97,3
+MS,juti,4,719.48,4
+MS,ladario,4,380.36,4
+MS,maracaju,13,3511.21,13
+MS,miranda,4,343.15999999999997,4
+MS,mundo novo,3,745.76,3
+MS,navirai,8,2313.24,8
+MS,nova alvorada do sul,3,476.88,3
+MS,nova andradina,11,2527.55,11
+MS,paraiso das aguas,1,53.34,1
+MS,paranaiba,14,1701.31,14
+MS,paranhos,1,309.99,1
+MS,pedro gomes,1,132.38,1
+MS,ponta pora,18,4652.16,18
+MS,porto murtinho,1,71.15,1
+MS,prudencio thomaz,1,49.04,1
+MS,ribas do rio pardo,1,66.13,1
+MS,rio brilhante,11,1195.1599999999999,11
+MS,sanga puita,1,53.69,1
+MS,sao gabriel do oeste,7,695.9399999999999,7
+MS,sidrolandia,11,1842.53,11
+MS,sonora,2,91.38,2
+MS,tacuru,1,170.71,1
+MS,terenos,1,85.26,1
+MS,tres lagoas,42,8547.88,42
+MS,vicentina,1,216.07,1
+MT,agua boa,18,3358.86,18
+MT,alta floresta,12,4133.89,12
+MT,alto araguaia,5,1228.1299999999999,5
+MT,alto boa vista,5,581.99,5
+MT,alto garcas,2,340.06,2
+MT,alto taquari,3,821.17,3
+MT,araputanga,4,645.25,4
+MT,arenapolis,2,396.46000000000004,2
+MT,aripuana,8,1348.3799999999999,8
+MT,barra do bugres,4,943.6500000000001,4
+MT,barra do garcas,25,4924.29,25
+MT,bom jesus do araguaia,1,1247.29,1
+MT,caceres,25,5668.5599999999995,25
+MT,campinapolis,3,387.09000000000003,3
+MT,campo novo do parecis,15,5838.68,15
+MT,campo verde,10,1029.69,10
+MT,campos de julio,6,1110.35,6
+MT,canarana,10,1356.31,10
+MT,carlinda,2,245.67000000000002,2
+MT,castanheira,3,189.39000000000001,3
+MT,chapada dos guimaraes,4,854.78,4
+MT,claudia,4,418.37,4
+MT,cocalinho,4,576.56,4
+MT,colider,8,2943.95,8
+MT,colniza,3,875.49,3
+MT,comodoro,7,2504.2799999999997,7
+MT,confresa,7,1371.62,7
+MT,conquista d'oeste,1,154.04,1
+MT,cotriguacu,2,220.48000000000002,2
+MT,cuiaba,243,45870.56,243
+MT,curvelandia,1,243.78,1
+MT,denise,2,566.63,2
+MT,diamantino,7,527.42,7
+MT,dom aquino,3,520.36,3
+MT,feliz natal,1,279.38,1
+MT,figueiropolis d'oeste,2,114.42,2
+MT,gaucha do norte,2,214.94,2
+MT,guaranta do norte,5,509.29,5
+MT,ipiranga do norte,1,114.83,1
+MT,itanhanga,1,88.05,1
+MT,itauba,5,1661.9700000000003,5
+MT,itiquira,1,160.66,1
+MT,jaciara,3,252.88,3
+MT,jauru,5,762.86,5
+MT,juara,5,502.95,5
+MT,juina,17,5417.13,17
+MT,juruena,3,394.38,3
+MT,juscimeira,2,167.0,2
+MT,lucas do rio verde,23,6463.96,23
+MT,matupa,7,1087.87,7
+MT,mirassol d'oeste,14,2207.23,14
+MT,nobres,1,59.91,1
+MT,nortelandia,1,210.64,1
+MT,nova bandeirantes,4,665.53,4
+MT,nova canaa do norte,3,227.15,3
+MT,nova guarita,1,41.79,1
+MT,nova lacerda,1,380.75,1
+MT,nova monte verde,3,330.93,3
+MT,nova mutum,5,715.67,5
+MT,nova olimpia,2,272.03999999999996,2
+MT,nova ubirata,1,123.75,1
+MT,nova xavantina,10,3602.16,10
+MT,novo mundo,1,77.13,1
+MT,novo sao joaquim,3,362.64,3
+MT,paranaita,4,2016.47,4
+MT,paranatinga,2,2574.3199999999997,2
+MT,pedra preta,4,653.5,4
+MT,peixoto de azevedo,4,491.56,4
+MT,pontes e lacerda,9,1972.9,9
+MT,porto alegre do norte,1,445.32,1
+MT,porto esperidiao,2,278.83000000000004,2
+MT,porto estrela,1,156.72,1
+MT,poxoreu,2,172.59,2
+MT,primavera do leste,28,7092.91,28
+MT,querencia,10,2701.95,10
+MT,reserva do cabacal,2,440.88,2
+MT,ribeirao cascalheira,1,67.39,1
+MT,ribeiraozinho,2,358.01,2
+MT,rio branco,3,142.39,3
+MT,rondonopolis,64,12381.58,64
+MT,salto do ceu,2,175.61,2
+MT,santo antonio do leste,1,237.55,1
+MT,santo antonio do leverger,1,124.41,1
+MT,sao felix do araguaia,1,134.64,1
+MT,sao jose do rio claro,2,351.04999999999995,2
+MT,sao jose do xingu,1,72.52,1
+MT,sao jose dos quatro marcos,2,312.23,2
+MT,sapezal,8,1139.52,8
+MT,sinop,43,7696.82,43
+MT,sorriso,20,4009.0299999999997,20
+MT,tabapora,2,286.07000000000005,2
+MT,tangara da serra,23,4765.88,23
+MT,tapurah,1,145.11,1
+MT,terra nova do norte,3,499.35,3
+MT,uniao do sul,1,249.2,1
+MT,varzea grande,37,7663.66,37
+MT,vera,3,336.24,3
+MT,vila bela da santissima trindade,1,46.78,1
+MT,vila rica,3,335.36,3
+PA,abaetetuba,11,4672.27,11
+PA,altamira,25,6399.82,25
+PA,ananindeua,85,20777.66,85
+PA,augusto correa,3,440.0,3
+PA,aurora do para,1,115.46,1
+PA,barcarena,6,1323.67,6
+PA,belem,428,92919.26,428
+PA,benevides,2,343.03000000000003,2
+PA,bom jesus do tocantins,3,506.46,3
+PA,bonito,2,357.6,2
+PA,braganca,9,1437.27,9
+PA,brasil novo,3,396.1,3
+PA,breu branco,3,575.7,3
+PA,breves,1,710.19,1
+PA,cameta,4,521.85,4
+PA,canaa dos carajas,9,1991.3600000000001,9
+PA,capanema,3,698.73,3
+PA,capitao poco,3,540.89,3
+PA,carajas,4,646.56,4
+PA,castanhal,21,4500.22,21
+PA,conceicao do araguaia,7,1494.6,7
+PA,concordia do para,3,1120.8999999999999,3
+PA,curralinho,1,355.29,1
+PA,curuca,3,604.4499999999999,3
+PA,dom eliseu,5,515.08,5
+PA,floresta do araguaia,1,186.79,1
+PA,garrafao do norte,3,762.0,3
+PA,goianesia do para,3,964.71,3
+PA,hidreletrica tucurui,3,721.48,3
+PA,igarape-acu,1,94.76,1
+PA,igarape-miri,1,65.03,1
+PA,ipixuna do para,2,242.99,2
+PA,itaituba,3,392.63,3
+PA,itupiranga,1,602.38,1
+PA,jacareacanga,1,86.03999999999999,1
+PA,jacunda,6,1844.82,6
+PA,juruti,1,75.53,1
+PA,mae do rio,2,203.61,2
+PA,maraba,22,4661.78,22
+PA,marituba,14,1663.07,14
+PA,medicilandia,1,43.14,1
+PA,mocajuba,1,85.6,1
+PA,moju,4,372.88,4
+PA,mojui dos campos,2,180.87,2
+PA,monte alegre,1,149.26,1
+PA,morada nova,1,97.32,1
+PA,murucupi,1,162.13,1
+PA,nova esperanca do piria,1,2252.66,1
+PA,nova ipixuna,1,517.03,1
+PA,nova timboteua,1,133.05,1
+PA,novo progresso,5,2436.08,5
+PA,novo repartimento,2,260.16,2
+PA,oeiras do para,2,247.45999999999998,2
+PA,ourem,1,66.05,1
+PA,ourilandia do norte,5,1934.3500000000001,5
+PA,pacaja,6,2860.9599999999996,6
+PA,paragominas,18,2803.86,18
+PA,parauapebas,27,5634.15,27
+PA,pau d'arco,1,83.05,1
+PA,picarra,1,1122.86,1
+PA,placas,2,318.58000000000004,2
+PA,porto trombetas,2,300.28999999999996,2
+PA,quatro bocas,5,1804.79,5
+PA,redencao,12,1818.48,12
+PA,rio maria,3,435.57000000000005,3
+PA,rondon do para,9,3484.38,9
+PA,santa barbara do para,1,245.45,1
+PA,santa isabel do para,6,919.57,6
+PA,santa maria do para,2,164.89,2
+PA,santana do araguaia,2,481.59,2
+PA,santarem,43,7125.5199999999995,43
+PA,santo antonio do taua,1,57.74,1
+PA,sao domingos do araguaia,1,270.65,1
+PA,sao felix do xingu,8,1774.08,8
+PA,sao joao de pirabas,2,305.33000000000004,2
+PA,sao miguel do guama,5,1514.4,5
+PA,sao sebastiao da boa vista,2,264.6,2
+PA,senador jose porfirio,1,31.63,1
+PA,tailandia,4,2256.46,4
+PA,tome-acu,1,50.62,1
+PA,tracuateua,1,39.61,1
+PA,tucuma,3,585.23,3
+PA,tucurui,16,5756.65,16
+PA,ulianopolis,1,64.4,1
+PA,uruara,6,1199.13,6
+PA,vigia,2,236.75,2
+PA,vila dos cabanos,4,597.67,4
+PA,viseu,1,340.02,1
+PA,xinguara,9,1608.51,9
+PB,agua branca,2,315.59,2
+PB,alagoa grande,1,178.52,1
+PB,alagoa nova,1,164.29,1
+PB,alagoinha,2,339.52000000000004,2
+PB,alhandra,2,1307.91,2
+PB,arara,1,137.14,1
+PB,araruna,1,159.85,1
+PB,areia,2,233.46,2
+PB,areial,1,194.82,1
+PB,aroeiras,1,167.48,1
+PB,assuncao,1,132.69,1
+PB,bananeiras,5,544.74,5
+PB,barra de santa rosa,1,291.5,1
+PB,bayeux,7,1139.41,7
+PB,belem,1,383.03,1
+PB,bonito de santa fe,1,162.85,1
+PB,brejo do cruz,1,1217.78,1
+PB,brejo dos santos,1,125.94,1
+PB,cabedelo,6,1329.5,6
+PB,cajazeiras,11,2410.67,11
+PB,caldas brandao,1,192.32,1
+PB,campina grande,67,22657.35,67
+PB,catole do rocha,6,4066.6900000000005,6
+PB,conceicao,2,175.24,2
+PB,coremas,3,367.59,3
+PB,cubati,2,187.59,2
+PB,cuite,3,796.51,3
+PB,curral de cima,1,199.0,1
+PB,desterro,1,639.98,1
+PB,esperanca,6,2108.09,6
+PB,fagundes,1,220.74,1
+PB,frei martinho,2,393.21000000000004,2
+PB,guarabira,10,1642.8600000000001,10
+PB,ibiara,1,321.98,1
+PB,imaculada,3,471.90999999999997,3
+PB,inga,1,169.99,1
+PB,itaporanga,2,349.91999999999996,2
+PB,jerico,1,113.08,1
+PB,joao pessoa,245,61117.81,245
+PB,junco do serido,2,318.42,2
+PB,juripiranga,1,157.99,1
+PB,juru,1,919.38,1
+PB,lagoa,1,180.76,1
+PB,lucena,1,127.17,1
+PB,mae d'agua,1,90.89,1
+PB,mamanguape,6,1406.47,6
+PB,manaira,1,147.4,1
+PB,mari,3,342.8,3
+PB,montadas,1,120.9,1
+PB,nova floresta,1,155.0,1
+PB,passagem,1,1265.83,1
+PB,patos,16,4795.28,16
+PB,paulista,1,525.46,1
+PB,pedra branca,1,95.84,1
+PB,pedra lavrada,1,87.9,1
+PB,pedras de fogo,2,204.63,2
+PB,pianco,1,2324.99,1
+PB,picui,2,221.70999999999998,2
+PB,pilar,1,96.95,1
+PB,pirpirituba,1,1372.25,1
+PB,pitanga de estrada,1,154.83,1
+PB,pitimbu,1,455.11,1
+PB,pocinhos,3,351.91999999999996,3
+PB,pombal,6,2210.2,6
+PB,prata,1,75.73,1
+PB,princesa isabel,1,344.62,1
+PB,puxinana,1,271.03,1
+PB,queimadas,5,1670.94,5
+PB,remigio,1,169.92,1
+PB,riacho de santo antonio,1,159.6,1
+PB,rio tinto,2,490.25,2
+PB,santa cecilia,1,166.71,1
+PB,santa luzia,5,460.49,5
+PB,santa rita,6,1652.48,6
+PB,santo andre,1,90.9,1
+PB,sao bentinho,1,69.15,1
+PB,sao bento,3,720.21,3
+PB,sao francisco,1,141.75,1
+PB,sao jose dos cordeiros,1,258.03,1
+PB,sao mamede,1,137.1,1
+PB,sape,2,2042.83,2
+PB,serra branca,1,142.26,1
+PB,solanea,1,519.29,1
+PB,soledade,3,568.75,3
+PB,sousa,7,1356.43,7
+PB,sume,3,364.39,3
+PB,teixeira,1,69.05,1
+PB,triunfo,1,198.57,1
+PB,uirauna,1,285.36,1
+PB,varzea,1,150.18,1
+PE,abreu e lima,11,2871.92,11
+PE,afogados da ingazeira,8,1596.3899999999999,8
+PE,afranio,2,448.03999999999996,2
+PE,agrestina,1,2066.34,1
+PE,agua preta,1,147.34,1
+PE,aguas belas,6,1041.4,6
+PE,alianca,1,89.93,1
+PE,altinho,1,50.94,1
+PE,amaraji,2,521.89,2
+PE,aracoiaba,2,120.71,2
+PE,araripina,11,1538.05,11
+PE,arcoverde,5,677.4,5
+PE,barra de guabiraba,2,565.8,2
+PE,barreiros,5,1514.09,5
+PE,belem do sao francisco,2,771.02,2
+PE,belo jardim,11,2013.15,11
+PE,bezerros,10,1651.23,10
+PE,bodoco,2,269.03000000000003,2
+PE,bom conselho,7,1848.32,7
+PE,bom jardim,1,327.76,1
+PE,bonito,5,1398.84,5
+PE,brejo da madre de deus,4,512.73,4
+PE,buenos aires,2,311.83,2
+PE,buique,1,253.09,1
+PE,cabo de santo agostinho,21,3618.25,21
+PE,cabrobo,6,1146.91,6
+PE,caetes,1,166.04,1
+PE,calcado,1,223.54,1
+PE,camaragibe,33,3455.49,33
+PE,camocim de sao felix,2,420.26,2
+PE,camutanga,3,385.34000000000003,3
+PE,canhotinho,2,430.49,2
+PE,capoeiras,1,190.53,1
+PE,caraiba,2,487.15,2
+PE,carpina,10,2600.23,10
+PE,caruaru,63,12282.07,63
+PE,catende,7,1941.6799999999998,7
+PE,cha de alegria,1,108.95,1
+PE,cha grande,1,186.49,1
+PE,condado,4,1071.11,4
+PE,correntes,1,221.59,1
+PE,cortes,2,305.32000000000005,2
+PE,cumaru,2,399.98,2
+PE,cupira,1,65.53,1
+PE,custodia,5,752.1700000000001,5
+PE,dormentes,2,1067.73,2
+PE,escada,10,3556.7,10
+PE,feira nova,5,649.77,5
+PE,ferreiros,1,133.94,1
+PE,flores,1,317.51,1
+PE,floresta,6,694.69,6
+PE,gameleira,4,1827.12,4
+PE,garanhuns,30,5225.65,30
+PE,gloria do goita,2,587.92,2
+PE,goiana,9,853.96,9
+PE,gravata,10,2243.96,10
+PE,iati,3,807.24,3
+PE,ibimirim,3,372.03,3
+PE,igarassu,11,2264.63,11
+PE,ilha de itamaraca,4,632.1500000000001,4
+PE,inaja,2,432.33,2
+PE,ipojuca,15,1825.56,15
+PE,ipubi,3,525.79,3
+PE,itambe,3,337.3,3
+PE,itapetim,2,371.99,2
+PE,itapissuma,3,370.86,3
+PE,itaquitinga,2,127.78999999999999,2
+PE,jaboatao dos guararapes,131,25282.34,131
+PE,jaqueira,3,679.1700000000001,3
+PE,jatauba,2,212.12,2
+PE,jatoba,3,523.25,3
+PE,joao alfredo,3,300.07,3
+PE,joaquim nabuco,4,350.45,4
+PE,jupi,2,666.86,2
+PE,jurema,1,54.34,1
+PE,lagoa do carro,2,880.78,2
+PE,lagoa do ouro,2,373.35,2
+PE,lagoa dos gatos,3,1073.47,3
+PE,lagoa grande,4,1177.19,4
+PE,lajedo,6,1137.2,6
+PE,limoeiro,7,701.2099999999999,7
+PE,macaparana,2,208.71,2
+PE,machados,1,142.66,1
+PE,mirandiba,3,323.15999999999997,3
+PE,moreilandia,2,295.12,2
+PE,moreno,5,960.09,5
+PE,nazare da mata,1,114.56,1
+PE,nossa senhora do o,1,61.61,1
+PE,olinda,89,15081.42,89
+PE,orobo,1,142.63,1
+PE,oroco,3,389.46,3
+PE,ouricuri,8,2730.73,8
+PE,palmares,8,1503.5700000000002,8
+PE,panelas,2,210.48999999999998,2
+PE,parnamirim,4,2079.4700000000003,4
+PE,passira,1,461.72,1
+PE,paudalho,2,950.1400000000001,2
+PE,paulista,41,7076.62,41
+PE,pedra,3,349.79,3
+PE,pesqueira,9,1036.55,9
+PE,petrolandia,9,1875.72,9
+PE,petrolina,62,16263.27,62
+PE,pocao,1,318.53,1
+PE,pombos,1,131.43,1
+PE,quipapa,1,272.99,1
+PE,quixada,1,173.89,1
+PE,recife,593,104795.5,593
+PE,riacho das almas,2,268.77,2
+PE,ribeirao,4,434.53,4
+PE,rio formoso,2,268.93,2
+PE,salgueiro,17,3044.75,17
+PE,saloa,3,1536.08,3
+PE,sanharo,3,2310.0,3
+PE,santa cruz,2,362.46000000000004,2
+PE,santa cruz do capibaribe,11,2777.52,11
+PE,santa filomena,1,186.4,1
+PE,santa maria da boa vista,2,488.57000000000005,2
+PE,santa terezinha,1,295.52,1
+PE,santo antonio das queimadas,1,112.12,1
+PE,sao benedito do sul,1,64.83,1
+PE,sao bento do una,4,1477.8,4
+PE,sao domingos,1,170.01,1
+PE,sao joao,1,476.52,1
+PE,sao joaquim do monte,1,107.95,1
+PE,sao jose da coroa grande,2,289.78999999999996,2
+PE,sao jose do belmonte,2,299.84000000000003,2
+PE,sao jose do egito,4,630.2,4
+PE,sao lourenco da mata,11,1584.4099999999999,11
+PE,sao vicente ferrer,1,214.28,1
+PE,serra talhada,10,2625.95,10
+PE,serrita,2,483.72,2
+PE,sertania,4,479.92,4
+PE,siriji,1,77.03,1
+PE,sirinhaem,5,720.23,5
+PE,surubim,5,711.22,5
+PE,tabira,5,1178.8899999999999,5
+PE,tacaratu,2,263.65,2
+PE,tamandare,1,73.84,1
+PE,taquaritinga do norte,6,2371.1800000000003,6
+PE,terezinha,1,65.62,1
+PE,terra nova,1,267.93,1
+PE,timbauba,7,804.45,7
+PE,toritama,5,1277.99,5
+PE,tracunhaem,1,689.87,1
+PE,trindade,4,4406.200000000001,4
+PE,triunfo,2,296.53,2
+PE,tuparetama,3,437.69,3
+PE,venturosa,2,1297.06,2
+PE,vertentes,1,49.62,1
+PE,vicencia,2,325.48,2
+PE,vitoria de santo antao,15,2988.47,15
+PE,xexeu,1,126.16,1
+PI,agua branca,2,213.41,2
+PI,alegrete do piaui,1,173.88,1
+PI,altos,5,1560.87,5
+PI,alvorada do gurgueia,1,87.85,1
+PI,amarante,1,953.84,1
+PI,angical do piaui,1,80.92,1
+PI,avelino lopes,2,142.72,2
+PI,baixa grande do ribeiro,1,213.47,1
+PI,barras,3,291.68,3
+PI,bertolinia,1,483.87,1
+PI,bocaina,1,198.62,1
+PI,bom jesus,3,976.5799999999999,3
+PI,buriti dos lopes,2,356.82,2
+PI,caldeirao grande do piaui,1,180.76,1
+PI,campo alegre do fidalgo,1,263.94,1
+PI,campo grande do piaui,1,190.88,1
+PI,campo maior,7,1329.7,7
+PI,canto do buriti,1,674.83,1
+PI,castelo do piaui,2,577.67,2
+PI,caxingo,1,53.84,1
+PI,cocal,7,1151.91,7
+PI,conceicao do caninde,1,181.81,1
+PI,corrente,4,1831.15,4
+PI,demerval lobao,1,40.38,1
+PI,eliseu martins,3,403.06,3
+PI,esperantina,4,569.46,4
+PI,floriano,18,3145.5099999999998,18
+PI,francisco santos,1,41.7,1
+PI,fronteiras,3,1408.8400000000001,3
+PI,gilbues,1,356.51,1
+PI,guadalupe,4,1502.76,4
+PI,ilha grande,1,174.68,1
+PI,inhuma,1,112.35,1
+PI,isaias coelho,1,209.46,1
+PI,itaueira,2,173.62,2
+PI,joaquim pires,1,37.81,1
+PI,jose de freitas,3,350.42,3
+PI,lagoa de sao francisco,1,107.02,1
+PI,lagoa do piaui,1,106.38,1
+PI,lagoinha do piaui,1,149.61,1
+PI,luis correia,1,153.36,1
+PI,luzilandia,3,273.01,3
+PI,marcos parente,1,64.5,1
+PI,matias olimpio,1,841.4,1
+PI,nova santa rita,1,38.82,1
+PI,novo oriente do piaui,2,252.57,2
+PI,oeiras,6,803.91,6
+PI,parnaiba,22,5085.78,22
+PI,paulistana,3,1013.26,3
+PI,pedro ii,1,127.77,1
+PI,picos,17,4255.89,17
+PI,pimenteiras,2,193.21,2
+PI,pio ix,1,184.84,1
+PI,piracuruca,2,347.44,2
+PI,piripiri,7,828.5600000000001,7
+PI,redencao do gurgueia,1,257.56,1
+PI,regeneracao,6,1041.64,6
+PI,rio grande do piaui,1,45.7,1
+PI,santa cruz do piaui,1,158.38,1
+PI,sao joao do piaui,5,1891.88,5
+PI,sao jose do divino,1,643.33,1
+PI,sao jose do piaui,1,173.88,1
+PI,sao lourenco do piaui,1,191.11,1
+PI,sao miguel do tapuio,2,524.54,2
+PI,sao raimundo nonato,7,2987.04,7
+PI,sebastiao leal,1,75.89,1
+PI,simplicio mendes,1,50.75,1
+PI,teresina,271,59176.68,271
+PI,uniao,1,393.32,1
+PI,urucui,4,820.26,4
+PI,valenca do piaui,4,1268.65,4
+PI,varzea grande,1,46.65,1
+PR,abatia,3,220.19,3
+PR,adhemar de barros,1,166.29,1
+PR,adrianopolis,1,89.17,1
+PR,alexandra,1,51.31,1
+PR,almirante tamandare,35,5041.83,35
+PR,altamira do parana,2,307.11,2
+PR,alto alegre,2,200.69,2
+PR,alto alegre do iguacu,2,227.25,2
+PR,alto paraiso,1,73.15,1
+PR,alto parana,2,451.84,2
+PR,alto piquiri,1,432.5,1
+PR,alto sao joao,1,73.25,1
+PR,altonia,3,557.1800000000001,3
+PR,amapora,2,180.65,2
+PR,ampere,8,1788.04,8
+PR,andira,11,1688.59,11
+PR,angulo,3,394.06,3
+PR,antonina,10,2285.4,10
+PR,apucarana,51,8112.8,51
+PR,arapongas,32,7152.49,32
+PR,arapoti,9,1280.9099999999999,9
+PR,araruna,4,555.0699999999999,4
+PR,araucaria,54,6255.87,54
+PR,areia branca dos assis,3,569.43,3
+PR,assai,5,1019.8000000000001,5
+PR,assis chateaubriand,12,1426.3,12
+PR,astorga,7,556.28,7
+PR,balsa nova,1,33.97,1
+PR,bandeirantes,13,2005.85,13
+PR,barbosa ferraz,3,562.5699999999999,3
+PR,barra do jacare,1,71.43,1
+PR,barracao,1,34.51,1
+PR,bela vista do paraiso,3,658.49,3
+PR,bituruna,5,598.23,5
+PR,boa esperanca,1,179.77,1
+PR,boa esperanca do iguacu,1,51.0,1
+PR,boa vista da aparecida,4,264.63,4
+PR,bocaiuva do sul,2,72.7,2
+PR,bom jesus do sul,1,245.1,1
+PR,bom sucesso,1,107.78,1
+PR,borrazopolis,2,312.23,2
+PR,cafeara,2,309.82,2
+PR,cafelandia,11,1911.51,11
+PR,california,2,133.95,2
+PR,cambara,9,1022.62,9
+PR,cambe,27,4559.06,27
+PR,cambira,2,519.35,2
+PR,campina da lagoa,2,593.8199999999999,2
+PR,campina grande do sul,9,1276.75,9
+PR,campo do tenente,1,71.04,1
+PR,campo largo,36,4665.79,36
+PR,campo magro,1,64.76,1
+PR,campo mourao,56,8579.69,56
+PR,candido de abreu,4,439.91999999999996,4
+PR,candoi,1,79.5,1
+PR,cantagalo,2,153.84,2
+PR,capanema,9,805.98,9
+PR,capitao leonidas marques,5,512.09,5
+PR,carambei,3,456.25,3
+PR,carlopolis,6,901.1800000000001,6
+PR,cascavel,146,27148.38,146
+PR,castro,22,4347.65,22
+PR,centenario do sul,4,465.35,4
+PR,cerro azul,4,250.18,4
+PR,ceu azul,7,525.29,7
+PR,chopinzinho,4,211.14,4
+PR,cianorte,39,5691.55,39
+PR,cidade gaucha,5,950.1,5
+PR,clevelandia,3,218.19,3
+PR,colombo,60,9014.88,60
+PR,colonia castrolanda,3,1041.7,3
+PR,colonia jordaozinho,2,1071.03,2
+PR,colonia vitoria,5,409.73,5
+PR,colorado,6,1145.85,6
+PR,congonhinhas,2,338.86,2
+PR,conselheiro mairinck,1,81.55,1
+PR,contenda,1,104.61,1
+PR,corbelia,3,785.22,3
+PR,cornelio procopio,24,2705.58,24
+PR,coronel domingos soares,1,106.87,1
+PR,coronel vivida,11,1058.59,11
+PR,corumbatai do sul,1,45.78,1
+PR,cruz machado,3,523.23,3
+PR,cruzeiro do iguacu,1,148.15,1
+PR,cruzeiro do oeste,7,982.5,7
+PR,curitiba,1489,238582.26,1489
+PR,curiuva,4,364.52,4
+PR,diamante d'oeste,1,307.69,1
+PR,diamante do norte,5,515.27,5
+PR,doce grande,1,67.72,1
+PR,dois vizinhos,27,2881.38,27
+PR,douradina,1,118.65,1
+PR,doutor camargo,1,230.63,1
+PR,doutor ulysses,1,158.61,1
+PR,eneas marques,4,237.14999999999998,4
+PR,entre rios do oeste,3,148.57999999999998,3
+PR,espigao alto do iguacu,2,209.32,2
+PR,farol,1,152.72,1
+PR,faxinal,9,995.73,9
+PR,fazenda rio grande,29,5204.96,29
+PR,fenix,1,67.92,1
+PR,figueira,4,1012.87,4
+PR,flor da serra do sul,2,232.06,2
+PR,florai,2,422.95,2
+PR,floresta,5,844.0899999999999,5
+PR,florestopolis,3,575.77,3
+PR,florida,1,86.15,1
+PR,formosa do oeste,1,86.15,1
+PR,foz do iguacu,86,13806.35,86
+PR,foz do jordao,1,64.1,1
+PR,francisco beltrao,50,8378.13,50
+PR,general carneiro,5,498.52,5
+PR,godoy moreira,1,1101.83,1
+PR,goioere,11,2191.01,11
+PR,grandes rios,2,157.75,2
+PR,guaira,7,979.8,7
+PR,guairaca,1,100.44,1
+PR,guamiranga,1,284.89,1
+PR,guapirama,1,107.78,1
+PR,guaraci,2,701.96,2
+PR,guaraniacu,5,463.62,5
+PR,guarapuava,62,9900.21,62
+PR,guaraquecaba,1,63.37,1
+PR,guaratuba,9,2017.31,9
+PR,ibaiti,11,1264.1399999999999,11
+PR,ibema,1,173.89,1
+PR,ibipora,12,1590.83,12
+PR,icaraima,1,43.95,1
+PR,iguaracu,2,659.2,2
+PR,iguatu,1,153.04,1
+PR,ilha dos valadares,1,93.59,1
+PR,imbau,2,154.87,2
+PR,imbituva,8,913.66,8
+PR,inacio martins,5,331.28,5
+PR,inaja,2,90.3,2
+PR,indianopolis,4,328.55,4
+PR,ipiranga,3,161.09,3
+PR,ipora,2,254.26,2
+PR,irati,22,2994.16,22
+PR,iretama,1,139.59,1
+PR,itaguaje,2,168.96,2
+PR,itaipulandia,6,294.6,6
+PR,itambaraca,2,326.27,2
+PR,itambe,1,292.28,1
+PR,itapejara d'oeste,6,1255.92,6
+PR,itaperucu,4,707.2,4
+PR,ivai,2,645.77,2
+PR,ivaipora,7,640.86,7
+PR,ivate,3,358.34000000000003,3
+PR,jaboti,2,196.96,2
+PR,jacarezinho,16,1635.31,16
+PR,jaguariaiva,17,2117.0299999999997,17
+PR,jandaia do sul,8,2156.75,8
+PR,janiopolis,3,316.22,3
+PR,japira,3,457.63,3
+PR,japura,5,521.53,5
+PR,jardim alegre,2,161.44,2
+PR,jardim olinda,1,189.84,1
+PR,jesuitas,4,642.93,4
+PR,joaquim tavora,3,392.01,3
+PR,jundiai do sul,3,384.01,3
+PR,juranda,2,69.94,2
+PR,jussara,1,44.59,1
+PR,kalore,2,563.96,2
+PR,lapa,14,2488.54,14
+PR,laranjal,1,43.09,1
+PR,laranjeiras do sul,19,2413.23,19
+PR,leopolis,1,31.38,1
+PR,lindoeste,2,198.25,2
+PR,loanda,13,2042.79,13
+PR,lobato,3,562.77,3
+PR,londrina,298,52428.41,298
+PR,luiziana,2,186.57,2
+PR,lunardelli,2,250.07999999999998,2
+PR,lupionopolis,2,248.77,2
+PR,mallet,6,907.63,6
+PR,mambore,8,928.47,8
+PR,mandaguacu,4,3325.86,4
+PR,mandaguari,18,5829.06,18
+PR,mandirituba,1,26.77,1
+PR,manfrinopolis,1,138.08,1
+PR,mangueirinha,8,1733.05,8
+PR,manoel ribas,4,742.3199999999999,4
+PR,marechal candido rondon,30,4144.69,30
+PR,marialva,16,3115.02,16
+PR,mariental,1,1867.85,1
+PR,marilandia do sul,1,178.27,1
+PR,marilena,1,107.87,1
+PR,mariluz,2,349.65,2
+PR,maringa,260,44263.88,260
+PR,mariopolis,1,173.95,1
+PR,maripa,3,432.73,3
+PR,marmeleiro,7,862.98,7
+PR,matelandia,2,87.6,2
+PR,matinhos,27,3538.83,27
+PR,mato rico,1,92.65,1
+PR,maua da serra,2,167.12,2
+PR,medianeira,21,3411.7200000000003,21
+PR,mercedes,2,266.38,2
+PR,missal,7,2838.99,7
+PR,moreira sales,3,433.48,3
+PR,morretes,3,639.65,3
+PR,munhoz de melo,4,1037.26,4
+PR,nossa senhora das gracas,2,80.75,2
+PR,nova america da colina,1,76.65,1
+PR,nova aurora,3,661.97,3
+PR,nova cantu,2,234.31,2
+PR,nova esperanca,8,1760.46,8
+PR,nova esperanca do sudoeste,1,100.33,1
+PR,nova fatima,4,326.79,4
+PR,nova laranjeiras,1,251.59,1
+PR,nova londrina,9,946.56,9
+PR,nova prata do iguacu,6,1185.19,6
+PR,nova santa barbara,1,130.53,1
+PR,nova santa rosa,4,496.62,4
+PR,novo itacolomi,1,122.22,1
+PR,ortigueira,8,1139.45,8
+PR,ourizona,1,167.8,1
+PR,ouro verde do oeste,1,27.38,1
+PR,paicandu,10,1106.22,10
+PR,palmas,19,2359.92,19
+PR,palmeira,12,2328.24,12
+PR,palmeirinha,2,93.8,2
+PR,palmital,1,201.75,1
+PR,palotina,10,1065.77,10
+PR,paraiso do norte,3,269.21000000000004,3
+PR,paranacity,3,222.6,3
+PR,paranagua,58,8781.35,58
+PR,paranapoema,1,140.49,1
+PR,paranavai,45,8254.93,45
+PR,pato bragado,2,124.83,2
+PR,pato branco,53,10599.58,53
+PR,paula freitas,1,553.46,1
+PR,paulo frontin,5,707.4,5
+PR,peabiru,4,748.5,4
+PR,perobal,1,95.31,1
+PR,perola,2,313.31,2
+PR,perola d'oeste,2,672.75,2
+PR,perola independente,1,104.46,1
+PR,pien,4,405.37,4
+PR,pinhais,66,10103.74,66
+PR,pinhalao,7,2032.35,7
+PR,pinhao,8,1101.52,8
+PR,pirai do sul,6,740.98,6
+PR,pirapo,1,96.29,1
+PR,piraquara,14,1947.24,14
+PR,pitanga,3,607.71,3
+PR,planaltina do parana,1,25.85,1
+PR,planalto,4,439.03,4
+PR,ponta grossa,141,21786.91,141
+PR,pontal do parana,8,1235.05,8
+PR,porecatu,9,930.71,9
+PR,porto amazonas,2,93.21,2
+PR,porto rico,1,318.92,1
+PR,pranchita,1,182.36,1
+PR,primeiro de maio,7,1407.6100000000001,7
+PR,prudentopolis,7,1085.17,7
+PR,quatigua,5,341.35,5
+PR,quatro barras,18,2079.83,18
+PR,quatro pontes,1,167.66,1
+PR,quedas do iguacu,8,1030.44,8
+PR,querencia do norte,1,99.43,1
+PR,quinta do sol,3,178.66,3
+PR,quitandinha,2,405.09,2
+PR,rancho alegre,1,102.66,1
+PR,rancho alegre d'oeste,1,149.29,1
+PR,realeza,6,1412.76,6
+PR,reboucas,6,493.38,6
+PR,renascenca,4,352.23,4
+PR,reserva,3,371.55,3
+PR,reserva do iguacu,1,28.52,1
+PR,ribeirao claro,5,663.8,5
+PR,ribeirao do pinhal,5,447.33000000000004,5
+PR,rio azul,5,538.54,5
+PR,rio bonito do iguacu,4,536.22,4
+PR,rio branco do sul,6,526.72,6
+PR,rio negro,15,2472.91,15
+PR,rio verde,1,178.27,1
+PR,rolandia,24,5701.33,24
+PR,roncador,2,191.73,2
+PR,rondon,2,318.86,2
+PR,rosario do ivai,1,47.23,1
+PR,sabaudia,1,20.42,1
+PR,salgado filho,3,219.94,3
+PR,salto do itarare,1,276.47,1
+PR,salto do lontra,4,900.11,4
+PR,santa amelia,1,175.87,1
+PR,santa cecilia do pavao,1,72.14,1
+PR,santa cruz de monte castelo,4,793.0500000000001,4
+PR,santa fe,5,1005.44,5
+PR,santa helena,9,803.75,9
+PR,santa isabel do ivai,3,478.6,3
+PR,santa izabel do oeste,2,356.35,2
+PR,santa lucia,1,68.49,1
+PR,santa margarida,1,68.13,1
+PR,santa mariana,4,373.35,4
+PR,santa monica,2,384.83000000000004,2
+PR,santa tereza do oeste,3,420.59000000000003,3
+PR,santa terezinha de itaipu,3,378.11,3
+PR,santana,1,138.6,1
+PR,santana do itarare,1,71.53,1
+PR,santo antonio da platina,12,1544.84,12
+PR,santo antonio do caiua,1,302.55,1
+PR,santo antonio do sudoeste,3,268.07,3
+PR,santo inacio,1,79.7,1
+PR,sao carlos do ivai,1,119.95,1
+PR,sao clemente,1,154.86,1
+PR,sao joao,11,1064.79,11
+PR,sao joao do ivai,2,229.56,2
+PR,sao joao do triunfo,2,201.82,2
+PR,sao jorge d'oeste,1,111.02,1
+PR,sao jorge do ivai,1,395.96,1
+PR,sao jorge do oeste,1,60.53,1
+PR,sao jorge do patrocinio,2,123.72,2
+PR,sao jose da boa vista,1,137.07,1
+PR,sao jose dos pinhais,130,17521.99,130
+PR,sao mateus do sul,15,2284.52,15
+PR,sao miguel do cambui,1,77.57000000000001,1
+PR,sao miguel do iguacu,9,1244.14,9
+PR,sao pedro do iguacu,1,142.96,1
+PR,sao pedro do ivai,3,546.72,3
+PR,sao sebastiao da amoreira,1,63.23,1
+PR,sao tome,2,271.55,2
+PR,sapopema,2,193.31,2
+PR,sarandi,17,2035.77,17
+PR,saudade do iguacu,4,328.37,4
+PR,sede alvorada,1,154.9,1
+PR,senges,5,645.5,5
+PR,serra dos dourados,1,83.33,1
+PR,serranopolis do iguacu,2,305.73,2
+PR,sertanopolis,4,1008.14,4
+PR,siqueira campos,9,1663.61,9
+PR,sulina,1,45.0,1
+PR,tamarana,2,160.84,2
+PR,tamboara,1,24.09,1
+PR,tapejara,2,393.24,2
+PR,teixeira soares,1,657.92,1
+PR,telemaco borba,34,5458.21,34
+PR,terra boa,4,773.42,4
+PR,terra rica,7,769.63,7
+PR,terra roxa,3,629.03,3
+PR,tibagi,4,386.07,4
+PR,toledo,70,11688.66,70
+PR,tomazina,3,411.31,3
+PR,tunas do parana,2,233.3,2
+PR,tupassi,1,32.38,1
+PR,turvo,2,142.68,2
+PR,ubirata,7,751.43,7
+PR,umuarama,40,6603.01,40
+PR,uniao da vitoria,29,6037.75,29
+PR,urai,3,334.39,3
+PR,ventania,3,209.88,3
+PR,vera cruz do oeste,3,488.34000000000003,3
+PR,vere,3,848.97,3
+PR,vila nova,2,117.19,2
+PR,vila reis,1,86.15,1
+PR,vitoria,1,44.09,1
+PR,vitorino,1,67.23,1
+PR,wenceslau braz,2,250.51,2
+PR,xambre,2,547.74,2
+RJ,angra dos reis,83,21421.329999999998,83
+RJ,anta,3,291.53,3
+RJ,aperibe,12,1835.91,12
+RJ,araruama,74,18836.77,74
+RJ,areal,7,1364.63,7
+RJ,armacao dos buzios,28,5579.36,28
+RJ,arraial do cabo,28,6329.66,28
+RJ,arrozal,3,912.81,3
+RJ,avelar,4,824.24,4
+RJ,bacaxa,1,72.51,1
+RJ,barao de juparana,1,46.72,1
+RJ,barra de sao joao,13,2835.38,13
+RJ,barra do pirai,49,6015.99,49
+RJ,barra mansa,119,21511.37,119
+RJ,belford roxo,104,14628.03,104
+RJ,bemposta,1,48.11,1
+RJ,boa esperanca,1,1527.51,1
+RJ,boa ventura,1,31.69,1
+RJ,bom jardim,14,2474.68,14
+RJ,bom jesus do itabapoana,20,4011.27,20
+RJ,bom jesus do querendo,1,188.55,1
+RJ,cabo frio,113,18857.72,113
+RJ,cachoeiras de macacu,20,2304.32,20
+RJ,california da barra,6,1014.5,6
+RJ,cambiasca,1,38.09,1
+RJ,cambuci,8,2279.92,8
+RJ,campos dos goytacazes,232,37761.24,232
+RJ,cantagalo,17,2289.85,17
+RJ,carapebus,5,786.52,5
+RJ,cardoso moreira,6,616.88,6
+RJ,carmo,12,1742.8600000000001,12
+RJ,casimiro de abreu,20,3963.31,20
+RJ,comendador levy gasparian,7,746.5600000000001,7
+RJ,conceicao de macabu,12,1970.24,12
+RJ,conrado,1,126.12,1
+RJ,conservatoria,4,997.19,4
+RJ,cordeiro,24,3098.43,24
+RJ,corrego do ouro,1,45.01,1
+RJ,duas barras,1,36.95,1
+RJ,duque de caxias,250,38406.23,250
+RJ,engenheiro passos,2,291.24,2
+RJ,engenheiro paulo de frontin,6,590.89,6
+RJ,glicerio,2,480.25,2
+RJ,goitacazes,11,1388.24,11
+RJ,governador portela,4,430.01,4
+RJ,guapimirim,21,3446.99,21
+RJ,ibitioca,1,244.91,1
+RJ,iguaba grande,19,2829.65,19
+RJ,ipiabas,4,663.14,4
+RJ,itaborai,56,7783.17,56
+RJ,itaguai,46,7202.32,46
+RJ,italva,12,1480.61,12
+RJ,itaocara,16,2042.5,16
+RJ,itaperuna,46,6658.02,46
+RJ,itatiaia,18,1882.29,18
+RJ,jaguarembe,1,53.31,1
+RJ,jamapara,1,49.6,1
+RJ,japeri,34,5682.83,34
+RJ,japuiba,5,1230.85,5
+RJ,laje do muriae,1,235.28,1
+RJ,macae,228,36583.22,228
+RJ,macuco,1,90.88,1
+RJ,mage,106,16751.06,106
+RJ,mangaratiba,12,1224.42,12
+RJ,marica,133,18020.170000000002,133
+RJ,mendes,12,1509.99,12
+RJ,mesquita,75,10927.32,75
+RJ,miguel pereira,28,4409.54,28
+RJ,miracema,17,1891.44,17
+RJ,monnerat,2,376.86,2
+RJ,mussurepe,1,117.94,1
+RJ,natividade,15,3081.95,15
+RJ,nilopolis,103,15462.98,103
+RJ,niteroi,825,135458.19,825
+RJ,nova friburgo,142,30715.39,142
+RJ,nova iguacu,423,68470.07,423
+RJ,papucaia,10,1435.7,10
+RJ,paracambi,35,7516.2300000000005,35
+RJ,paraiba do sul,18,3452.08,18
+RJ,parati,13,3088.59,13
+RJ,paraty,19,3249.86,19
+RJ,passa tres,2,97.37,2
+RJ,paty do alferes,13,2597.71,13
+RJ,penedo,1,105.28,1
+RJ,petropolis,234,38519.65,234
+RJ,pinheiral,14,2529.38,14
+RJ,pirai,15,2544.07,15
+RJ,porciuncula,8,1112.13,8
+RJ,portela,1,246.26,1
+RJ,porto real,7,1645.92,7
+RJ,pureza,1,65.0,1
+RJ,purilandia,1,194.48,1
+RJ,quatis,5,617.87,5
+RJ,queimados,53,7048.55,53
+RJ,quissama,11,1879.6799999999998,11
+RJ,raposo,3,650.84,3
+RJ,resende,115,16300.28,115
+RJ,rio bonito,27,4946.29,27
+RJ,rio claro,3,444.48,3
+RJ,rio das flores,6,665.69,6
+RJ,rio das ostras,130,22385.63,130
+RJ,rio de janeiro,6601,1111872.32,6601
+RJ,sacra familia do tingua,1,149.04,1
+RJ,santa isabel do rio preto,1,761.82,1
+RJ,santa maria,1,24.11,1
+RJ,santa maria madalena,7,1247.45,7
+RJ,santa rita da floresta,1,96.8,1
+RJ,santanesia,4,439.58,4
+RJ,santo amaro de campos,6,1777.56,6
+RJ,santo antonio de padua,30,5765.6,30
+RJ,santo eduardo,2,260.06,2
+RJ,sao fidelis,23,2597.42,23
+RJ,sao francisco de itabapoana,15,1816.41,15
+RJ,sao goncalo,385,59387.42,385
+RJ,sao joao da barra,15,2548.11,15
+RJ,sao joao de meriti,124,20782.72,124
+RJ,sao joao do paraiso,1,188.65,1
+RJ,sao jose de uba,3,544.52,3
+RJ,sao jose do ribeirao,1,115.84,1
+RJ,sao jose do turvo,3,285.36,3
+RJ,sao jose do vale do rio preto,12,1527.6599999999999,12
+RJ,sao pedro da aldeia,46,5712.97,46
+RJ,sao sebastiao de campos,1,38.9,1
+RJ,sao sebastiao do alto,4,616.6999999999999,4
+RJ,sao sebastiao do paraiba,1,571.16,1
+RJ,sapucaia,4,675.82,4
+RJ,saquarema,45,5614.72,45
+RJ,seropedica,33,5256.35,33
+RJ,silva jardim,4,691.27,4
+RJ,sumidouro,10,1325.97,10
+RJ,tangua,6,636.04,6
+RJ,teresopolis,119,20266.34,119
+RJ,tocos,2,381.47,2
+RJ,trajano de moraes,8,913.04,8
+RJ,travessao,4,510.43,4
+RJ,tres irmaos,1,171.20000000000002,1
+RJ,tres rios,38,8014.46,38
+RJ,valao do barro,1,86.54,1
+RJ,valenca,27,4610.21,27
+RJ,varre-sai,4,1035.37,4
+RJ,vassouras,36,5309.87,36
+RJ,vila muriqui,7,856.45,7
+RJ,visconde de maua,3,188.05,3
+RJ,volta redonda,227,38606.53,227
+RJ,werneck,2,445.60999999999996,2
+RN,acari,1,412.43,1
+RN,acu,2,553.4499999999999,2
+RN,agua nova,1,77.67,1
+RN,alexandria,2,221.92,2
+RN,almino afonso,1,470.01,1
+RN,alto do rodrigues,8,3346.7000000000003,8
+RN,angicos,1,101.77,1
+RN,antonio martins,1,97.67,1
+RN,apodi,3,492.07,3
+RN,areia branca,3,312.99,3
+RN,barauna,1,288.37,1
+RN,bodo,1,84.57,1
+RN,caicara do norte,1,1157.41,1
+RN,caico,10,3215.31,10
+RN,caraubas,3,1246.76,3
+RN,carnauba dos dantas,1,168.45,1
+RN,carnaubais,2,429.65000000000003,2
+RN,ceara-mirim,2,351.02,2
+RN,coronel joao pessoa,1,124.33,1
+RN,currais novos,7,1720.3400000000001,7
+RN,extremoz,2,160.14,2
+RN,felipe guerra,1,157.65,1
+RN,florania,1,60.34,1
+RN,francisco dantas,1,224.78,1
+RN,frutuoso gomes,1,115.87,1
+RN,galinhos,1,275.48,1
+RN,goianinha,3,454.71000000000004,3
+RN,governador dix-sept rosado,1,194.82,1
+RN,guamare,2,242.64,2
+RN,ielmo marinho,2,240.32,2
+RN,ipueira,1,228.57,1
+RN,itau,2,761.37,2
+RN,jandaira,1,148.22,1
+RN,janduis,1,119.38,1
+RN,japi,1,294.19,1
+RN,jardim de piranhas,1,48.74,1
+RN,jardim do serido,3,555.81,3
+RN,joao camara,2,1466.81,2
+RN,jose da penha,1,196.43,1
+RN,jucurutu,4,839.8299999999999,4
+RN,lagoa d'anta,1,194.34,1
+RN,lagoa de velhos,1,234.19,1
+RN,lagoa nova,2,205.2,2
+RN,lagoa salgada,1,82.72,1
+RN,macaiba,5,757.17,5
+RN,macau,5,1297.69,5
+RN,marcelino vieira,1,169.02,1
+RN,martins,2,250.31,2
+RN,messias targino,1,106.85,1
+RN,montanhas,1,361.07,1
+RN,monte alegre,1,41.14,1
+RN,mossoro,35,6244.01,35
+RN,natal,203,42625.1,203
+RN,nova cruz,3,583.25,3
+RN,parelhas,4,1496.8000000000002,4
+RN,parnamirim,57,9141.03,57
+RN,patu,3,302.87,3
+RN,pau dos ferros,9,3176.81,9
+RN,pedra preta,1,100.75,1
+RN,pedro velho,1,99.11,1
+RN,pendencias,2,410.02,2
+RN,poco de pedra,1,190.66,1
+RN,portalegre,2,513.01,2
+RN,riacho da cruz,1,177.34,1
+RN,rodolfo fernandes,2,168.19,2
+RN,santa cruz,4,734.7,4
+RN,santa maria,1,53.98,1
+RN,santana do serido,2,943.37,2
+RN,santo antonio,1,507.98,1
+RN,sao goncalo do amarante,7,1184.28,7
+RN,sao joao do sabugi,1,51.74,1
+RN,sao jose de mipibu,3,956.19,3
+RN,sao jose do campestre,1,307.46,1
+RN,sao jose do serido,1,203.31,1
+RN,sao miguel,4,1004.52,4
+RN,sao miguel do gostoso,2,473.04,2
+RN,sao paulo do potengi,2,319.78,2
+RN,sao rafael,1,62.28,1
+RN,sao tome,1,78.84,1
+RN,sao vicente,2,376.40999999999997,2
+RN,serra de sao bento,2,328.15,2
+RN,severiano melo,1,190.83,1
+RN,sitio novo,1,170.14,1
+RN,tenente ananias,1,273.92,1
+RN,tibau do sul,1,144.79,1
+RN,upanema,3,1476.25,3
+RN,vera cruz,1,74.14,1
+RN,vicosa,1,86.58,1
+RN,vila flor,1,137.98,1
+RO,alta floresta d'oeste,3,805.5,3
+RO,alto paraiso,1,1260.76,1
+RO,alvorada d'oeste,1,430.1,1
+RO,ariquemes,13,4969.64,13
+RO,buritis,2,335.58,2
+RO,cabixi,1,234.5,1
+RO,cacaulandia,1,108.73,1
+RO,cacoal,12,2414.7999999999997,12
+RO,candeias do jamari,1,338.74,1
+RO,castanheiras,1,80.8,1
+RO,cerejeiras,1,161.23,1
+RO,colorado do oeste,3,334.64,3
+RO,costa marques,2,1658.28,2
+RO,cujubim,1,132.94,1
+RO,espigao do oeste,6,951.17,6
+RO,extrema,3,970.43,3
+RO,guajara-mirim,3,202.85,3
+RO,jaru,6,910.26,6
+RO,ji-parana,17,4435.13,17
+RO,machadinho d'oeste,3,572.96,3
+RO,ministro andreazza,1,120.05,1
+RO,mirante da serra,1,165.6,1
+RO,mutum parana,1,72.27,1
+RO,nova brasilandia d'oeste,2,472.14,2
+RO,nova mamore,2,803.1600000000001,2
+RO,ouro preto do oeste,4,718.48,4
+RO,pimenta bueno,7,1622.27,7
+RO,porto velho,108,26028.6,108
+RO,presidente medici,2,188.32999999999998,2
+RO,rolim de moura,7,748.15,7
+RO,sao francisco do guapore,2,405.61,2
+RO,sao miguel do guapore,4,622.23,4
+RO,seringueiras,2,504.64,2
+RO,urupa,3,403.21,3
+RO,vilhena,16,2791.92,16
+RR,boa vista,40,8867.83,40
+RR,bonfim,1,171.69,1
+RS,acegua,2,282.39,2
+RS,agua santa,2,227.59,2
+RS,aguas claras,1,116.96,1
+RS,agudo,1,32.1,1
+RS,ajuricaba,2,245.37,2
+RS,alegrete,35,5296.24,35
+RS,alegria,1,58.28,1
+RS,almirante tamandare do sul,1,65.0,1
+RS,alpestre,1,136.98,1
+RS,alto alegre,1,165.72,1
+RS,alvorada,50,7368.62,50
+RS,ametista do sul,2,275.51,2
+RS,andre da rocha,1,146.13,1
+RS,anta gorda,4,655.25,4
+RS,antonio prado,5,667.5699999999999,5
+RS,ararica,2,252.0,2
+RS,aratiba,1,106.49,1
+RS,arroio do meio,9,1608.08,9
+RS,arroio do sal,7,1442.1999999999998,7
+RS,arroio do tigre,2,319.0,2
+RS,arroio dos ratos,9,1226.52,9
+RS,arroio grande,3,457.84000000000003,3
+RS,arvorezinha,4,328.79,4
+RS,augusto pestana,2,143.95,2
+RS,aurea,2,451.5,2
+RS,bage,62,10286.98,62
+RS,balneario pinhal,7,1043.94,7
+RS,barao,1,57.53,1
+RS,barao de cotegipe,2,154.71,2
+RS,barao do triunfo,1,99.14,1
+RS,barra do ribeiro,5,742.89,5
+RS,barra do rio azul,1,148.71,1
+RS,barracao,2,132.2,2
+RS,barros cassal,3,800.36,3
+RS,bento goncalves,53,8146.78,53
+RS,boa vista das missoes,1,367.56,1
+RS,boa vista do burica,1,252.09,1
+RS,boa vista do cadeado,1,464.98,1
+RS,boa vista do sul,1,46.22,1
+RS,bom principio,6,1140.75,6
+RS,bom retiro do sul,2,1484.21,2
+RS,boqueirao do leao,2,300.14,2
+RS,bossoroca,1,213.34,1
+RS,butia,6,1312.6100000000001,6
+RS,cacapava do sul,5,1044.83,5
+RS,cacequi,3,342.23,3
+RS,cachoeira do sul,30,5281.79,30
+RS,cachoeirinha,72,10975.34,72
+RS,caibate,1,340.24,1
+RS,camaqua,12,1998.21,12
+RS,cambara do sul,1,400.64,1
+RS,campestre da serra,2,1390.06,2
+RS,campina das missoes,2,211.0,2
+RS,campinas do sul,6,1531.2400000000002,6
+RS,campo bom,35,5137.09,35
+RS,campo novo,2,593.01,2
+RS,campos borges,3,877.04,3
+RS,candelaria,4,673.1,4
+RS,candido godoi,1,1005.84,1
+RS,candiota,4,899.5999999999999,4
+RS,canela,17,2798.2599999999998,17
+RS,cangucu,12,1545.69,12
+RS,canoas,205,31602.36,205
+RS,capao da canoa,38,5634.34,38
+RS,capao da porteira,2,215.13,2
+RS,capao do cipo,3,400.98,3
+RS,capao do leao,4,1254.66,4
+RS,capela de santana,2,417.53000000000003,2
+RS,capitao,1,146.5,1
+RS,capivari do sul,1,197.95,1
+RS,carazinho,23,2466.74,23
+RS,carlos barbosa,19,3015.42,19
+RS,casca,7,1628.94,7
+RS,caseiros,1,152.66,1
+RS,catuipe,4,655.72,4
+RS,caxias do sul,220,41558.68,220
+RS,cerrito,1,77.57,1
+RS,cerro grande,1,68.02,1
+RS,cerro grande do sul,2,222.36,2
+RS,cerro largo,7,907.81,7
+RS,chapada,4,1545.3300000000002,4
+RS,charqueadas,17,2125.02,17
+RS,charrua,1,141.63,1
+RS,chiapetta,1,148.15,1
+RS,chui,5,908.1600000000001,5
+RS,cidreira,5,769.02,5
+RS,ciriaco,1,252.74,1
+RS,colinas,1,48.09,1
+RS,colorado,3,259.8,3
+RS,condor,4,301.47,4
+RS,constantina,1,348.77,1
+RS,coqueiro baixo,2,121.76,2
+RS,coqueiros do sul,1,49.06,1
+RS,cotipora,1,127.53,1
+RS,coxilha,2,191.5,2
+RS,crissiumal,2,1671.3000000000002,2
+RS,cristal,3,631.04,3
+RS,cruz alta,30,3471.23,30
+RS,cruzeiro do sul,3,2383.2799999999997,3
+RS,david canabarro,2,222.77,2
+RS,dezesseis de novembro,1,102.75,1
+RS,dois irmaos,17,3847.42,17
+RS,dom feliciano,5,635.95,5
+RS,dom pedrito,10,1708.09,10
+RS,dona francisca,2,340.15,2
+RS,eldorado do sul,15,2127.04,15
+RS,encantado,11,3196.4500000000003,11
+RS,encruzilhada do sul,8,1142.59,8
+RS,entre-ijuis,3,585.04,3
+RS,erebango,1,139.42,1
+RS,erechim,56,7689.0599999999995,56
+RS,erval grande,2,432.74,2
+RS,esmeralda,1,160.76,1
+RS,espumoso,7,1480.46,7
+RS,estacao,5,815.22,5
+RS,estancia velha,20,3563.85,20
+RS,esteio,39,6986.45,39
+RS,estrela,15,2460.42,15
+RS,estrela velha,1,30.0,1
+RS,eugenio de castro,1,111.76,1
+RS,farroupilha,27,3757.49,27
+RS,faxinalzinho,1,35.95,1
+RS,fazenda vilanova,2,192.21,2
+RS,feliz,14,2947.8500000000004,14
+RS,flores da cunha,12,1732.5700000000002,12
+RS,fontoura xavier,1,214.16,1
+RS,formigueiro,2,311.27,2
+RS,fortaleza dos valos,1,119.95,1
+RS,frederico westphalen,14,1319.89,14
+RS,garibaldi,9,1216.25,9
+RS,garruchos,1,79.04,1
+RS,gaurama,3,356.61,3
+RS,general camara,1,106.87,1
+RS,getulio vargas,8,919.9399999999999,8
+RS,girua,10,1560.97,10
+RS,glorinha,2,283.3,2
+RS,gramado,29,3750.71,29
+RS,gramado dos loureiros,1,237.54,1
+RS,gramado xavier,1,68.97,1
+RS,gravatai,111,21131.64,111
+RS,guabiju,1,51.83,1
+RS,guaiba,31,6139.13,31
+RS,guapore,18,3987.06,18
+RS,guarani das missoes,2,102.94,2
+RS,herval,1,192.56,1
+RS,herveiras,1,125.52,1
+RS,horizontina,7,735.5500000000001,7
+RS,hulha negra,1,372.06,1
+RS,ibarama,1,167.92,1
+RS,ibiaca,2,320.87,2
+RS,ibiraiaras,2,267.71,2
+RS,ibiruba,20,3695.73,20
+RS,igrejinha,17,1581.6399999999999,17
+RS,ijui,52,6870.15,52
+RS,ilopolis,3,231.57999999999998,3
+RS,imbe,13,3105.67,13
+RS,imigrante,3,357.35,3
+RS,ipe,2,229.22000000000003,2
+RS,ipiranga,1,95.74,1
+RS,ipiranga do sul,1,133.25,1
+RS,irai,2,598.26,2
+RS,itaara,1,73.15,1
+RS,itaqui,9,1522.33,9
+RS,itatiba do sul,1,55.95,1
+RS,ivora,1,175.79,1
+RS,ivoti,13,1507.43,13
+RS,jacuizinho,1,74.26,1
+RS,jacutinga,1,65.5,1
+RS,jaguarao,8,1242.01,8
+RS,jaguari,3,209.34,3
+RS,jaquirana,1,547.98,1
+RS,jari,4,421.21000000000004,4
+RS,julio de castilhos,10,983.04,10
+RS,lagoa dos tres cantos,1,91.18,1
+RS,lagoa vermelha,14,1883.04,14
+RS,lagoao,1,175.43,1
+RS,lajeado,50,9440.38,50
+RS,lavras do sul,3,646.56,3
+RS,liberato salzano,1,31.22,1
+RS,lindolfo collor,1,130.65,1
+RS,macambara,2,205.72,2
+RS,machadinho,1,65.6,1
+RS,mampituba,1,58.55,1
+RS,manoel viana,3,260.36,3
+RS,maquine,1,207.4,1
+RS,marau,22,2631.98,22
+RS,mariano moro,1,137.26,1
+RS,marques de souza,1,45.0,1
+RS,mata,1,418.35,1
+RS,mato leitao,2,226.59,2
+RS,maximiliano de almeida,3,422.55,3
+RS,minas do leao,1,280.72,1
+RS,miraguai,1,183.29,1
+RS,montauri,2,514.42,2
+RS,monte alverne,1,282.01,1
+RS,monte belo do sul,1,116.74,1
+RS,monte bonito,1,50.34,1
+RS,montenegro,32,5643.51,32
+RS,morro redondo,1,233.66,1
+RS,morro reuter,3,741.4,3
+RS,mostardas,11,1720.33,11
+RS,nao-me-toque,7,1062.1,7
+RS,nonoai,2,252.67,2
+RS,nova alvorada,3,331.88,3
+RS,nova araca,1,136.59,1
+RS,nova bassano,4,471.77,4
+RS,nova boa vista,1,75.85,1
+RS,nova esperanca do sul,2,368.64,2
+RS,nova hartz,3,755.22,3
+RS,nova padua,1,89.36,1
+RS,nova palma,2,466.62,2
+RS,nova petropolis,8,600.06,8
+RS,nova prata,16,1541.25,16
+RS,nova roma do sul,1,1127.29,1
+RS,nova santa rita,5,1064.0,5
+RS,novo barreiro,2,232.02999999999997,2
+RS,novo cabrais,1,71.15,1
+RS,novo hamburgo,121,20527.59,121
+RS,novo machado,1,77.66,1
+RS,osorio,35,7225.75,35
+RS,osvaldo kroeff,1,262.16,1
+RS,padre gonzales,1,69.54,1
+RS,palmares do sul,5,518.4,5
+RS,palmeira das missoes,16,1943.52,16
+RS,palmitinho,5,359.99,5
+RS,panambi,17,4059.15,17
+RS,pantano grande,3,348.93,3
+RS,parai,3,290.6,3
+RS,paraiso do sul,1,47.29,1
+RS,pareci novo,1,37.1,1
+RS,parobe,12,1985.07,12
+RS,passo fundo,112,18088.81,112
+RS,pedras altas,1,105.28,1
+RS,pedro osorio,3,752.98,3
+RS,pejucara,4,830.35,4
+RS,pelotas,183,27209.33,183
+RS,picada cafe,1,49.6,1
+RS,pinhal da serra,1,35.0,1
+RS,pinheiro machado,5,713.31,5
+RS,piratini,1,87.64,1
+RS,planalto,3,337.81,3
+RS,polo petroquimico de triunfo,1,20.7,1
+RS,pontao,1,71.79,1
+RS,portao,10,959.46,10
+RS,porto alegre,1342,214861.83,1342
+RS,porto lucena,1,77.56,1
+RS,porto xavier,5,690.1800000000001,5
+RS,pouso novo,1,81.82,1
+RS,presidente lucena,1,32.09,1
+RS,progresso,1,242.59,1
+RS,protasio alves,2,165.06,2
+RS,putinga,2,182.56,2
+RS,quarai,4,2474.1499999999996,4
+RS,quevedos,2,131.69,2
+RS,rainha do mar,1,82.03,1
+RS,redentora,3,449.34000000000003,3
+RS,restinga seca,3,324.33,3
+RS,rio dos indios,1,102.75,1
+RS,rio grande,121,19068.89,121
+RS,rio pardo,5,791.45,5
+RS,roca sales,2,237.16,2
+RS,rodeio bonito,2,264.44,2
+RS,rolante,9,1078.45,9
+RS,ronda alta,6,1914.31,6
+RS,roque gonzales,5,643.61,5
+RS,rosario do sul,14,1292.52,14
+RS,salto do jacui,4,301.94,4
+RS,salvador do sul,1,206.99,1
+RS,sananduva,6,585.57,6
+RS,santa barbara do sul,2,180.09,2
+RS,santa clara do sul,2,394.12,2
+RS,santa cruz do sul,62,11974.65,62
+RS,santa maria,193,37085.56,193
+RS,santa maria do herval,1,115.44,1
+RS,santa rosa,32,3601.11,32
+RS,santa vitoria do palmar,12,2049.67,12
+RS,santana da boa vista,2,115.8,2
+RS,santana do livramento,20,4911.3,20
+RS,santiago,26,2974.7,26
+RS,santo angelo,45,6448.63,45
+RS,santo antonio da patrulha,17,5603.12,17
+RS,santo antonio das missoes,4,495.32,4
+RS,santo antonio do palma,2,104.09,2
+RS,santo antonio do planalto,1,221.07,1
+RS,santo augusto,8,1319.28,8
+RS,santo cristo,7,766.18,7
+RS,santo expedito do sul,1,237.54,1
+RS,sao borja,18,2616.8900000000003,18
+RS,sao francisco de assis,2,145.39,2
+RS,sao francisco de paula,5,622.6800000000001,5
+RS,sao gabriel,23,2829.82,23
+RS,sao jeronimo,7,729.3399999999999,7
+RS,sao joao da urtiga,1,156.64,1
+RS,sao jorge,1,87.02,1
+RS,sao jose do hortencio,2,373.23,2
+RS,sao jose do inhacora,1,102.7,1
+RS,sao jose do norte,7,710.3199999999999,7
+RS,sao jose do ouro,5,507.09,5
+RS,sao leopoldo,103,13185.7,103
+RS,sao lourenco do sul,14,2453.15,14
+RS,sao luiz gonzaga,15,4008.72,15
+RS,sao marcos,9,994.76,9
+RS,sao martinho,1,448.32,1
+RS,sao nicolau,1,138.6,1
+RS,sao paulo das missoes,2,459.26,2
+RS,sao pedro do butia,1,116.19,1
+RS,sao pedro do sul,1,121.97,1
+RS,sao sebastiao do cai,12,2053.37,12
+RS,sao sepe,6,695.71,6
+RS,sao valentim,3,609.47,3
+RS,sao vendelino,2,194.28,2
+RS,sapiranga,23,4014.95,23
+RS,sapucaia do sul,39,6392.7,39
+RS,sarandi,5,260.38,5
+RS,seberi,2,169.67000000000002,2
+RS,segredo,1,60.14,1
+RS,selbach,1,68.13,1
+RS,senador salgado filho,1,102.49,1
+RS,serafina correa,9,1042.3799999999999,9
+RS,serio,1,39.69,1
+RS,sertao,3,410.35,3
+RS,sertao santana,1,39.13,1
+RS,sete de setembro,1,75.73,1
+RS,silveira martins,1,155.14,1
+RS,sinimbu,2,112.11,2
+RS,sobradinho,3,403.11,3
+RS,soledade,5,671.66,5
+RS,tapejara,9,1364.49,9
+RS,tapera,1,79.07,1
+RS,tapes,6,934.26,6
+RS,taquara,21,4954.91,21
+RS,taquari,11,1870.86,11
+RS,taquarucu do sul,1,93.29,1
+RS,tavares,1,273.62,1
+RS,tenente portela,3,604.0500000000001,3
+RS,terra de areia,5,1250.93,5
+RS,teutonia,14,1826.22,14
+RS,tiradentes do sul,1,67.7,1
+RS,toropi,3,1682.98,3
+RS,torres,17,1833.3200000000002,17
+RS,tramandai,25,3289.92,25
+RS,travesseiro,1,32.71,1
+RS,tres arroios,3,236.8,3
+RS,tres cachoeiras,7,831.42,7
+RS,tres coroas,6,910.48,6
+RS,tres de maio,12,2334.85,12
+RS,tres forquilhas,1,98.13,1
+RS,tres passos,11,1503.72,11
+RS,trindade do sul,4,3372.73,4
+RS,triunfo,11,2180.86,11
+RS,tucunduva,3,437.36,3
+RS,tupancireta,4,469.51,4
+RS,tupandi,3,361.04,3
+RS,tuparendi,2,291.12,2
+RS,uniao da serra,1,33.6,1
+RS,unistalda,1,64.47,1
+RS,uruguaiana,47,5460.4,47
+RS,vacaria,21,2768.24,21
+RS,vale do sol,1,37.09,1
+RS,vale real,3,264.34000000000003,3
+RS,vanini,1,106.87,1
+RS,venancio aires,26,3352.84,26
+RS,vera cruz,4,676.1,4
+RS,veranopolis,18,2878.08,18
+RS,vespasiano correa,1,163.25,1
+RS,viamao,70,7987.71,70
+RS,vicente dutra,1,31.22,1
+RS,victor graeff,2,181.25,2
+RS,vila flores,3,462.5,3
+RS,vila langaro,3,191.91,3
+RS,vila nova do sul,1,101.34,1
+RS,vista alegre,1,37.1,1
+RS,vitoria das missoes,1,64.0,1
+RS,xangri-la,8,1192.8700000000001,8
+SC,abdon batista,1,156.7,1
+SC,abelardo luz,6,797.5799999999999,6
+SC,agrolandia,1,60.91,1
+SC,agronomica,2,281.5,2
+SC,agua doce,1,336.05,1
+SC,aguas frias,1,318.98,1
+SC,aguas mornas,1,104.52,1
+SC,alfredo wagner,2,844.67,2
+SC,anchieta,3,357.53,3
+SC,angelina,1,142.05,1
+SC,anita garibaldi,5,385.93,5
+SC,anitapolis,2,642.38,2
+SC,antonio carlos,2,245.94,2
+SC,apiuna,7,1484.8,7
+SC,araquari,11,1285.3600000000001,11
+SC,ararangua,18,2786.74,18
+SC,armazem,2,289.35,2
+SC,arroio trinta,1,185.84,1
+SC,arvoredo,1,49.4,1
+SC,ascurra,4,414.25,4
+SC,atalanta,1,351.0,1
+SC,aurora,2,425.47,2
+SC,balneario arroio do silva,4,450.66999999999996,4
+SC,balneario barra do sul,4,482.62,4
+SC,balneario camboriu,97,18971.08,97
+SC,balneario gaivota,3,329.12,3
+SC,balneario picarras,8,1619.82,8
+SC,balneario rincao,3,444.3,3
+SC,barra velha,15,2014.4099999999999,15
+SC,belmonte,1,202.5,1
+SC,benedito novo,6,1093.77,6
+SC,biguacu,22,3738.8900000000003,22
+SC,blumenau,181,28625.75,181
+SC,bom jesus,2,993.16,2
+SC,bom retiro,1,88.37,1
+SC,bombinhas,15,2305.3,15
+SC,botuvera,2,215.17000000000002,2
+SC,braco do norte,20,3423.42,20
+SC,brusque,60,9731.21,60
+SC,cacador,40,5469.62,40
+SC,caibi,3,180.41,3
+SC,calmon,1,67.5,1
+SC,camboriu,27,3711.42,27
+SC,campo alegre,2,230.39,2
+SC,campo ere,7,706.0699999999999,7
+SC,campos novos,14,2438.37,14
+SC,canelinha,4,1012.72,4
+SC,canoinhas,27,5291.02,27
+SC,capinzal,10,1469.23,10
+SC,capivari de baixo,5,1028.73,5
+SC,catanduvas,6,834.99,6
+SC,caxambu do sul,1,34.6,1
+SC,celso ramos,2,1440.96,2
+SC,cerro negro,1,153.32,1
+SC,chapadao do lageado,1,321.9,1
+SC,chapeco,101,17500.06,101
+SC,cocal do sul,4,2182.2400000000002,4
+SC,concordia,47,6730.96,47
+SC,coronel freitas,1,98.65,1
+SC,coronel martins,2,152.14,2
+SC,correia pinto,11,1680.18,11
+SC,corupa,4,568.4300000000001,4
+SC,criciuma,91,16054.82,91
+SC,cunha pora,5,820.95,5
+SC,curitibanos,20,3469.8,20
+SC,dionisio cerqueira,3,500.53999999999996,3
+SC,dona emma,1,47.81,1
+SC,faxinal dos guedes,11,1948.77,11
+SC,florianopolis,556,97865.39,556
+SC,forquilhinha,13,1468.18,13
+SC,fragosos,1,115.9,1
+SC,fraiburgo,13,2338.54,13
+SC,frei rogerio,1,121.09,1
+SC,galvao,1,78.02,1
+SC,garopaba,22,3288.64,22
+SC,garuva,5,1647.66,5
+SC,gaspar,29,11602.95,29
+SC,governador celso ramos,3,463.36,3
+SC,grao para,3,269.92999999999995,3
+SC,gravatal,6,1418.28,6
+SC,guabiruba,5,786.81,5
+SC,guaraciaba,1,73.38,1
+SC,guaramirim,13,1736.26,13
+SC,guaruja do sul,4,395.63,4
+SC,herval d'oeste,9,1386.93,9
+SC,ibiam,4,460.34,4
+SC,ibicare,2,262.09000000000003,2
+SC,ibirama,13,1429.2,13
+SC,icara,21,2850.9,21
+SC,ilhota,4,877.22,4
+SC,imbituba,31,3593.92,31
+SC,imbuia,4,1759.81,4
+SC,indaial,26,4052.06,26
+SC,iomere,1,63.79,1
+SC,ipira,2,194.74,2
+SC,ipora do oeste,6,615.23,6
+SC,ipumirim,5,377.52,5
+SC,irani,4,372.32,4
+SC,irineopolis,4,279.87,4
+SC,ita,3,368.03,3
+SC,itaiopolis,8,1555.42,8
+SC,itajai,119,21465.52,119
+SC,itapema,44,7233.42,44
+SC,itapiranga,11,2921.8900000000003,11
+SC,itapoa,9,1087.75,9
+SC,ituporanga,15,3580.25,15
+SC,jabora,2,302.78999999999996,2
+SC,jacinto machado,4,447.17,4
+SC,jaguaruna,2,196.89,2
+SC,jaragua do sul,88,15299.9,88
+SC,joacaba,26,5233.09,26
+SC,joinville,257,40508.69,257
+SC,jose boiteux,1,165.0,1
+SC,lages,83,13616.23,83
+SC,laguna,14,2696.25,14
+SC,lajeado grande,1,145.08,1
+SC,laurentino,5,863.27,5
+SC,lauro muller,8,1597.19,8
+SC,leoberto leal,1,40.09,1
+SC,lindoia do sul,1,120.22,1
+SC,lontras,3,455.59,3
+SC,luiz alves,2,144.4,2
+SC,macieira,1,55.56,1
+SC,mafra,25,2327.31,25
+SC,major vieira,3,329.03,3
+SC,maracana,2,331.25,2
+SC,maravilha,9,686.6,9
+SC,massaranduba,3,479.34000000000003,3
+SC,meleiro,3,262.78999999999996,3
+SC,mondai,2,458.31,2
+SC,monte carlo,3,372.87,3
+SC,monte castelo,1,96.65,1
+SC,morro da fumaca,7,1921.45,7
+SC,morro grande,1,158.58,1
+SC,navegantes,31,7500.85,31
+SC,nossa senhora de caravaggio,1,154.38,1
+SC,nova erechim,3,306.78,3
+SC,nova itaberaba,2,344.77,2
+SC,nova trento,6,972.21,6
+SC,nova veneza,3,470.9,3
+SC,novo horizonte,1,92.67,1
+SC,orleans,8,1617.67,8
+SC,otacilio costa,5,1162.8500000000001,5
+SC,ouro,1,310.25,1
+SC,paial,1,165.71,1
+SC,palhoca,90,12938.05,90
+SC,palma sola,4,1010.5500000000001,4
+SC,palmeira,3,665.88,3
+SC,palmitos,5,760.98,5
+SC,papanduva,8,876.65,8
+SC,paraiso,1,99.65,1
+SC,passo de torres,7,731.26,7
+SC,passos maia,2,248.1,2
+SC,paulo lopes,2,271.66,2
+SC,penha,15,2379.71,15
+SC,peritiba,2,144.70999999999998,2
+SC,petrolandia,5,712.05,5
+SC,picarras,1,170.84,1
+SC,pinhalzinho,9,1040.2,9
+SC,piratuba,5,1095.8799999999999,5
+SC,pomerode,9,1797.55,9
+SC,ponte alta do norte,1,59.46,1
+SC,ponte serrada,3,483.78,3
+SC,porto belo,9,1079.3200000000002,9
+SC,porto uniao,14,3329.43,14
+SC,pouso redondo,3,655.27,3
+SC,praia grande,4,536.92,4
+SC,presidente castello branco,1,35.0,1
+SC,presidente getulio,6,846.13,6
+SC,presidente nereu,1,70.61,1
+SC,quilombo,4,240.79,4
+SC,rancho queimado,2,343.99,2
+SC,rio das antas,2,213.78,2
+SC,rio do campo,4,822.25,4
+SC,rio do oeste,3,433.84000000000003,3
+SC,rio do sul,35,5695.14,35
+SC,rio dos cedros,1,67.82,1
+SC,rio fortuna,3,527.47,3
+SC,rio negrinho,13,1381.73,13
+SC,rio rufino,1,76.66,1
+SC,riqueza,3,302.68,3
+SC,rodeio,7,985.9499999999999,7
+SC,romelandia,1,176.87,1
+SC,salto veloso,4,497.07,4
+SC,sangao,3,316.25,3
+SC,santa cecilia,4,579.5,4
+SC,santa cruz do timbo,1,49.31,1
+SC,santa rosa de lima,3,232.79,3
+SC,santa rosa do sul,1,218.27,1
+SC,santa terezinha,1,66.01,1
+SC,santo amaro da imperatriz,11,3245.7,11
+SC,sao bento do sul,44,6105.45,44
+SC,sao bernardino,1,208.48,1
+SC,sao bonifacio,1,116.46,1
+SC,sao carlos,5,688.57,5
+SC,sao cristovao do sul,1,137.07,1
+SC,sao domingos,2,182.18,2
+SC,sao francisco do sul,16,1890.5,16
+SC,sao joao batista,10,2080.58,10
+SC,sao joao do sul,2,902.37,2
+SC,sao joaquim,9,1310.39,9
+SC,sao jose,167,24230.43,167
+SC,sao jose do cedro,5,598.77,5
+SC,sao jose do cerrito,3,333.34000000000003,3
+SC,sao lourenco do oeste,9,997.13,9
+SC,sao ludgero,3,746.51,3
+SC,sao martinho,2,489.99,2
+SC,sao miguel do oeste,39,7165.31,39
+SC,sao pedro de alcantara,2,312.90999999999997,2
+SC,saudades,4,428.95,4
+SC,schroeder,9,1356.76,9
+SC,seara,5,694.8199999999999,5
+SC,sideropolis,4,371.11,4
+SC,sombrio,10,1437.12,10
+SC,taio,14,4792.66,14
+SC,tangara,1,373.82,1
+SC,tijucas,30,4144.17,30
+SC,timbe do sul,3,262.92,3
+SC,timbo,20,4468.12,20
+SC,tres barras,5,380.56,5
+SC,treviso,1,136.98,1
+SC,treze tilias,11,1159.36,11
+SC,trombudo central,4,250.85999999999999,4
+SC,tubarao,60,12130.98,60
+SC,tunapolis,1,343.68,1
+SC,turvo,4,258.53000000000003,4
+SC,uniao do oeste,1,40.09,1
+SC,urubici,3,378.58,3
+SC,urussanga,10,1083.08,10
+SC,vargeao,1,520.65,1
+SC,vargem bonita,5,826.27,5
+SC,videira,44,9246.03,44
+SC,witmarsum,3,230.35,3
+SC,xanxere,29,4906.49,29
+SC,xavantina,2,217.70999999999998,2
+SC,xaxim,10,1928.25,10
+SC,zortea,2,137.57,2
+SE,aquidaba,1,113.55,1
+SE,aracaju,213,42347.44,213
+SE,barra dos coqueiros,3,629.46,3
+SE,brejo grande,1,268.84,1
+SE,campo do brito,1,114.89,1
+SE,caninde de sao francisco,2,359.83,2
+SE,capela,3,889.1700000000001,3
+SE,carmopolis,2,163.45,2
+SE,cedro de sao joao,3,2235.98,3
+SE,cristinapolis,1,145.37,1
+SE,estancia,9,3157.95,9
+SE,general maynard,1,217.85,1
+SE,graccho cardoso,1,723.72,1
+SE,indiaroba,1,68.8,1
+SE,itabaiana,15,3840.41,15
+SE,itabaianinha,2,289.33,2
+SE,itabi,1,141.03,1
+SE,itaporanga d'ajuda,1,263.24,1
+SE,japaratuba,1,138.24,1
+SE,japoata,1,220.6,1
+SE,lagarto,11,2362.35,11
+SE,macambira,1,259.15,1
+SE,malhador,1,58.14,1
+SE,monte alegre de sergipe,1,128.0,1
+SE,neopolis,1,257.1,1
+SE,nossa senhora da gloria,2,274.72,2
+SE,nossa senhora das dores,1,598.23,1
+SE,nossa senhora de lourdes,1,118.1,1
+SE,nossa senhora do socorro,14,2809.56,14
+SE,pinhao,1,469.47,1
+SE,pirambu,1,305.77,1
+SE,poco redondo,1,546.78,1
+SE,poco verde,4,689.3100000000001,4
+SE,propria,3,559.99,3
+SE,riachuelo,1,90.97,1
+SE,ribeiropolis,1,100.77,1
+SE,santo amaro das brotas,1,62.28,1
+SE,sao cristovao,7,900.4300000000001,7
+SE,sao francisco,3,1072.06,3
+SE,sao miguel do aleixo,1,70.86,1
+SE,simao dias,7,1082.91,7
+SE,telha,1,229.65,1
+SE,tobias barreto,2,264.52,2
+SE,tomar do geru,2,333.47,2
+SE,umbauba,3,315.39,3
+SP,adamantina,35,6108.5,35
+SP,adolfo,5,441.59000000000003,5
+SP,agisse,1,56.37,1
+SP,aguai,9,2370.7999999999997,9
+SP,aguas da prata,10,1257.57,10
+SP,aguas de lindoia,22,3758.36,22
+SP,aguas de santa barbara,3,202.03,3
+SP,aguas de sao pedro,2,304.03,2
+SP,agudos,16,1508.95,16
+SP,ajapi,1,121.34,1
+SP,alambari,3,228.94,3
+SP,alfredo marcondes,1,169.23,1
+SP,altinopolis,4,1506.04,4
+SP,aluminio,13,1500.64,13
+SP,alvares florence,2,227.23,2
+SP,alvares machado,8,4227.42,8
+SP,alvaro de carvalho,2,399.0,2
+SP,americana,216,28142.82,216
+SP,americo brasiliense,17,2688.89,17
+SP,americo de campos,1,293.36,1
+SP,amparo,63,12606.72,63
+SP,analandia,4,575.7,4
+SP,andradina,40,7089.02,40
+SP,angatuba,8,983.03,8
+SP,anhembi,1,120.09,1
+SP,anhumas,1,72.42,1
+SP,aparecida,25,4208.91,25
+SP,aparecida d'oeste,1,31.75,1
+SP,aparecida de monte alto,1,199.26,1
+SP,aparecida de sao manuel,2,256.78999999999996,2
+SP,apiai,6,714.94,6
+SP,aracariguama,8,751.61,8
+SP,aracatuba,138,19261.27,138
+SP,aracoiaba da serra,11,1701.76,11
+SP,aramina,1,111.61,1
+SP,arandu,3,332.64,3
+SP,arapei,2,353.71,2
+SP,araraquara,150,22649.93,150
+SP,araras,93,15010.42,93
+SP,arealva,3,236.92000000000002,3
+SP,areias,3,568.63,3
+SP,areiopolis,3,944.24,3
+SP,ariranha,5,647.27,5
+SP,artur nogueira,40,6723.88,40
+SP,aruja,68,8699.66,68
+SP,assis,84,13819.31,84
+SP,atibaia,154,23180.88,154
+SP,auriflama,10,2029.77,10
+SP,avanhandava,7,905.33,7
+SP,avare,63,9713.47,63
+SP,bady bassitt,6,615.24,6
+SP,balbinos,1,69.29,1
+SP,balsamo,6,1383.48,6
+SP,bananal,5,702.49,5
+SP,bandeirantes d'oeste,1,65.09,1
+SP,barao ataliba nogueira,1,1351.51,1
+SP,bariri,15,3075.22,15
+SP,barra bonita,28,4440.92,28
+SP,barra do turvo,3,380.5,3
+SP,barretos,69,10351.45,69
+SP,barrinha,18,3321.15,18
+SP,barueri,419,57077.11,419
+SP,bastos,17,1673.94,17
+SP,batatais,27,6130.55,27
+SP,bauru,263,44292.81,263
+SP,bebedouro,51,6141.75,51
+SP,bento de abreu,2,371.48,2
+SP,bernardino de campos,4,328.87,4
+SP,bertioga,47,10451.08,47
+SP,bilac,7,817.86,7
+SP,birigui,78,16626.83,78
+SP,biritiba-mirim,10,1579.77,10
+SP,boa esperanca do sul,11,1012.62,11
+SP,bocaina,6,1520.62,6
+SP,bofete,5,758.67,5
+SP,boituva,47,7974.5,47
+SP,bom jesus dos perdoes,17,1930.03,17
+SP,bonfim paulista,18,2850.17,18
+SP,bora,1,139.71,1
+SP,boraceia,1,39.96,1
+SP,borborema,8,936.8,8
+SP,botelho,1,265.04,1
+SP,botucatu,100,18965.12,100
+SP,braganca paulista,144,22683.22,144
+SP,brauna,5,482.35,5
+SP,brodowski,9,1123.3999999999999,9
+SP,brotas,12,1269.88,12
+SP,buri,10,1103.39,10
+SP,buritama,9,1234.42,9
+SP,buritizal,2,102.88,2
+SP,cabralia paulista,4,263.31,4
+SP,cabreuva,6,834.1199999999999,6
+SP,cacapava,72,11473.43,72
+SP,cachoeira paulista,25,3768.0099999999998,25
+SP,caconde,10,1829.5700000000002,10
+SP,cafelandia,8,846.2,8
+SP,caieiras,97,14186.28,97
+SP,caiua,2,170.99,2
+SP,cajamar,97,11413.59,97
+SP,cajati,16,2100.69,16
+SP,cajobi,8,1162.89,8
+SP,cajuru,9,793.9,9
+SP,campina do monte alegre,2,291.99,2
+SP,campinas,1406,209028.97,1406
+SP,campo limpo paulista,47,5581.77,47
+SP,campos do jordao,25,3913.12,25
+SP,cananeia,8,838.89,8
+SP,candido mota,16,1824.1000000000001,16
+SP,candido rodrigues,4,134.3,4
+SP,canitar,2,317.91999999999996,2
+SP,capao bonito,28,3622.16,28
+SP,capela do alto,3,1004.25,3
+SP,capivari,32,5252.8099999999995,32
+SP,caraguatatuba,83,13412.43,83
+SP,carapicuiba,316,36704.65,316
+SP,cardoso,6,1095.32,6
+SP,casa branca,13,1500.45,13
+SP,cassia dos coqueiros,1,90.17,1
+SP,castilho,10,3043.6,10
+SP,catanduva,72,10922.03,72
+SP,catigua,6,788.52,6
+SP,cedral,6,540.35,6
+SP,cerqueira cesar,18,4059.12,18
+SP,cerquilho,30,3861.71,30
+SP,cesario lange,13,2209.06,13
+SP,charqueada,10,1290.88,10
+SP,chavantes,12,1154.14,12
+SP,cipo-guacu,1,78.71,1
+SP,clementina,4,472.98,4
+SP,colina,9,762.25,9
+SP,colombia,5,457.24,5
+SP,conchal,19,2464.88,19
+SP,conchas,8,1229.22,8
+SP,cordeiropolis,15,1597.09,15
+SP,coroados,2,239.34,2
+SP,coronel macedo,2,118.25,2
+SP,corumbatai,2,74.13,2
+SP,cosmopolis,50,7645.2699999999995,50
+SP,cosmorama,6,1091.55,6
+SP,cotia,242,33665.27,242
+SP,cravinhos,24,2838.32,24
+SP,cristais paulista,4,600.64,4
+SP,cruzalia,3,348.25,3
+SP,cruzeiro,56,7458.77,56
+SP,cubatao,79,8171.42,79
+SP,cunha,14,3118.0,14
+SP,descalvado,13,1439.57,13
+SP,diadema,276,33305.0,276
+SP,divinolandia,7,1482.9,7
+SP,dobrada,2,508.9,2
+SP,dois corregos,11,1402.59,11
+SP,dourado,8,1098.35,8
+SP,dracena,27,5186.38,27
+SP,duartina,10,1453.3,10
+SP,dumont,3,336.91999999999996,3
+SP,echapora,2,847.25,2
+SP,eldorado,5,622.22,5
+SP,elias fausto,5,481.48,5
+SP,elisiario,1,64.1,1
+SP,embauba,1,414.81,1
+SP,embu,11,1719.66,11
+SP,embu das artes,157,22400.920000000002,157
+SP,embu-guacu,46,7062.82,46
+SP,emilianopolis,2,198.49,2
+SP,engenheiro balduino,1,205.54,1
+SP,engenheiro coelho,12,1186.47,12
+SP,espigao,2,100.52,2
+SP,espirito santo do pinhal,18,2464.28,18
+SP,espirito santo do turvo,2,268.84000000000003,2
+SP,estiva gerbi,7,1090.98,7
+SP,estrela d oeste,1,156.33,1
+SP,estrela d'oeste,1,257.45,1
+SP,estrela do norte,3,210.76999999999998,3
+SP,euclides da cunha paulista,2,186.39,2
+SP,fartura,10,2106.41,10
+SP,fernando prestes,6,696.5799999999999,6
+SP,fernandopolis,52,8366.45,52
+SP,fernao,1,40.85,1
+SP,ferraz de vasconcelos,109,17385.65,109
+SP,flora rica,1,237.26,1
+SP,floreal,2,225.0,2
+SP,florida paulista,4,416.53,4
+SP,florinia,1,57.61,1
+SP,franca,154,25275.25,154
+SP,francisco morato,94,9688.8,94
+SP,franco da rocha,108,11830.23,108
+SP,gabriel monteiro,1,48.72,1
+SP,galia,1,217.64,1
+SP,garca,27,3468.68,27
+SP,gastao vidigal,3,283.72,3
+SP,gaviao peixoto,2,142.04000000000002,2
+SP,general salgado,6,587.28,6
+SP,getulina,2,131.01999999999998,2
+SP,glicerio,2,366.88,2
+SP,guaicara,8,917.5600000000001,8
+SP,guaira,36,4423.03,36
+SP,guapiacu,6,995.55,6
+SP,guapiara,3,251.95,3
+SP,guara,7,1064.04,7
+SP,guaracai,5,767.11,5
+SP,guaraci,2,511.57,2
+SP,guaranta,5,715.01,5
+SP,guarapua,1,75.17,1
+SP,guararapes,18,1566.9,18
+SP,guararema,11,1370.41,11
+SP,guaratingueta,96,16593.2,96
+SP,guarei,5,1187.44,5
+SP,guariba,14,1810.72,14
+SP,guariroba,2,320.56,2
+SP,guaruja,217,32647.07,217
+SP,guarulhos,1144,157750.04,1144
+SP,guatapara,1,87.97,1
+SP,guzolandia,1,143.31,1
+SP,herculandia,3,220.64,3
+SP,holambra,23,3102.05,23
+SP,holambra ii,5,1012.82,5
+SP,hortolandia,142,18413.0,142
+SP,iacanga,6,427.95,6
+SP,iacri,2,81.62,2
+SP,iaras,1,93.57,1
+SP,ibate,12,1767.29,12
+SP,ibira,6,830.15,6
+SP,ibirarema,5,498.19,5
+SP,ibitinga,22,3368.45,22
+SP,ibitiuva,1,27.69,1
+SP,ibiuna,31,4009.93,31
+SP,icem,9,1043.6399999999999,9
+SP,iepe,5,368.51,5
+SP,igaracu do tiete,4,157.66,4
+SP,igarapava,7,897.02,7
+SP,igarata,5,843.87,5
+SP,iguape,14,1615.2,14
+SP,ilha comprida,3,254.85000000000002,3
+SP,ilha solteira,24,2694.73,24
+SP,ilhabela,44,3989.88,44
+SP,indaiatuba,274,41313.44,274
+SP,indiana,3,389.33,3
+SP,indiapora,3,404.14,3
+SP,inubia paulista,3,344.7,3
+SP,ipaussu,7,1409.26,7
+SP,ipero,18,3079.8,18
+SP,ipigua,2,287.65999999999997,2
+SP,ipua,4,2096.16,4
+SP,iracemapolis,18,1532.5,18
+SP,irape,2,429.29999999999995,2
+SP,irapua,4,268.14,4
+SP,irapuru,6,985.29,6
+SP,itabera,7,1522.98,7
+SP,itai,10,1972.66,10
+SP,itajobi,10,1915.73,10
+SP,itaju,3,1008.37,3
+SP,itanhaem,74,11370.65,74
+SP,itaoca,1,78.01,1
+SP,itapecerica da serra,93,9846.11,93
+SP,itapetininga,77,14048.46,77
+SP,itapeva,52,7300.21,52
+SP,itapevi,170,21190.41,170
+SP,itapira,52,7984.62,52
+SP,itapirapua paulista,2,514.0699999999999,2
+SP,itapolis,28,4026.78,28
+SP,itaporanga,12,2621.13,12
+SP,itapui,7,1430.8899999999999,7
+SP,itapura,6,426.6,6
+SP,itaquaquecetuba,168,21421.82,168
+SP,itarare,28,4520.99,28
+SP,itariri,6,1378.73,6
+SP,itatiba,97,13634.02,97
+SP,itatinga,4,1832.1,4
+SP,itirapina,2,179.21,2
+SP,itobi,7,591.42,7
+SP,itu,129,14236.31,129
+SP,itupeva,42,6039.66,42
+SP,ituverava,28,4325.59,28
+SP,jaborandi,3,166.38,3
+SP,jaboticabal,50,6776.97,50
+SP,jacare,8,952.58,8
+SP,jacarei,189,20939.76,189
+SP,jaci,2,143.41000000000003,2
+SP,jacupiranga,5,885.57,5
+SP,jaguariuna,60,9595.58,60
+SP,jales,28,3478.63,28
+SP,jamaica,1,71.85,1
+SP,jambeiro,4,395.03999999999996,4
+SP,jandira,84,9658.31,84
+SP,jardinopolis,13,1851.48,13
+SP,jarinu,18,1712.06,18
+SP,jau,73,10847.52,73
+SP,jeriquara,1,144.65,1
+SP,joanopolis,6,904.5100000000001,6
+SP,joao ramalho,3,479.57,3
+SP,jose bonifacio,12,1666.93,12
+SP,julio mesquita,2,984.59,2
+SP,jumirim,3,408.24,3
+SP,jundiai,549,90314.82,549
+SP,junqueiropolis,15,2505.96,15
+SP,juquia,9,880.09,9
+SP,juquitiba,21,3529.98,21
+SP,lagoinha,3,668.73,3
+SP,laranjal paulista,17,2583.82,17
+SP,lavinia,4,390.41,4
+SP,lavrinhas,1,621.35,1
+SP,leme,50,9157.01,50
+SP,lencois paulista,43,7565.48,43
+SP,limeira,186,26060.739999999998,186
+SP,lindoia,9,751.34,9
+SP,lins,54,10363.81,54
+SP,lorena,82,9137.71,82
+SP,lourdes,2,223.84,2
+SP,louveira,44,5615.7300000000005,44
+SP,lucelia,12,1147.89,12
+SP,lucianopolis,2,199.97,2
+SP,luis antonio,7,1131.43,7
+SP,luiziania,3,270.23,3
+SP,lupercio,3,172.11,3
+SP,lutecia,1,908.84,1
+SP,macatuba,12,3452.45,12
+SP,macaubal,1,121.91,1
+SP,macedonia,4,388.43,4
+SP,magda,2,496.07,2
+SP,mairinque,24,3235.0,24
+SP,mairipora,75,10363.16,75
+SP,manduri,3,287.21,3
+SP,maracai,8,1345.6,8
+SP,mariapolis,2,140.98000000000002,2
+SP,marilia,194,37219.88,194
+SP,marinopolis,2,188.98,2
+SP,maristela,4,731.42,4
+SP,martinopolis,8,4084.1099999999997,8
+SP,matao,51,8360.85,51
+SP,maua,317,48113.09,317
+SP,mendonca,4,289.08,4
+SP,meridiano,1,140.47,1
+SP,miguelopolis,14,2265.5,14
+SP,mineiros do tiete,3,257.34000000000003,3
+SP,mira estrela,1,213.56,1
+SP,miracatu,5,991.81,5
+SP,mirandopolis,13,1535.4099999999999,13
+SP,mirante do paranapanema,3,242.49,3
+SP,mirassol,29,6383.33,29
+SP,mococa,33,6758.87,33
+SP,mogi das cruzes,374,56778.42,374
+SP,mogi mirim,75,9974.89,75
+SP,mogi-guacu,89,13123.01,89
+SP,mogi-mirim,2,112.61,2
+SP,mombuca,3,144.47,3
+SP,moncoes,2,379.13,2
+SP,mongagua,41,6027.55,41
+SP,monte alegre do sul,6,4360.38,6
+SP,monte alto,32,2870.52,32
+SP,monte aprazivel,10,1186.5,10
+SP,monte azul paulista,19,3287.1,19
+SP,monte castelo,1,106.89,1
+SP,monte mor,38,5039.0,38
+SP,morro agudo,9,1967.96,9
+SP,morungaba,7,708.3199999999999,7
+SP,motuca,2,182.29,2
+SP,murutinga do sul,2,855.71,2
+SP,nantes,1,91.05,1
+SP,narandiba,2,436.65999999999997,2
+SP,natividade da serra,1,138.89,1
+SP,nazare paulista,7,934.33,7
+SP,neves paulista,3,154.32,3
+SP,nhandeara,7,698.47,7
+SP,nipoa,2,372.35,2
+SP,nossa senhora do remedio,2,163.29000000000002,2
+SP,nova campina,2,209.51999999999998,2
+SP,nova canaa paulista,2,139.15,2
+SP,nova europa,8,760.89,8
+SP,nova granada,19,2122.45,19
+SP,nova guataporanga,1,117.76,1
+SP,nova independencia,1,34.86,1
+SP,nova luzitania,1,34.75,1
+SP,nova odessa,37,5060.27,37
+SP,novais,1,111.99,1
+SP,novo horizonte,16,2986.14,16
+SP,nuporanga,3,895.41,3
+SP,ocaucu,5,320.77,5
+SP,oleo,1,73.34,1
+SP,olimpia,36,6365.150000000001,36
+SP,onda verde,1,89.49,1
+SP,oriente,3,1075.02,3
+SP,orindiuva,5,629.59,5
+SP,orlandia,28,4552.4,28
+SP,osasco,724,92461.02,724
+SP,oscar bressane,3,339.93,3
+SP,osvaldo cruz,16,2124.36,16
+SP,ourinhos,77,14325.33,77
+SP,ouro verde,3,356.03999999999996,3
+SP,ouroeste,11,1437.57,11
+SP,pacaembu,6,1595.07,6
+SP,palestina,10,634.5699999999999,10
+SP,palmares paulista,1,70.93,1
+SP,palmeira d oeste,1,64.42,1
+SP,palmeira d'oeste,5,396.90999999999997,5
+SP,palmital,18,2122.0299999999997,18
+SP,panorama,5,474.64,5
+SP,paraguacu paulista,20,3067.31,20
+SP,paraibuna,10,1810.75,10
+SP,paraiso,5,848.74,5
+SP,paranapanema,11,759.71,11
+SP,paranapua,2,87.80000000000001,2
+SP,parapua,8,1345.83,8
+SP,pardinho,1,355.06,1
+SP,pariquera-acu,15,2065.21,15
+SP,parisi,1,46.34,1
+SP,patrocinio paulista,2,1147.46,2
+SP,pauliceia,2,496.12,2
+SP,paulinia,127,18545.23,127
+SP,paulistania,1,116.94,1
+SP,paulo de faria,5,656.48,5
+SP,pederneiras,21,3450.01,21
+SP,pedra bela,2,279.31,2
+SP,pedranopolis,1,74.41,1
+SP,pedregulho,2,1122.18,2
+SP,pedreira,36,3391.29,36
+SP,pedrinhas paulista,4,485.48,4
+SP,pedro de toledo,8,893.26,8
+SP,penapolis,37,5549.28,37
+SP,pereira barreto,18,4460.09,18
+SP,pereiras,1,69.69,1
+SP,peruibe,43,7697.97,43
+SP,piacatu,1,74.13,1
+SP,piedade,22,2919.16,22
+SP,pilar do sul,12,1225.32,12
+SP,pindamonhangaba,98,14205.22,98
+SP,pindorama,2,405.52,2
+SP,pinhalzinho,12,1537.96,12
+SP,pinheiros,1,213.83,1
+SP,piquerobi,1,112.45,1
+SP,piquete,9,945.86,9
+SP,piracaia,21,2866.91,21
+SP,piracicaba,356,55621.16,356
+SP,piraju,17,5054.76,17
+SP,pirajui,12,1789.32,12
+SP,pirangi,7,1189.13,7
+SP,pirapora do bom jesus,16,3067.54,16
+SP,pirapozinho,14,1582.47,14
+SP,pirassununga,69,9868.55,69
+SP,piratininga,8,1716.05,8
+SP,pitangueiras,16,1634.64,16
+SP,planalto,1,83.06,1
+SP,poa,85,10803.789999999999,85
+SP,poloni,3,222.41,3
+SP,pompeia,17,2252.95,17
+SP,pongai,4,429.05000000000007,4
+SP,pontal,12,1333.05,12
+SP,pontalinda,2,84.75,2
+SP,pontes gestal,1,135.08,1
+SP,populina,1,71.3,1
+SP,porangaba,2,195.63,2
+SP,porto feliz,21,3365.57,21
+SP,porto ferreira,26,2130.07,26
+SP,potim,2,279.84,2
+SP,potirendaba,8,842.8399999999999,8
+SP,pradopolis,10,1081.31,10
+SP,praia grande,296,43271.51,296
+SP,presidente alves,2,140.42000000000002,2
+SP,presidente bernardes,5,579.56,5
+SP,presidente epitacio,23,3014.15,23
+SP,presidente prudente,157,29166.5,157
+SP,presidente venceslau,22,3410.87,22
+SP,primavera,9,1166.01,9
+SP,promissao,31,4742.35,31
+SP,quadra,3,501.88,3
+SP,quata,12,3417.29,12
+SP,queiroz,1,58.9,1
+SP,queluz,2,249.89999999999998,2
+SP,quintana,4,435.84999999999997,4
+SP,rafard,5,659.46,5
+SP,rancharia,21,3006.84,21
+SP,rechan,2,322.37,2
+SP,redencao da serra,1,106.23,1
+SP,regente feijo,10,1088.31,10
+SP,reginopolis,3,1719.32,3
+SP,registro,45,6809.21,45
+SP,ribeira,3,248.03,3
+SP,ribeirao bonito,7,846.12,7
+SP,ribeirao branco,2,515.49,2
+SP,ribeirao do sul,3,415.45,3
+SP,ribeirao pires,107,11780.65,107
+SP,ribeirao preto,499,74211.13,499
+SP,rifaina,2,597.77,2
+SP,rincao,1,97.63,1
+SP,rinopolis,2,134.56,2
+SP,rio claro,151,22544.2,151
+SP,rio das pedras,10,1205.56,10
+SP,rio grande da serra,25,2577.7400000000002,25
+SP,riolandia,3,470.31000000000006,3
+SP,riversul,1,102.03,1
+SP,rosana,4,295.31,4
+SP,roseira,5,490.14,5
+SP,rubiacea,2,250.15,2
+SP,rubineia,1,112.2,1
+SP,sabino,3,802.87,3
+SP,sales,5,433.12,5
+SP,sales oliveira,6,627.74,6
+SP,salesopolis,10,1310.96,10
+SP,salmourao,2,90.27,2
+SP,saltinho,5,1316.35,5
+SP,salto,89,11601.09,89
+SP,salto de pirapora,12,1153.56,12
+SP,salto grande,1,674.34,1
+SP,santa adelia,15,1861.06,15
+SP,santa albertina,7,830.4200000000001,7
+SP,santa barbara d oeste,4,214.76,4
+SP,santa barbara d'oeste,118,14980.13,118
+SP,santa branca,9,953.35,9
+SP,santa clara d'oeste,1,115.44,1
+SP,santa cruz da conceicao,4,476.27,4
+SP,santa cruz das palmeiras,9,736.51,9
+SP,santa cruz do rio pardo,34,3126.23,34
+SP,santa ernestina,2,280.13,2
+SP,santa fe do sul,34,4605.21,34
+SP,santa gertrudes,11,1471.05,11
+SP,santa isabel,28,3181.2400000000002,28
+SP,santa lucia,3,454.26,3
+SP,santa maria da serra,2,169.42,2
+SP,santa mercedes,2,269.57,2
+SP,santa rita d'oeste,3,219.73,3
+SP,santa rita do passa quatro,18,2479.13,18
+SP,santa rosa de viterbo,13,1975.27,13
+SP,santa salete,1,95.0,1
+SP,santana de parnaiba,178,25866.02,178
+SP,santo anastacio,17,2240.33,17
+SP,santo andre,777,101772.62,777
+SP,santo antonio da alegria,3,250.03,3
+SP,santo antonio de posse,20,5393.22,20
+SP,santo antonio do aracangua,1,1117.99,1
+SP,santo antonio do jardim,4,294.35,4
+SP,santo antonio do pinhal,2,1252.69,2
+SP,santo expedito,1,293.46,1
+SP,santos,700,111170.11,700
+SP,sao bento do sapucai,7,788.06,7
+SP,sao bernardo do campo,911,116785.21,911
+SP,sao caetano do sul,272,36430.82,272
+SP,sao carlos,231,33906.41,231
+SP,sao francisco,2,166.72,2
+SP,sao joao da boa vista,80,13428.77,80
+SP,sao joao de iracema,3,213.38,3
+SP,sao joaquim da barra,34,4808.58,34
+SP,sao jose da bela vista,3,379.07000000000005,3
+SP,sao jose do barreiro,3,260.89,3
+SP,sao jose do rio pardo,44,5971.05,44
+SP,sao jose do rio preto,329,53296.63,329
+SP,sao jose dos campos,667,86492.5,667
+SP,sao lourenco da serra,12,1357.03,12
+SP,sao luis do paraitinga,3,945.99,3
+SP,sao manuel,20,3403.6,20
+SP,sao miguel arcanjo,13,1554.3899999999999,13
+SP,sao paulo,15045,2108162.22,15045
+SP,sao pedro,12,3903.33,12
+SP,sao pedro do turvo,2,117.9,2
+SP,sao roque,75,10721.19,75
+SP,sao sebastiao,56,8813.789999999999,56
+SP,sao sebastiao da grama,4,1102.02,4
+SP,sao sebastiao da serra,1,171.35,1
+SP,sao simao,10,1439.29,10
+SP,sao vicente,157,21462.45,157
+SP,sarapui,2,280.89,2
+SP,sarutaia,1,71.82,1
+SP,serra azul,1,108.52,1
+SP,serra negra,13,3522.56,13
+SP,serrana,13,1115.27,13
+SP,sertaozinho,61,7829.73,61
+SP,sete barras,4,302.52,4
+SP,severinia,5,556.45,5
+SP,silveiras,3,474.25,3
+SP,socorro,19,2640.22,19
+SP,sorocaba,609,85053.31,609
+SP,sud mennucci,5,448.01,5
+SP,sumare,178,24367.33,178
+SP,suzanapolis,1,88.94,1
+SP,suzano,230,28159.46,230
+SP,tabapua,12,1535.21,12
+SP,tabatinga,5,487.11,5
+SP,taboao da serra,284,39300.68,284
+SP,taciba,2,419.6,2
+SP,taguai,10,873.56,10
+SP,taiacu,1,70.51,1
+SP,taiuva,5,1010.13,5
+SP,tambau,19,1823.49,19
+SP,tanabi,11,1666.88,11
+SP,tapinas,1,135.08,1
+SP,tapirai,2,140.53,2
+SP,tapiratiba,12,2835.28,12
+SP,taquaritinga,33,5237.07,33
+SP,taquarituba,15,2799.3500000000004,15
+SP,taquarivai,3,738.9000000000001,3
+SP,tarabai,5,1174.4,5
+SP,taruma,9,1189.95,9
+SP,tatui,72,12752.93,72
+SP,taubate,260,33717.73,260
+SP,tecainda,1,165.13,1
+SP,tejupa,3,382.4,3
+SP,teodoro sampaio,12,1473.9099999999999,12
+SP,termas de ibira,1,87.15,1
+SP,terra roxa,2,193.48,2
+SP,tiete,35,4792.73,35
+SP,timburi,3,390.86,3
+SP,torrinha,6,519.4200000000001,6
+SP,trabiju,1,279.91,1
+SP,tremembe,38,5462.7,38
+SP,tres fronteiras,5,434.82,5
+SP,tuiuti,1,60.85,1
+SP,tupa,52,7490.94,52
+SP,tupi paulista,6,577.19,6
+SP,turmalina,1,46.23,1
+SP,ubatuba,72,9536.95,72
+SP,ubirajara,1,96.09,1
+SP,uchoa,3,641.29,3
+SP,urania,4,980.28,4
+SP,urupes,10,1313.27,10
+SP,valentim gentil,3,418.87,3
+SP,valinhos,181,25190.98,181
+SP,valparaiso,8,658.49,8
+SP,vargem,2,101.5,2
+SP,vargem grande do sul,12,990.68,12
+SP,vargem grande paulista,43,5368.150000000001,43
+SP,varzea paulista,75,12093.68,75
+SP,venda branca,1,134.83,1
+SP,vera cruz,9,1066.9499999999998,9
+SP,vinhedo,90,10382.01,90
+SP,viradouro,18,2480.93,18
+SP,vista alegre do alto,3,327.66999999999996,3
+SP,votorantim,84,12085.64,84
+SP,votuporanga,63,9760.03,63
+SP,zacarias,2,229.85,2
+TO,alianca do tocantins,2,264.0,2
+TO,almas,1,113.56,1
+TO,alvorada,6,1954.44,6
+TO,ananas,1,122.76,1
+TO,aparecida do rio negro,1,172.58,1
+TO,araguacu,1,162.86,1
+TO,araguaina,38,8946.12,38
+TO,araguatins,5,859.9,5
+TO,arapoema,1,98.57,1
+TO,arraias,2,254.23000000000002,2
+TO,augustinopolis,1,144.89,1
+TO,bandeirantes do tocantins,2,432.20000000000005,2
+TO,barrolandia,2,124.53999999999999,2
+TO,buriti do tocantins,1,86.79,1
+TO,cariri do tocantins,2,354.26,2
+TO,carmolandia,1,167.45,1
+TO,centenario,1,162.47,1
+TO,colinas do tocantins,3,643.0799999999999,3
+TO,colmeia,2,180.69,2
+TO,combinado,1,54.63,1
+TO,conceicao do tocantins,3,433.96999999999997,3
+TO,couto de magalhaes,2,242.63,2
+TO,cristalandia,3,1067.93,3
+TO,dianopolis,7,1165.41,7
+TO,divinopolis do tocantins,1,139.27,1
+TO,duere,1,158.77,1
+TO,esperantina,1,122.58,1
+TO,fatima,1,95.64,1
+TO,formoso do araguaia,4,354.12,4
+TO,goianorte,2,229.5,2
+TO,guarai,4,1459.3700000000001,4
+TO,gurupi,24,6192.18,24
+TO,lagoa da confusao,5,929.74,5
+TO,lajeado,1,175.1,1
+TO,miranorte,2,733.42,2
+TO,natividade,1,435.27,1
+TO,nova olinda,1,56.79,1
+TO,novo alegre,1,319.09,1
+TO,novo jardim,1,60.98,1
+TO,palmas,88,21345.829999999998,88
+TO,paraiso do tocantins,10,2238.86,10
+TO,parana,2,195.25,2
+TO,pedro afonso,3,368.9,3
+TO,peixe,1,117.16,1
+TO,pequizeiro,1,253.98,1
+TO,pindorama do tocantins,2,174.18,2
+TO,pium,1,45.63,1
+TO,porto nacional,8,1911.38,8
+TO,praia norte,1,113.35,1
+TO,pugmil,1,148.15,1
+TO,sandolandia,1,841.28,1
+TO,silvanopolis,1,273.88,1
+TO,sitio novo do tocantins,2,476.27,2
+TO,taguatinga,3,454.45000000000005,3
+TO,tocantinopolis,7,947.28,7
+TO,xambioa,3,429.76,3

@@ -1,0 +1,4 @@
+customer_segment,customer_count,avg_lifetime_value,avg_orders,avg_lifespan_days
+"Low Value",76936,93.190972,1.0000,0.0000
+"High Value",4076,924.849887,1.0000,0.0000
+"Medium Value",15465,289.882509,1.0000,0.0000
