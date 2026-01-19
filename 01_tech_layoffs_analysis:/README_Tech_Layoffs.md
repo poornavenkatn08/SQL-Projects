@@ -1,100 +1,65 @@
 
-# Tech Industry Layoffs Analysis
 
-## 🎯 Project Overview
-Comprehensive analysis of tech industry layoffs using SQL to identify trends, patterns, and insights from real-world data.
+# 📉 Tech Industry Layoffs: Data Engineering & Analysis Pipeline
 
-## 📊 Dataset Information
-- **Source**: Layoffs.fyi and various tech news sources
-- **Size**: 2,000+ records
-- **Time Period**: 2020-2024
-- **Industries**: 15+ tech sectors
-- **Companies**: 500+ organizations
+## 📌 Project Overview
 
-## 🛠️ Technical Approach
+This project presents a comprehensive end-to-end SQL solution for processing and analyzing global tech layoff data. Using **MySQL**, I built a robust pipeline that transforms raw, messy data into a clean, analytical-ready format to uncover trends regarding industry volatility, geographic impact, and company-stage risk assessments from 2020 to 2023.
 
-### Data Cleaning Process
-1. **Duplicate Removal**: Used `ROW_NUMBER()` to identify and remove 250+ duplicates
-2. **Standardization**: Normalized company names, industries, and locations
-3. **Date Conversion**: Converted string dates to SQL DATE format
-4. **Null Handling**: Implemented business rules for missing values
+## 📊 Dataset Insights
 
-### Analysis Methodology
-1. **Trend Analysis**: Year-over-year layoff patterns
-2. **Company Analysis**: Top affected organizations
-3. **Industry Impact**: Sector-wise layoff distribution
-4. **Geographic Analysis**: Regional patterns and trends
+* **Total Records:** 2,361
+* **Unique Companies:** 1,893
+* **Global Impact:** 386,379+ layoffs across 60 countries
+* **Timeframe:** March 2020 – March 2023
 
-## 📈 Key Findings
+## 🛠️ Project Phases
 
-### Executive Summary
-- **Total Layoffs Analyzed**: 150,000+ positions
-- **Peak Layoff Period**: Q4 2022 - Q2 2023
-- **Most Affected Industry**: Social Media/Platforms
-- **Geographic Impact**: Highest in Bay Area, Seattle
+### Phase 1: Data Engineering & Cleaning (ETL)
 
-### Detailed Insights
-- 45% of layoffs occurred in the first half of 2023
-- Meta, Amazon, and Twitter led in absolute numbers
-- Startups had higher layoff rates (% of workforce) than established companies
-- Remote-first companies showed different patterns than office-based
+The primary challenge was the inconsistency of the raw data. I implemented a multi-stage cleaning process in `01_data_cleaning.sql`:
 
-## 🚀 How to Run
-
-### Prerequisites
-- MySQL 8.0+
-- Minimum 2GB RAM
-- 500MB disk space
-
-### Setup Instructions
-1. **Database Setup**
-   ```sql
-   source sql/01_database_setup.sql
-   ```
-
-2. **Data Import**
-   ```sql
-   source sql/02_data_import.sql
-   ```
-
-3. **Run Analysis**
-   ```sql
-   source sql/03_data_cleaning.sql
-   source sql/04_exploratory_eda.sql
-   ```
-
-## 📁 File Descriptions
-
-| File | Purpose | Key Techniques |
-|------|---------|----------------|
-| `01_database_setup.sql` | Database/table creation | DDL, Constraints |
-| `02_data_cleaning.sql` | Data standardization | ROW_NUMBER(), CASE, TRIM |
-| `03_exploratory_eda.sql` | Basic analysis | Aggregations, GROUP BY |
+* **Staging Environments:** Created redundant staging tables (`layoffs_staging` and `v2`) to perform non-destructive cleaning and ensure data safety.
+* **Advanced Deduplication:** Utilized **Window Functions** (`ROW_NUMBER()`) partitioned across all columns to identify and remove duplicate entries.
+* **Data Standardization:**
+* Fixed industry inconsistencies (e.g., standardizing 'Crypto', 'Crypto Currency', and 'CryptoCurrency').
+* Cleaned trailing punctuation and naming variations in country fields (e.g., 'United States.').
+* Converted string-based dates to `DATE` format using `STR_TO_DATE` to enable time-series analysis.
 
 
-## 🎯 Skills Demonstrated
+* **Data Imputation:** Performed **Self-Joins** to backfill missing `industry` data by matching records for the same company and location.
+* **Precision Filtering:** Removed entries with insufficient data (nulls in both total and percentage fields) to maintain the integrity of statistical averages.
 
-### Technical Skills
-- **Data Cleaning**: Deduplication, standardization, validation
-- **Window Functions**: ROW_NUMBER(), RANK(), LAG(), LEAD()
-- **Analytics**: Trend analysis, cohort analysis, statistical functions
-- **Performance**: Query optimization, indexing strategies
+### Phase 2: Exploratory Data Analysis (EDA)
 
-### Business Skills
-- **Problem Solving**: Handling messy, real-world data
-- **Insight Generation**: Translating data into actionable insights
-- **Communication**: Clear documentation and presentation
+In `02_exploratory_analysis.sql`, I developed complex queries to extract business intelligence:
 
-## 🔄 Future Enhancements
-- [ ] Add predictive modeling for future layoff trends
-- [ ] Implement real-time data pipeline
-- [ ] Create interactive dashboard
-- [ ] Add sentiment analysis from news sources
+* **Temporal Trends:** Calculated year-over-year growth and **3-month rolling averages** to visualize layoff surges over time.
+* **Company Benchmarking:** Used `DENSE_RANK()` to identify the top 5 companies by layoff volume for each year.
+* **Risk Profiling:** Analyzed "Shutdown Rates" (100% layoffs) by company funding stage and industry sector.
+* **Geographic Analysis:** Identified the top countries by total employees affected to understand the epicenter of market contraction.
 
-## 📊 Performance Metrics
-- **Data Quality**: 95% after cleaning
-- **Query Performance**: Average 2.3s execution time
-- **Coverage**: 500+ companies across 15 industries
+## 🚀 Key Insights
 
-## 📞 Questions? 
-Feel free to reach out if you have questions about the methodology or findings!
+1. **Post-IPO Vulnerability:** While early-stage startups had higher total shutdown rates, **Post-IPO companies** accounted for the vast majority of total employees displaced.
+2. **Industry Clusters:** The **Consumer** and **Retail** sectors were the most volatile, showing the highest frequency of layoff events globally.
+3. **Seasonality:** Analysis of monthly trends revealed specific periods of high risk (e.g., January surges), assisting in forecasting workforce market shifts.
+
+## 📂 File Structure
+
+* `01_data_cleaning.sql`: SQL script for database setup, table creation, and the ETL pipeline.
+* `02_exploratory_analysis.sql`: SQL script for statistical analysis, window functions, and KPI generation.
+* `layoffs_Raw.csv`: The original uncleaned dataset (2,300+ rows).
+
+## ⚙️ Setup Instructions
+
+1. **Database Creation:** Execute the `CREATE DATABASE` and `CREATE TABLE` commands found at the top of the scripts.
+2. **Data Import:** Import `layoffs_Raw.csv` into your `layoffs_raw` table using the MySQL Table Data Import Wizard.
+3. **Run Pipeline:** * Execute the cleaning script to generate the `layoffs_cleaned` table.
+* Execute the analysis script to generate the insights and dashboard metrics.
+
+
+
+---
+
+**Poorna Venkat Neelakantam** [LinkedIn](https://www.linkedin.com/in/pneelakantam/) | [Email](mailto:pvneelakantam@gmail.com) | [GitHub](https://github.com/poornavenkatn08)
