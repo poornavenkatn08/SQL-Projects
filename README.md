@@ -6,7 +6,7 @@ Welcome to my SQL portfolio. This repository is a collection of end-to-end proje
 
 ## 🚀 Featured Projects
 
-### 1. [SaaS Customer Churn Prediction & Retention Analytics](./03-Saas Customer Churn Analytics/)
+### 1. [SaaS Customer Churn Prediction & Retention Analytics](./03-SaaS_Customer_Churn_Analytics/)
 
 **Focus:** Multi-Table Churn Analysis, Revenue Impact Quantification, RFM Health Scoring, Cohort Retention
 
